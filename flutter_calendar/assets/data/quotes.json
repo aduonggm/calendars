@@ -1,0 +1,4947 @@
+[
+  {
+    "idIdiom": "1867",
+    "contentIdiom": "Cá không ăn muối cá ươn\r\nCon cãi cha mẹ trăm đường con hư.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1868",
+    "contentIdiom": "Anh em bốn bể là nhà \r\nNgười dưng khác họ vẫn là anh em.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1869",
+    "contentIdiom": "Ai ơi chẳng chóng thì chầy\r\nCó công mài sắt, có ngày nên kim.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1870",
+    "contentIdiom": "Ai ơi bưng bát cơm đầy \r\nDẻo thơm một hạt, đắng cay muôn phần.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1871",
+    "contentIdiom": "Ai ơi đừng bỏ ruộng hoang\r\nBao nhiêu tấc đất tấc vàng bấy nhiêu.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1872",
+    "contentIdiom": "Cái nết đánh chết cái đẹp.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1873",
+    "contentIdiom": "Con hơn cha là nhà có phúc.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1874",
+    "contentIdiom": "Chim quyên ăn trái nhãn lồng\r\nLia thia quen chậu, vợ chồng quen hơi.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1875",
+    "contentIdiom": "Con không chê cha mẹ khó\r\nChó không chê chủ nhà nghèo.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1876",
+    "contentIdiom": "Con sâu làm rầu nồi canh\r\nMột người làm xấu, nhơ danh cả nhà.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1877",
+    "contentIdiom": "Có cha có mẹ thì hơn\r\nKhông cha không mẹ như đờn đứt dây.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1878",
+    "contentIdiom": "Công cha như núi Thái Sơn \r\nNghĩa mẹ như nước trong nguồn chảy ra \r\nMột lòng thờ mẹ kính cha \r\nCho tròn chữ hiếu mới là đạo con.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1879",
+    "contentIdiom": "Dạy con từ thuở còn thơ \r\nDạy vợ từ thuở bơ vơ mới về.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1880",
+    "contentIdiom": "Dã tràng xe cát biển Đông \r\nNhọc nhằn mà chẳng nên công cán gì.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1881",
+    "contentIdiom": "Đói lòng ăn nắm lá sung \r\nChồng một thì lấy, chồng chung thì đừng.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1882",
+    "contentIdiom": "Giặc đến nhà, đàn bà cũng đánh.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1883",
+    "contentIdiom": "Một giọt máu đào hơn ao nước lã.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1884",
+    "contentIdiom": "Giỏ nhà ai, quai nhà nấy.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1885",
+    "contentIdiom": "Ếch kêu uôm uôm, ao chuôm đầy nước.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1886",
+    "contentIdiom": "Kính già, già để tuổi cho.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1887",
+    "contentIdiom": "Nhân chi sơ, tính bản thiện.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1888",
+    "contentIdiom": "Tháng bảy heo may, chuồn chuồn bay thì bão.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1889",
+    "contentIdiom": "Thứ nhất thì tu tại gia \r\nThứ nhì tu chợ, thứ ba tu chùa.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1890",
+    "contentIdiom": "Trai khôn kén vợ chợ đông \r\nGái khôn tìm chồng giữa chốn ba quân.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1891",
+    "contentIdiom": "Tất cả hoa quí trên đời \r\nKhông bằng hai tiếng mỉm cười mẹ cha.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1892",
+    "contentIdiom": "Tiên học lễ, hậu học văn.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1893",
+    "contentIdiom": "Miếng ngon nhớ lâu, đòn đau nhớ đời.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1894",
+    "contentIdiom": "Ai ơi đừng lấy học trò \r\nDài lưng tốn vải ăn no lại nằm \r\nHay nằm thời có võng đào \r\nDài lưng thời có áo chào nhà vua \r\nHay ăn thời có gạo kho \r\nViệc gì mà chẳng ăn no lại nằm.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1895",
+    "contentIdiom": "Mẹ còn chẳng biết là may \r\nMẹ mất mới tiếc những ngày làm con.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1896",
+    "contentIdiom": "Ăn không nên đọi, nói không nên lời.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1897",
+    "contentIdiom": "Rủ nhau đi cấy, đi cày\r\nBây giờ khó nhọc có ngày phong lưu \r\nTrên đồng cạn dưới đồng sâu\r\nChồng cày vợ cấy con trâu đi bừa.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1898",
+    "contentIdiom": "Một cây làm chẳng nên non\r\nBa cây chụm lại thành hòn núi cao.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1899",
+    "contentIdiom": "Giàu đâu những kẻ ngủ trưa \r\nSang đâu đến kẻ say sưa tối ngày.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1900",
+    "contentIdiom": "Dù ai đi ngược về xuôi \r\nNhớ ngày giỗ tổ mồng mười tháng ba.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1903",
+    "contentIdiom": "Ăn bữa giỗ, lỗ bữa cày.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1904",
+    "contentIdiom": "Trời sinh voi, trời sinh cỏ.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1905",
+    "contentIdiom": "Có thờ có thiêng, có kiêng có lành.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1906",
+    "contentIdiom": "Chiều chiều ra đứng ngõ sau \r\nTrông về quê mẹ ruột đau chín chiều.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1907",
+    "contentIdiom": "Yêu nhau cau sáu bổ ba\r\nGhét nhau cau sáu bổ ra làm mười.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1908",
+    "contentIdiom": "Yêu nhau yêu cả đường đi\r\nGhét nhau ghét cả tông chi họ hàng.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1909",
+    "contentIdiom": "Chim khôn kêu tiếng rảnh rang \r\nNgười khôn nói tiếng dịu dàng dễ nghe.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1910",
+    "contentIdiom": "Con không cha như nhà không nóc \r\nCon không mẹ con khóc tối ngày.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1911",
+    "contentIdiom": "Con vua thì được làm vua \r\nCon sãi ở chùa thì quét lá đa.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1912",
+    "contentIdiom": "Cờ bạc là bác thằng bần \r\nCửa nhà bán hết, tra chân vào cùm.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1913",
+    "contentIdiom": "Đói lòng ăn hạt chà là \r\nĐể cơm nuôi mẹ, mẹ già yếu răng.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1914",
+    "contentIdiom": "Gió mùa thu mẹ đưa con ngủ \r\nNăm canh dài thức đủ năm canh.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1915",
+    "contentIdiom": "Chớp đông nhay nháy, gà gáy thì mưa \r\nTháng ba mưa đám, tháng tám mưa cơn.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1916",
+    "contentIdiom": "Không thầy đố mày làm nên.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1917",
+    "contentIdiom": "Thức lâu mới biết đêm dài \r\nỞ lâu mới biết là người có nhân.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1918",
+    "contentIdiom": "Trúc xinh trúc mọc bờ ao \r\nEm xinh em đứng chỗ nào cũng xinh.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1919",
+    "contentIdiom": "Nói lời phải giữ lấy lời \r\nĐừng như con bướm đậu rồi lại bay.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1920",
+    "contentIdiom": "Mẹ cha là biển là trời \r\nLàm con sao dám cãi lời mẹ cha.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1921",
+    "contentIdiom": "Lúa chiêm nép ở đầu bờ\r\nHễ nghe tiếng sấm mở cờ mà lên.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1922",
+    "contentIdiom": "Bầu ơi thương lấy bí cùng \r\nTuy rằng khác giống nhưng chung một giàn.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1923",
+    "contentIdiom": "Đi một ngày đàng, học một sàng khôn.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1924",
+    "contentIdiom": "Học ăn, học nói, học gói, học mở.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1925",
+    "contentIdiom": "Ở hiền thì lại gặp lành \r\nNhững người nhân đức trời dành phước cho.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1926",
+    "contentIdiom": "Gần mực thì đen, gần đèn thì sáng.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1927",
+    "contentIdiom": "Cái răng cái tóc là góc con người.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1928",
+    "contentIdiom": "Dao sắc không gọt được chuôi.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1929",
+    "contentIdiom": "Gieo gió gặp bão.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1930",
+    "contentIdiom": "Con người có tổ có tông \r\nNhư cây có cội, như sông có nguồn.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1931",
+    "contentIdiom": "Chết vinh còn hơn sống nhục.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1932",
+    "contentIdiom": "Dù ai buôn đâu bán đâu \r\nMồng mười tháng chín chọi trâu thì về.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1933",
+    "contentIdiom": "Thương nhau mấy núi cũng trèo \r\nMấy sông cũng lội, mấy đèo cũng qua.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1934",
+    "contentIdiom": "Mẹ già như chuối chín cây \r\nGió đưa mẹ rụng, con phải mồ côi.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1935",
+    "contentIdiom": "Cha mẹ sinh con, trời sinh tính.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1936",
+    "contentIdiom": "Yêu trẻ, trẻ đến nhà; kính già, già để phúc cho.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1937",
+    "contentIdiom": "Có làm thì mới có ăn \r\nKhông dưng ai dễ đem phần tới cho.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1938",
+    "contentIdiom": "Kính trên nhường dưới.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1939",
+    "contentIdiom": "Trẻ cậy cha, già cậy con.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1940",
+    "contentIdiom": "Làm trai cố chí học hành \r\nLập nên công nghiệp để dành mai sau.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1941",
+    "contentIdiom": "Chim trời ai dễ đếm lông \r\nNuôi con ai dễ kể công tháng ngày.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1942",
+    "contentIdiom": "Thuyền ơi có nhớ bến chăng \r\nBến thì một dạ khăng khăng nhớ thuyền.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1943",
+    "contentIdiom": "Đêm đêm ra thắp đèn trời \r\nCầu cho cha mẹ sống đời với con.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1944",
+    "contentIdiom": "Đời cha ăn mặn đời con khát nước.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1945",
+    "contentIdiom": "Ăn đi giỗ trước, lội nước theo sau.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1946",
+    "contentIdiom": "Ăn được, ngủ được là tiên \r\nKhông ăn không ngủ, mất tiền thêm lo.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1947",
+    "contentIdiom": "Anh đã có vợ hay chưa? \r\nMà anh ăn nói gió đưa ngọt ngào \r\nMẹ già anh ở nơi nao?\r\nĐể em tìm vào hầu hạ thay anh.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1948",
+    "contentIdiom": "Anh đi anh nhớ quê nhà\r\nNhớ canh rau muống, nhớ cà dầm tương.\r\nNhớ ai dãi nắng dầm sương\r\nNhớ ai tát nước bên đường hôm nao.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1949",
+    "contentIdiom": "Ba đồng một mớ đàn ông \r\nĐem bỏ vào lồng cho kiến nó tha.\r\nBa trăm một mụ đàn bà \r\nĐem về mà trải chiếu hoa cho ngồi.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1950",
+    "contentIdiom": "Ba đồng một mớ trầu cay \r\nSao anh không hỏi những ngày còn không? \r\nBây giờ em đã có chồng \r\nNhư chim vào lồng, như cá cắn câu. \r\nCá cắn câu biết đâu mà gỡ \r\nChim vào lồng biết thuở nào ra.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1951",
+    "contentIdiom": "Ba năm ở với người đần \r\nChẳng bằng một lúc ghé gần người khôn.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1952",
+    "contentIdiom": "Bà già đi chợ Cầu Bông \r\nBói xem một quẻ lấy chồng lợi chăng? \r\nXem rằng ông mới bói rằng: \r\nLợi thì có lợi, nhưng răng chẳng còn.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1953",
+    "contentIdiom": "Bạn nghèo thuở trước chớ quên \r\nVợ cùng kham khổ, chẳng nên phụ tình.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1954",
+    "contentIdiom": "Bao giờ cho đến tháng Mười \r\nThổi nồi cơm nếp vừa cười vừa ăn.\r\nBao giờ cho đến tháng Năm \r\nThổi nồi cơm nếp vừa nằm vừa ăn.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1955",
+    "contentIdiom": "Bao giờ chạch đẻ ngọn đa \r\nSáo đẻ dưới nước thì ta lấy mình.\r\nBao giờ cây cải làm đình \r\nGỗ lim thái ghém thì mình lấy ta.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1956",
+    "contentIdiom": "Bầu ơi thương lấy bí cùng \r\nTuy rằng khác giống, nhưng chung một giàn.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1957",
+    "contentIdiom": "Buồn trông chênh chếch sao mai \r\nSao ơi, sao hỡi nhớ ai sao mờ? \r\nBuồn trông con nhện giăng tơ \r\nNhện ơi, nhện hỡi, nhện chờ mối ai?",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1958",
+    "contentIdiom": "Bực mình chẳng muốn nói ra \r\nMuốn đi ăn giỗ chẳng ma nào mời.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1959",
+    "contentIdiom": "Con nuôi cha không bằng bà nuôi ông.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1960",
+    "contentIdiom": "Muốn ăn cơm trắng cá thèn\r\nThì về Đa Bút đi rèn với anh.\r\nMột ngày ba bữa cơm canh\r\nTối về quạt mát cho anh ngồi rèn.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1961",
+    "contentIdiom": "Lấy chồng thợ mộc sướng sao\r\nMạt cưa rấm bếp, vỏ bào nấu cơm.\r\nVỏ bào còn nỏ hơn rơm\r\nMạt cưa rấm bếp còn thơm hơn trầm.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1962",
+    "contentIdiom": "Ai ơi nhớ lấy lời này\r\nTằm nuôi ba lứa, ruộng cày ba năm.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1964",
+    "contentIdiom": "Chồng già vợ trẻ là tiên\r\nVợ già chồng trẻ là duyên nợ trần.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1965",
+    "contentIdiom": "Thương nhau bất luận giàu nghèo\r\nDù cho lên ải xuống đèo cũng cam.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1966",
+    "contentIdiom": "Thương nhau củ ấu cũng tròn\r\nKhông thương thì quả bồ hòn cũng vuông.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1967",
+    "contentIdiom": "Ai đi đợi với tôi cùng\r\nTôi còn dở mối tơ hồng chưa xe.\r\nCó nghe nín lặng mà nghe\r\nNhững lời em nói như xe vào lòng.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1968",
+    "contentIdiom": "Ai ơi lỡ hội chồng con\r\nVề đây gá nghĩa vuông tròn được không?",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1969",
+    "contentIdiom": "Ai chồng ai vợ mặc ai\r\nBao giờ ra bảng ra bài hẳn hay.\r\nBao giờ tiền cưới trao tay\r\nTiền cheo rấp nước mới hay vợ chồng.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1970",
+    "contentIdiom": "Cha mẹ giàu con thong thả\r\nCha mẹ nghèo con vất vả gian nan.\r\nSớm mai lên núi đốt than\r\nChiều về xuống biển đào hang bắt còng.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1971",
+    "contentIdiom": "Đắt hàng gặp ả cùng anh\r\nẾ hàng gặp những thông manh quáng gà.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1972",
+    "contentIdiom": "Trắng da là bởi phấn dồi\r\nDa đen vì bởi em ngồi chợ trưa.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1973",
+    "contentIdiom": "Bán hàng thì bán sớm mai\r\nChợ trưa người vẫn còn nài làm chi.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1974",
+    "contentIdiom": "Sông có khúc, người có lúc.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1975",
+    "contentIdiom": "Ai đi bờ đắp một mình\r\nPhất phơ chiếc áo giống hình phu quân.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1978",
+    "contentIdiom": "Ai ơi chớ nghĩ mình hèn\r\nNước kia dù đục lóng phèn cũng trong.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1979",
+    "contentIdiom": "Ai mà nói dối cùng ai\r\nThì trời giáng hạ cây khoai giữa đồng.\r\nAi mà nói dối cùng chồng\r\nThì trời giáng hạ cây hồng bờ ao.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1980",
+    "contentIdiom": "Ăn cây nào, rào cây nấy.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1981",
+    "contentIdiom": "Ăn thì ăn những miếng ngon\r\nLàm thì chọn việc cỏn con mà làm.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1982",
+    "contentIdiom": "Ăn trông nồi, ngồi trông hướng.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1983",
+    "contentIdiom": "Anh đi ba bữa anh về\r\nRừng sâu nước độc anh đừng ở lâu.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1984",
+    "contentIdiom": "Anh đi đường ấy xa xa\r\nĐể em ôm bóng trăng tà năm canh.\r\nNước non một gánh chung tình\r\nNhớ ai ai có nhớ mình hay chăng.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1985",
+    "contentIdiom": "Anh đi, em ở lại nhà\r\nHai vai gánh vác mẹ già, con thơ.\r\nLầm than bao quản muối dưa\r\nAnh đi, anh liệu chen đua với đời.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1986",
+    "contentIdiom": "Anh lấy được em bỏ công ao ước\r\nEm lấy được anh thoả dạ ước ao.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1987",
+    "contentIdiom": "Anh này rõ khéo làm ăn\r\nĐi cày chẳng biết, chít khăn mượn người.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1988",
+    "contentIdiom": "Bà già đã tám mươi tư\r\nNgồi trong cửa sổ gởi thư lấy chồng.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1989",
+    "contentIdiom": "Cái ngủ mày ngủ cho lâu\r\nMẹ mày đi cấy ruộng sâu chưa về.\r\nCái ngủ mày ngủ cho say\r\nMẹ mày vất vả chân tay suốt ngày.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1990",
+    "contentIdiom": "Cây khô không dễ mọc chồi\r\nMẹ già không thể sống đời với con.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1991",
+    "contentIdiom": "Cậu cai buông áo em ra\r\nĐể em đi chợ kẻo mà chợ trưa.\r\nChợ trưa dưa nó héo đi\r\nLấy chi nuôi mẹ, lấy gì nuôi em?",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1992",
+    "contentIdiom": "Chim khôn mắc phải lưới hồng\r\nHễ ai gỡ được, đền công bạc vàng.\r\nAnh rằng anh chẳng lấy vàng\r\nHễ anh gỡ được, thì nàng lấy anh.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1993",
+    "contentIdiom": "Chính chuyên chết cũng ra ma\r\nLẳng lơ chết cũng đem ra ngoài đồng.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1994",
+    "contentIdiom": "Chỉ đâu mà buộc ngang trời\r\nThuốc đâu mà chữa con người lẳng lơ.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1995",
+    "contentIdiom": "Chỉ đâu mà buộc ngang trời\r\nTay đâu mà bụm miệng người thế gian.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1996",
+    "contentIdiom": "Chồng thấp mà vợ lại cao \r\nNhư đôi đũa lệch biết sao so bằng.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1997",
+    "contentIdiom": "Con cóc là cậu ông trời\r\nHễ ai đánh nó thì trời đánh cho.\r\nCon cóc là cậu thầy nho\r\nHễ ai đánh chết trời cho quan tiền.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1998",
+    "contentIdiom": "Con gái giống cha giàu ba họ\r\nCon trai giống mẹ khó ba đời.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "1999",
+    "contentIdiom": "Con gái mà gả chồng xa\r\nMột là mất giỗ hai là mất con.\r\nCon gái mà gả chồng gần\r\nCó chén canh cần nó cũng đem cho.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2000",
+    "contentIdiom": "Có chồng mà chẳng có con\r\nKhác gì hoa nở trên non một mình.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2001",
+    "contentIdiom": "Có con mà gả chồng gần\r\nNửa đêm đốt đuốc đem phần cho cha.\r\nCó con mà gả chồng xa\r\nBa phần ruộng trẻo chẳng ma nào cày.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2002",
+    "contentIdiom": "Có yêu thời nói rằng yêu\r\nChẳng yêu, thì nói một điều cho xong.\r\nLàm chi dở đục, dở trong\r\nLờ đờ như nước cho lòng chẳng an.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2003",
+    "contentIdiom": "Còn duyên kẻ đón người đưa \r\nHết duyên đi sớm về trưa một mình.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2004",
+    "contentIdiom": "Đàn bà nói có là không\r\nNói yêu là ghét, nói buồn là vui.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2005",
+    "contentIdiom": "Đàn bà tốt tóc thì sang\r\nĐàn ông tốt tóc thì mang nặng đầu.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2006",
+    "contentIdiom": "Đàn đâu mà gảy tai trâu\r\nĐạn đâu bắn sẻ, gươm đâu chém ruồi.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2007",
+    "contentIdiom": "Đói lòng ăn nửa trái sim\r\nUống lưng bát nước đi tìm người thương.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2008",
+    "contentIdiom": "Đôi ta chẳng được sum vầy\r\nKhác nào cánh nhạn lạc bầy kêu sương.\r\nVì sương nên núi bạc đầu\r\nCành lay bởi gió hoa sầu vì mưa.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2009",
+    "contentIdiom": "Đôi ta như thể con tằm\r\nCùng ăn một lá, cùng nằm một nong.\r\nĐôi ta như thể con ong\r\nCon quấn con quít, con trong con ngoài.\r\nĐôi ta như thể con bài\r\nChồng đánh vợ kết chẳng sai con nào.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2010",
+    "contentIdiom": "Gập ghềnh nước chảy qua đèo \r\nBà già tập tễnh mua heo cưới chồng.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2011",
+    "contentIdiom": "Giàu cha giàu mẹ thì ham \r\nGiàu cô giàu bác ai làm nấy ăn.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2012",
+    "contentIdiom": "Ai về Bình Định mà coi\r\nCon gái Bình Định cầm roi đi quyền.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2013",
+    "contentIdiom": "Bầu ơi thương lấy bí cùng\r\nTuy rằng khác giống nhưng chung một giàn.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2014",
+    "contentIdiom": "Chồng ra áo rách ta thương\r\nChồng người áo gấm xông hương mặc người.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2015",
+    "contentIdiom": "Dù ai nói ngả nói nghiêng\r\nLòng ta vẫn vững như kiềng ba chân.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2016",
+    "contentIdiom": "Đẻ con chẳng dạy chẳng răn\r\nThà rằng nuôi lợn cho ăn lấy lòng.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2017",
+    "contentIdiom": "Đi đâu mà vội mà vàng\r\nMà vấp phải đá mà quàng phải dây.\r\nThủng thỉnh như chúng anh đây\r\nChẳng đá nào vấp, chẳng dây nào quàng.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2018",
+    "contentIdiom": "Đêm qua chớp bể mưa nguồn\r\nHỏi người tri kỷ có buồn hay chăng?\r\nCá buồn cá lội tung tăng\r\nEm buồn em biết đãi đằng cùng ai?",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2019",
+    "contentIdiom": "Gái không chồng như thuyền không lái\r\nTrai không vợ như ngựa không cương.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2020",
+    "contentIdiom": "Gái có chồng như gông đeo cổ\r\nTrai có vợ như rợ buộc chân.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2021",
+    "contentIdiom": "Hôm qua anh đến chơi nhà\r\nThấy mẹ nằm võng, thấy cha nằm giường.\r\nThấy em nằm đất anh thương\r\nAnh đi mua gỗ đóng giường tám thang.\r\nBốn góc thì anh bịt vàng\r\nBốn chân bịt bạc, tám thang chạm rồng.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2022",
+    "contentIdiom": "Hỡi cô tát nước bên đàng\r\nSao cô múc ánh trăng vàng đổ đi.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2023",
+    "contentIdiom": "Khôn ngoan đối đáp người ngoài\r\nGà cùng một mẹ chớ hoài đá nhau.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2024",
+    "contentIdiom": "Làm trai quyết chí tang bồng\r\nSao cho tỏ mặt anh hùng mới cam.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2025",
+    "contentIdiom": "Lúc nghèo thì chẳng ai nhìn\r\nĐến khi đỗ trạng chín nghìn bà con.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2026",
+    "contentIdiom": "Lắm mối tối nằm không.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2027",
+    "contentIdiom": "Lỗ mũi em thì tám gánh lông\r\nChồng yêu chồng bảo râu rồng trời cho.\r\nĐêm nằm thì ngáy o o\r\nChồng yêu chồng bảo ngáy cho vui nhà.\r\nĐi chợ thì hay ăn quà\r\nChồng yêu chồng bảo về nhà đỡ cơm.\r\nTrên đầu những rác cùng rơm\r\nChồng yêu chồng bảo hoa thơm giắt đầu.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2028",
+    "contentIdiom": "Mấy đời bánh đúc có xương\r\nMấy đời mẹ ghẻ có thương con chồng.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2029",
+    "contentIdiom": "Mẹ nuôi con bằng trời bằng bể\r\nCon nuôi mẹ, con kể từng ngày.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2030",
+    "contentIdiom": "Mẹ già lo bảy lo ba\r\nLo cau trổ muộn, lo già hết duyên.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2031",
+    "contentIdiom": "Mẹ già như chuối Ba Hương\r\nNhư xôi nếp ngọt, như đường mía lau.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2032",
+    "contentIdiom": "Mồ côi cha ăn cơm với cá\r\nMồ côi mẹ liếm lá đầu đường.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2033",
+    "contentIdiom": "Một con ngựa đau, cả tàu bỏ cỏ.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2034",
+    "contentIdiom": "Muốn ăn bánh ít lá gai\r\nLấy chồng Bình Định ngại dài đường đi.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2035",
+    "contentIdiom": "Trai ba mươi tuổi còn xoan\r\nGái ba mươi tuổi đã toan về chiều.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2036",
+    "contentIdiom": "Ta về ta tắm ao ta\r\nDù trong dù đục ao nhà vẫn hơn.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2037",
+    "contentIdiom": "Yêu nhau cởi áo cho nhau\r\nVề nhà mẹ hỏi qua cầu gió bay.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2038",
+    "contentIdiom": "Rủ nhau xuống bể mò cua \r\nĐem về nấu quả mơ chua trên rừng.\r\nEm ơi chua ngọt đã từng \r\nNon xanh nước bạc ta đừng quên nhau.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2039",
+    "contentIdiom": "Trăm năm đành lỗi hẹn hò \r\nCây đa bến cũ con đò khác xưa.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2040",
+    "contentIdiom": "Chè non ai hái nửa nương \r\nCau non nửa chẽ người thương nửa chừng.\r\nHai hàng nước mắt ngập ngừng \r\nThà rằng ngày trước ta đừng gặp nhau.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2041",
+    "contentIdiom": "Mình nói dối ta mình hãy còn son \r\nTa đi qua ngõ thấy con mình bò \r\nCon mình những trấu cùng tro \r\nTa đi xách nước rửa cho con mình.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2042",
+    "contentIdiom": "Muối ba năm muối đang còn mặn \r\nGừng chín tháng gừng hãy còn cay \r\nĐôi ta tình nặng nghĩa dày \r\nDù có xa nhau đi nữa cũng ba vạn chín nghìn ngày mới xa.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2043",
+    "contentIdiom": "Nước sông Tô vừa trong vừa mát \r\nEm ghé thuyền đỗ sát thuyền anh \r\nDừng chèo muốn tỏ tâm tình \r\nSông bao nhiêu nước thương mình bấy nhiêu.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2044",
+    "contentIdiom": "Thò tay mà bứt cọng ngò \r\nThương em đứt ruột giả đò ngó lơ.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2045",
+    "contentIdiom": "Thuyền ai lơ lửng bên sông \r\nCó lòng đợi khách hay không hỡi thuyền?",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2046",
+    "contentIdiom": "Đi mô cho thiếp đi cùng\r\nĐói no thiếp chịu lạnh lùng thiếp cam.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2048",
+    "contentIdiom": "Thân em như tấm lụa đào \r\nPhất phơ giữa chợ biết vào tay ai.\r\nThân em như hạt mưa sa \r\nHạt vào đài các, hạt ra ruộng cày.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2049",
+    "contentIdiom": "Khó thời đòn gánh đè vai \r\nLần hồi nuôi mẹ mặc ai chê cười.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2050",
+    "contentIdiom": "Thân em như chổi đầu hè \r\nPhòng khi mưa gió đi về chùi chân \r\nChùi rồi lại vứt ra sân \r\nGọi người hàng xóm có chân thì chùi.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2053",
+    "contentIdiom": "Chiều chiều ra đứng bờ sông \r\nMuốn về với mẹ mà không có đò.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2054",
+    "contentIdiom": "Trách cha, trách mẹ nhà chàng \r\nCầm cân chẳng biết là vàng hay thau \r\nThực vàng chẳng phải thau đâu \r\nĐừng đem thử lửa mà đau lòng vàng.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2055",
+    "contentIdiom": "Chồng con là cái nợ nần \r\nThà rằng ở vậy nuôi thân béo mầm.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2056",
+    "contentIdiom": "Ước gì sông rộng một gang \r\nBắc cầu dải yếm cho chàng sang chơi.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2057",
+    "contentIdiom": "Trăng tròn chỉ một đêm rằm \r\nTình duyên chỉ hẹn một lần mà thôi.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2058",
+    "contentIdiom": "Học cao không muốn tranh giành \r\nNhững người học ít ưa sanh sự phiền.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2059",
+    "contentIdiom": "Học hành ba chữ lem nhem \r\nThấy gái thì thèm như chửa thèm chua.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2060",
+    "contentIdiom": "Học là học đạo làm người Con đừng lêu lổng kẻ cười người chê.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2061",
+    "contentIdiom": "Học trò đèn sách hôm mai \r\nNgày sau thi đỗ nên trai mới hào \r\nLàm nên quan thấp, quan cao \r\nLàm nên vọng tía võng đào nghênh ngang.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2062",
+    "contentIdiom": "Cây khô chưa dễ mọc chồi\r\nBác mẹ chưa dễ ở đời với ta. \r\nNon xanh bao tuổi mà già\r\nBởi vì sương tuyết hoá ra bạc đầu.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2063",
+    "contentIdiom": "Ghe bầu trở lái về đông \r\nCon gái theo chồng bỏ mẹ ai nuôi?",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2064",
+    "contentIdiom": "Chữ Trung, chữ Hiếu, chữ Hòa\r\nHỏi trong ba chữ, thờ cha chữ nào? \r\nChữ Trung, thì để thờ cha\r\nChữ Hiếu thờ mẹ, chữ Hòa thờ anh.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2065",
+    "contentIdiom": "Những người thắt đáy lưng ong \r\nĐã khéo chiều chồng lại khéo nuôi con.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2066",
+    "contentIdiom": "Tóc em dài em cài bông hoa lý \r\nMiệng em cười anh để ý anh thương.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2067",
+    "contentIdiom": "Nàng về nàng nhớ ta chăng\r\nNàng về ta nhớ hàm răng nàng cười.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2068",
+    "contentIdiom": "Ở nhà còn mẹ, còn cha\r\nLẽ đâu tôi dám nguyệt hoa cùng người.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2069",
+    "contentIdiom": "Qua đình ghé nón trông đình\r\nĐình bao nhiêu ngói, thương mình bấy nhiêu.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2070",
+    "contentIdiom": "Lấy chồng cho đáng tấm chồng\r\nBõ công trang điểm má hồng lâu nay.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2071",
+    "contentIdiom": "Đèn Sài Gòn ngọn xanh, ngọn đỏ\r\nĐèn Mỹ Tho ngọn tỏ, ngọn lu\r\nAnh về học lấy chữ nhu\r\nChín trăng em đợi, mười thu em chờ.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2072",
+    "contentIdiom": "Lạy cha ba lạy, một quì\r\nLạy mẹ bốn lạy, con đi lấy chồng.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2073",
+    "contentIdiom": "Chưa chồng đi dọc, đi ngang\r\nCó chồng cứ thẳng một đàng mà đi.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2074",
+    "contentIdiom": "Trầu vàng ăn với cau xanh\r\nDuyên em sánh với tình anh tuyệt vời.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2075",
+    "contentIdiom": "Ai về tôi gởi đôi giày\r\nPhòng khi mưa gió để thầy mẹ đi.",
+    "authorIdiom": "Ca Dao Tục Ngữ"
+  },
+  {
+    "idIdiom": "2077",
+    "contentIdiom": "ĐỨC \r\nDùng tấm lòng thánh thiện \r\nHành xử với mọi người \r\nThành tựu vị tha hạnh \r\nĐức ngạt ngào muôn nơi.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2078",
+    "contentIdiom": "CHÍ \r\nChí thành đôi tay chắp \r\nLà đóa sen rạng ngời \r\nDâng cúng mười phương \r\nPhật Hương lòng tỏa muôn nơi.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2079",
+    "contentIdiom": "ĐỊNH \r\nPha chén trà buổi sáng \r\nMười phương thế giới thơm \r\nĐịnh tuệ tâm viên mãn \r\nTình đời hoa kết đơn.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2080",
+    "contentIdiom": "ĐẠT \r\nThông đạt đời như huyễn \r\nAn nhiên với duyên trần \r\nThu đông choàng thêm áo \r\nXuân hạ chơi cùng trăng.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2081",
+    "contentIdiom": "CHÂU \r\nTâm hồn viên châu sáng \r\nThanh lọc từng phút giây \r\nƯu phiền không phát khỏi \r\nTịnh độ tại nơi này.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2082",
+    "contentIdiom": "BÌNH ĐẲNG \r\nKhông thị phi đen trắng \r\nKhông cao thấp sang hèn \r\nTa người đều bình đẳng \r\nPhật vị - một tòa sen.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2083",
+    "contentIdiom": "GIÁC \r\nTriêu mộ lời chuông điểm \r\nVơi tan bao niệm trần \r\nHành hương về ánh sáng \r\nThấy đất trời thanh tân.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2084",
+    "contentIdiom": "AN NHIÊN \r\nChiếc lá cuối chiều rơi \r\nBụi trần nghe xao động \r\nMặc đời bao con sóng \r\nVẫn an nhiên nụ cười.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2085",
+    "contentIdiom": "HẠNH \r\nNgữ ngôn luôn chính trực \r\nKhiêm hạ ở tại lòng \r\nHành xử như chính pháp \r\nĐạo đời đều thong dong.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2086",
+    "contentIdiom": "HIẾU \r\nVu lan lời kinh vọng \r\nHoa trắng áo em cài \r\nSen búp bàn tay nhỏ \r\nSinh thành ơn khó phai.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2087",
+    "contentIdiom": "HÒA \r\nBuông thị phi nhân ngã \r\nBỏ hơn thua bại thành \r\nHòa theo từng nhịp thở \r\nCủa đất trời thanh thanh.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2088",
+    "contentIdiom": "HỢP \r\nCùng nhau xây dựng đời \r\nChung tay kiến thiết đạo \r\nNghĩa tình thơm hạt gạo \r\nTrắng trong bao nụ cười.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2089",
+    "contentIdiom": "HƯƠNG \r\nTay chạm hạt phù sa \r\nHương sen về ngập lối \r\nNâng từng trang lá bối \r\nLời kinh lòng ngân nga.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2090",
+    "contentIdiom": "HUY \r\nHuy hoàng trang kinh mở \r\nÁnh sáng thắp lên rồi \r\nĐâu phải vầng dương tỏa \r\nQuang minh ở lòng tôi.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2091",
+    "contentIdiom": "KHIẾT \r\nThanh khiết giữa bụi hồng \r\nĐóa sen mùa hạ trắng \r\nCuộc đời hoa tịnh lặng \r\nHương gửi về mênh mông.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2092",
+    "contentIdiom": "KIÊN \r\nKiên định gìn chính hạnh \r\nGiữa đen trắng cuộc đời \r\nTùy duyên như dòng nước \r\nMát dịu về muôn nơi.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2093",
+    "contentIdiom": "KÍNH \r\nĐôi bàn tay nhỏ bé \r\nSen búp sắc hồng tươi \r\nHàm tiếu một nụ cười \r\nKính dâng đấng Thiện Tuệ.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2094",
+    "contentIdiom": "LIÊM \r\nLiêm khiết một tấm lòng \r\nVẹn tròn như thái không \r\nBao dung với tất cả \r\nĐạo đời đều dung thông.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2095",
+    "contentIdiom": "LỢI \r\nLàm lợi ích cho đời \r\nCõi lòng nghe thảnh thơi \r\nSống không vì tự ngã \r\nSẽ thắm tươi nụ cười.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2096",
+    "contentIdiom": "MÃN \r\nThanh lọc nơi tâm linh \r\nCái nhìn được bao dung \r\nBuông rồi lòng vị kỷ \r\nViên mãn tình mênh mông.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2097",
+    "contentIdiom": "NGỌC \r\nMẹ cho viên ngọc sáng \r\nĐôi mắt con rạng ngời \r\nHạnh phúc là đơn giản \r\nKhi tâm hồn thảnh thơi.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2098",
+    "contentIdiom": "NGHĨA \r\nDuyên trần ta gặp gỡ \r\nTrên nẻo đường phong sương \r\nBao nghĩa tình lưu lại \r\nGiọt phù sa cố hương.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2099",
+    "contentIdiom": "NIỆM \r\nĐôi bàn tay con chắp \r\nTừng đóa sen rạng ngời \r\nChính niệm tròn tâm thể \r\nNụ cười tỏa muôn nơi.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2100",
+    "contentIdiom": "NHÂN \r\nLòng nhân gốc muôn hạnh \r\nNền tảng của con người \r\nPhật đạo từ đây mở \r\nBồ đề là thảnh thơi.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2101",
+    "contentIdiom": "QUANG \r\nBình minh về trước ngõ \r\nTừng giọt sáng quang minh \r\nNở sớm cành mai nhỏ \r\nHương xuân gửi an bình.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2102",
+    "contentIdiom": "TÀI \r\nTài năng và ý chí \r\nTrọn vẹn hai thứ này \r\nSự nghiệp dù gian khó \r\nVẫn an bằng nơi đây.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2103",
+    "contentIdiom": "TÂN \r\nBên hiên cành hoa tươi \r\nNở trước bình minh nắng \r\nÝ niệm vừa tĩnh lặng \r\nThanh tân một nụ cười.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2104",
+    "contentIdiom": "THANH TỊNH \r\nChấp đôi tay bé nhỏ \r\nThanh tịnh niệm tròn đầy \r\nLặng lẽ trầm hương tỏa \r\nXuân hồng thắm hiên mây.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2105",
+    "contentIdiom": "THẬT \r\nThành thật với chính mình \r\nĐấy là đang hiếu thuận \r\nĐừng vì chút lợi nhuận \r\nĐánh mất sự chân thành.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2106",
+    "contentIdiom": "THỊNH \r\nThịnh suy hạt sương sớm \r\nĐược mất áng mây bay \r\nThành bại cơn gió thoảng \r\nKhen chê giấc mộng dài.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2107",
+    "contentIdiom": "THÔNG \r\nThông đạt lễ duyên sinh \r\nCuộc đời hóa vô ngại \r\nChớ nên vì thành bại \r\nBỏ mất sự an bình.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2108",
+    "contentIdiom": "THỦY CHUNG \r\nĐường đời bao ngã vấp \r\nTương phùng một thoáng thôi \r\nGiữ gìn màu ký ức \r\nThủy chung một nụ cười.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2109",
+    "contentIdiom": "TĨNH \r\nTĩnh lặng với màn đêm \r\nNghe sương về theo gió \r\nTĩnh lặng với hơi thở \r\nNghe tim hồng dịu êm.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2110",
+    "contentIdiom": "TRÍ \r\nNgười trí luôn thận trọng \r\nVới bao điều đang làm \r\nĐâu cần khi quả đến \r\nMới thấy khổ nơi tâm.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2111",
+    "contentIdiom": "TRỰC \r\nNuôi từng ý niệm lành \r\nLời nói luôn chính trực \r\nHành động trong tỉnh thức \r\nCõi lòng sẽ tịnh thanh.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2112",
+    "contentIdiom": "TỰ TẠI \r\nTrăm sông về đại hải \r\nTrôi mãi trôi thành dòng \r\nBuông nhục vinh khỏi lòng \r\nĐường đời nghe tự tại.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2113",
+    "contentIdiom": "TƯỜNG \r\nMỗi khi cành mai nở \r\nTa đón tết cát tường \r\nDi lặc mùa xuân mới \r\nNắng hồng rải muôn phương.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2114",
+    "contentIdiom": "VINH \r\nVinh nhục và thành bại \r\nGương nước ánh trăng lay \r\nHiểu sự đời dâu bể \r\nNhịp nhàng cánh bướm bay.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2115",
+    "contentIdiom": "XẢ \r\nThị phi hạt bụi trần \r\nNăm tháng dài bâng khuâng \r\nBuông xả hồn thanh thản \r\nLời kinh lòng vang ngân.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2116",
+    "contentIdiom": "AN \r\nBắt gặp chút bình an \r\nDưới đài sen thơm ngát \r\nHương trầm đêm ngào ngạt \r\nThanh thản lòng xuân sang.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2117",
+    "contentIdiom": "CÁT \r\nChuông vọng lay sương sớm \r\nTừng cánh mai chuyển mình \r\nCát tường mùa lễ hội \r\nNắng trái vàng trang kinh.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2118",
+    "contentIdiom": "CHÍ \r\nChí thành đôi tay chắp \r\nLà đóa sen rạng ngời \r\nDâng cứng mười phương Phật \r\nHương lòng tỏa muôn nơi.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2119",
+    "contentIdiom": "ĐẠT \r\nThông đạt đời huyễn \r\nAn nhiên với duyên trần \r\nThu đông choàng thêm áo \r\nXuân hạ chơi cùng trăng.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2120",
+    "contentIdiom": "ĐỊNH \r\nPha chén trà buổi sáng \r\nMười phương thế giới thơm \r\nĐịnh tuệ tâm viên mãn \r\nTình đời hoa kết đơm.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2121",
+    "contentIdiom": "DUYÊN \r\nBàn tay ta vun đắp \r\nThành bại thuộc vào duyên \r\nVinh nhục ai không gặp \r\nCó chi phải ưu phiền.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2122",
+    "contentIdiom": "CÁT \r\nChuông vọng lay sương sớm \r\nTừng cánh mai chuyển mình \r\nCát tường mùa lễ hội \r\nNắng trải vàng trang kinh.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2123",
+    "contentIdiom": "HẬU \r\nTrái tim đầy nhân hậu \r\nDung chứa bao tình người \r\nBiển cả vô bờ bến \r\nNgại gì hòn bột trôi.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2124",
+    "contentIdiom": "HOÀNG \r\nTuệ giác thật huy hoàng \r\nĐoạn phiền não thế gian \r\nMùa thu cây trút lá \r\nXuân đến nở hoa ngàn.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2125",
+    "contentIdiom": "HỮU – VÔ \r\nÁnh nguyệt dưới lòng sông \r\nHữu – vô nào ai biết \r\nDừng rồi niệm phân biệt \r\nTuệ giác sáng nơi lòng.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2126",
+    "contentIdiom": "KIỆM \r\nTiết kiệm phúc cùng đức \r\nGiữ gìn cho mai này \r\nTâm cạn rồi nhân ngã \r\nTịnh độ chính là đây.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2127",
+    "contentIdiom": "LỄ \r\nCúi đầu lễ đức Bụt \r\nLà cúi lậy tâm mình \r\nHằng thuận với chúng sinh \r\nTức cúng dường Đại Giác.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2128",
+    "contentIdiom": "LỰC \r\nBi trí và dũng lực \r\nTrang nghiêm tại cõi lòng \r\nPhải đâu vì danh lợi \r\nLà để gạn đục trong.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2129",
+    "contentIdiom": "NGỘ \r\nThị phi vốn lẽ đời \r\nGiữ tâm không phi thị \r\nSống không lòng vị kỷ \r\nCõi thế dạo mà chơi.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2130",
+    "contentIdiom": "NHẪN \r\nNhẫn rồi lòng tự tại \r\nMây trụ giữa tầng không \r\nTrong đục nước ngàn sông \r\nĐền trôi về đại hải.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2131",
+    "contentIdiom": "QUÝ \r\nQuen nhau một câu chào \r\nQuý nhân tình thanh cao \r\nCạn chén trà tao ngộ \r\nDù duyên trần hư hao.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2132",
+    "contentIdiom": "THÀNH \r\nXử thế quý chân thành \r\nCủa tiền vật ngoại thân \r\nNhọc nhằn chi phi thị \r\nĐể cõi lòng bâng khuâng.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2133",
+    "contentIdiom": "THIỆN \r\nGieo những hạt giống thiện \r\nSẽ gặt hái điều lành \r\nĐiều ác không tạo tác \r\nQuả xấu nào phát sinh.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2134",
+    "contentIdiom": "THUẬN \r\nSống thuận lẽ tự nhiên \r\nCó chi phải ưu phiền \r\nHạ nồng ta đổi áo \r\nĐông khoác tấm bông mềm.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2135",
+    "contentIdiom": "TỊNH \r\nNhặt ngàn hạt cát nhỏ \r\nXây dựng nên điện đài \r\nNhặt vạn ý niệm sạch \r\nXây tịnh độ ngày mai.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2136",
+    "contentIdiom": "TRƯỜNG THỌ \r\nHữu đức tất an khang \r\nHữu phúc ắt trường thọ \r\nCả hai đồng thời có \r\nKhi phúc đức gieo trồng.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2137",
+    "contentIdiom": "VIÊN \r\nVầng trăng nay viên mãn \r\nThắp sáng vùng trời quê \r\nBóng tối giờ tan biến \r\nNhịp đò bến sông khua.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2138",
+    "contentIdiom": "AN BÌNH \r\nHoàng hôn màu tím ngắt \r\nTiếng sáo đưa lối về \r\nTrong gió làn khói bạc \r\nAn bình mái tranh quê.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2139",
+    "contentIdiom": "CHÍNH \r\nBuông bỏ lòng nhân ngã \r\nChẳng hơn thua với đời \r\nNghĩ suy luôn chính trực \r\nĐôi gót hồng rong chơi.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2140",
+    "contentIdiom": "BẢO \r\nCủa báu trên cõi đời \r\nTấm lòng trải muôn nơi \r\nTrao nhau niềm tin sống \r\nTrao nhau những nụ cười.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2141",
+    "contentIdiom": "HOA \r\nXuân điểm sắc hồng tươi \r\nĐôi cành hoa ban sớm \r\nTrời xanh trong ai nhuộm \r\nMan mác một nụ cười.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2142",
+    "contentIdiom": "HỶ \r\nNói những lời thương mến \r\nVơi tan bao nỗi buồn \r\nNụ cười mang trao tặng \r\nHạnh phúc sẽ ngàn muôn.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2143",
+    "contentIdiom": "LỘC \r\nTặng người một chút hương \r\nNở sớm cành mai nhỏ \r\nLộc xuân về trước ngõ \r\nNắng ấm muôn nẻo đường.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2144",
+    "contentIdiom": "NHÃ \r\nSống cuộc đời nhàn nhã \r\nGiữa núi thẳm non xanh \r\nAi nhọc nhằn thế sự \r\nTa một cõi yên bình.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2145",
+    "contentIdiom": "TÂM \r\nTình đời vốn sắc – không \r\nKhông – sắc trái tim hồng \r\nNằm bên lồng ngực nhỏ \r\nDẫu vậy mà mênh mông.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2146",
+    "contentIdiom": "THỌ \r\nRửa sạch đôi bàn tay \r\nNâng niu từng hạt nắng \r\nRửa lòng cho tĩnh lặng \r\nThọ nhuận lời Như Lai.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2147",
+    "contentIdiom": "TRỌNG \r\nTôn trọng với mọi người \r\nLà hiếu thuận chư Phật \r\nCung kính với cuộc đời \r\nLà lễ kính chư Bụt.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2148",
+    "contentIdiom": "VÔ SỰ \r\nHôm nay lòng vô sự \r\nSân trước một vầng trăng \r\nSợi khói trầm theo gió \r\nNghe ngào ngạt hương tâm.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2149",
+    "contentIdiom": "CHÂU \r\nTâm hồn viên châu sáng \r\nThanh lọc từng phút giây \r\nƯu phiền không phát khởi \r\nTịnh độ tại nơi này.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2150",
+    "contentIdiom": "MINH \r\nĐạo kỳ bay trong gió \r\nNăm sắc màu quang minh \r\nTuệ giác tâm khai mở \r\nÁnh trăng vàng lung linh.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2151",
+    "contentIdiom": "HÙNG \r\nHùng tâm phá phiền não \r\nTừ tâm hành muôn hạnh \r\nNẻo ác nào xa lánh \r\nĐương thiện về an nhiên.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2152",
+    "contentIdiom": "THẢO \r\nHiếu thảo với mẹ cha \r\nLà kính thờ đức Phật \r\nĐừng vì đời tất bật \r\nBỏ quên bụt trong nhà.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2153",
+    "contentIdiom": "TUỆ\r\nTrang kinh vừa khai mở \r\nTuệ giác thắp lên rồi \r\nTrái tim vừa mới mở \r\nThấu hiểu bao cuộc đời.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2154",
+    "contentIdiom": "DIỆU \r\nSương hạt về kết tụ \r\nThiền viên hoa ngát hương \r\nDiệu huyền lời kinh sớm \r\nNuôi lớn tình yêu thương.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2155",
+    "contentIdiom": "LẠC \r\nChăm sóc từng đóa hoa \r\nHoa cùng ta mỉm cười \r\nBước chân trong chính niệm \r\nAn lạc là thảnh thơi.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2156",
+    "contentIdiom": "TÍN \r\nBỏ đi tâm tự ngã \r\nNhịp thở nghe yên bình \r\nChỉ cất giữ nơi mình \r\nNiềm tin về tất cả.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2157",
+    "contentIdiom": "HẰNG \r\nRời khỏi vòng tay mẹ \r\nTrăng mười sáu vơi đầy \r\nLời kinh cầu sớm tối \r\nCòn thơm hương tóc mây.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2158",
+    "contentIdiom": "PHÁT \r\nPhát khỏi lòng chính tín \r\nBước vào nơi cửa sương \r\nYên bình là giải thoát \r\nMặc thế sự vô thường.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2159",
+    "contentIdiom": "HUYỀN \r\nHuyền diệu lời kinh sáng \r\nRót về bên cõi tâm \r\nChuông xa tiếng đục trầm \r\nGọi nắng bình minh rạng.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2160",
+    "contentIdiom": "Ác khẩu, mãi mãi đừng để nó thốt ra từ miệng chúng ta, cho dù người ta có xấu bao nhiêu, có ác bao nhiêu. Bạn càng nguyền rủa họ, tâm bạn càng bị nhiễm ô. Bạn hãy nghĩ, họ chính là thiện tri thức của bạn.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2161",
+    "contentIdiom": "Bởi chúng ta không thể thay đổi được thế giới xung quanh, nên chúng ta đành phải sửa đổi chính mình, đối diện với tất cả bằng lòng từ bi và tâm trí huệ.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2162",
+    "contentIdiom": "Bạn hy vọng nắm được sự vĩnh hằng thì bạn cần phải khống chế hiện tại.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2163",
+    "contentIdiom": "Bạn có nhân sinh quan của bạn, tôi có nhân sinh quan của tôi, tôi không dính dáng gì tới bạn. Chỉ cần tôi có thể, tôi sẽ cảm hóa được bạn. Nếu không thể thì tôi đành cam chịu.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2164",
+    "contentIdiom": "Bạn cứ xem những chuyện đơn thuần thành nghiêm trọng, như thế bạn sẽ rất đau khổ.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2165",
+    "contentIdiom": "Bạn đừng có thái độ bất mãn người ta hoài, bạn phải quay về kiểm điểm chính mình mới đúng. Bất mãn người khác là chuốc khổ cho chính bạn.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2166",
+    "contentIdiom": "Bạn có thể có tình yêu nhưng đừng nên dính mắc, vì chia ly là lẽ tất nhiên.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2167",
+    "contentIdiom": "Bạn hãy luôn cảm ơn những ai đem đến nghịch cảnh cho mình.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2168",
+    "contentIdiom": "Bạn phải luôn mở lòng khoan dung lượng thứ cho chúng sanh, cho dù họ xấu bao nhiêu, thậm chí họ đã làm tổn thương bạn, bạn phải buông bỏ, mới có được niềm vui đích thực.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2169",
+    "contentIdiom": "Chỉ cần tự giác tâm an, thì đông tây nam bắc đều tốt. Nếu còn một người chưa độ thì đừng nên thoát một mình.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2170",
+    "contentIdiom": "Cảm ơn đời với những gì tôi đã có, cảm ơn đời những gì tôi không có.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2171",
+    "contentIdiom": "Có lúc chúng ta muốn thầm hỏi mình, chúng ta đang đeo đuổi cái gì? Chúng ta sống vì cái gì?",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2172",
+    "contentIdiom": "Chỉ cần đối diện với hiện thực, bạn mới vượt qua hiện thực.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2173",
+    "contentIdiom": "Cung kính đối với người là sự trang nghiêm cho chính mình.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2174",
+    "contentIdiom": "Có lòng thương yêu vô tư thì sẽ có tất cả.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2175",
+    "contentIdiom": "Chân lý của nhân sinh chỉ là giấu trong cái bình thường đơn điệu.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2176",
+    "contentIdiom": "Cùng là một chiếc bình như vậy, tại sao bạn lại chứa độc dược? Cùng một mảnh tâm tại sao bạn phải chứa đầy những não phiền như vậy?",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2177",
+    "contentIdiom": "Đa số người cả đời chỉ làm được ba việc: Dối mình, dối người, và bị người dối.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2179",
+    "contentIdiom": "Đến là ngẫu nhiên, đi là tất nhiên. Cho nên bạn cần phải “Tùy duyên mà hằng bất biến, bất biến mà hằng tùy duyên”.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2180",
+    "contentIdiom": "Đừng gắng sức suy đoán cách nghĩ của người khác, nếu bạn không phán đoán chính xác bằng trí huệ và kinh nghiệm thì mắc phải nhầm lẫn là lẽ thường tình.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2181",
+    "contentIdiom": "Đừng khẳng định về cách nghĩ của mình quá, như vậy sẽ đỡ phải hối hận hơn.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2182",
+    "contentIdiom": "Đừng lãng phí sinh mạng của mình trong những chốn mà nhất định bạn sẽ ân hận.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2183",
+    "contentIdiom": "Đừng bao giờ lãng phí một giây phút nào để nghĩ nhớ đến người bạn không hề yêu thích.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2184",
+    "contentIdiom": "Hận thù người khác là một mất mát lớn nhất đối với mình.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2185",
+    "contentIdiom": "Hủy diệt người chỉ cần một câu, xây dựng người lại mất ngàn lời, xin bạn “Đa khẩu hạ lưu tình”.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2186",
+    "contentIdiom": "Khi trong tay bạn nắm chặt một vật gì mà không buông xuống, thì bạn chỉ có mỗi thứ này, nếu bạn chịu buông xuống, thì bạn mới có cơ hội chọn lựa những thứ khác. Nếu một người luôn khư khư với quan niệm của mình, không chịu buông xuống thì trí huệ chỉ có thể đạt đến ở một mức độ nào đó mà thôi.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2187",
+    "contentIdiom": "Khi bạn thành thật với chính mình, thế giới sẽ không ai lừa dối bạn.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2188",
+    "contentIdiom": "Khi nào bạn thật sự buông xuống thì lúc ấy bạn sẽ hết phiền não.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2189",
+    "contentIdiom": "Khi bạn vui, phải nghĩ rằng niềm vui này không phải là vĩnh hằng. Khi bạn đau khổ, bạn hãy nghĩ rằng nỗi đau này cũng không trường tồn.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2190",
+    "contentIdiom": "Lương tâm là tòa án công bằng nhất của mỗi người, bạn dối người khác được nhưng không bao giờ dối nổi lương tâm mình.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2191",
+    "contentIdiom": "Muốn hiểu một người, chỉ cần xem mục đích đến và xuất phát điểm của họ có giống nhau không, thì có thể biết được họ có thật lòng không.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2192",
+    "contentIdiom": "Mỗi người ai cũng có mạng sống, nhưng không phải ai cũng hiểu được điều đó, thậm chí trân quý mạng sống của mình hơn. Người không hiểu được mạng sống thì mạng sống đối với họ mà nói chính là một sự trừng phạt.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2193",
+    "contentIdiom": "Một người nếu tự đáy lòng không thể tha thứ cho kẻ khác, thì lòng họ sẽ không bao giờ được thanh thản.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2194",
+    "contentIdiom": "Mỗi một vết thương đều là một sự trưởng thành.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2195",
+    "contentIdiom": "Mong bạn đem lòng từ bi và thái độ ôn hòa để bày tỏ những nỗi oan ức và bất mãn của mình, có như vậy người khác mới khả dĩ tiếp nhận.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2196",
+    "contentIdiom": "Nếu một người chưa từng cảm nhận sự đau khổ khó khăn thì rất khó cảm thông cho người khác. Bạn muốn học tinh thần cứu khổ cứu nạn, thì trước hết phải chịu đựng được khổ nạn.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2197",
+    "contentIdiom": "Người khác có thể làm trái nhân quả, người khác có thể tổn hại chúng ta, đánh chúng ta, hủy báng chúng ta. Nhưng chúng ta đừng vì thế mà oán hận họ, vì sao? Vì chúng ta nhất định phải giữ một bản tánh hoàn chỉnh và một tâm hồn thanh tịnh.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2198",
+    "contentIdiom": "Nếu bạn có thể sống qua những ngày bình an, thì đó chính là một phúc phần rồi. Biết bao nhiêu người hôm nay đã không thấy được vầng thái dương của ngày mai, biết bao nhiêu người hôm nay đã trở thành tàn phế, biết bao nhiêu người hôm nay đã đánh mất tự do, biết bao nhiêu người hôm nay đã trở thành nước mất nhà tan.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2199",
+    "contentIdiom": "Nhân quả không nợ chúng ta thứ gì, cho nên xin đừng oán trách nó.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2200",
+    "contentIdiom": "Nói năng đừng có tánh châm chọc, đừng gây thương tổn, đừng khoe tài cán của mình, đừng phô điều xấu của người, tự nhiên sẽ hóa địch thành bạn.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2201",
+    "contentIdiom": "Nếu có thể đứng ở góc độ của người khác để nghĩ cho họ thì đó mới là từ bi.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2202",
+    "contentIdiom": "Người không biết yêu mình thì không thể yêu được người khác.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2203",
+    "contentIdiom": "Nói một lời dối gian thì phải bịa thêm mười câu không thật nữa để đắp vào, cần gì khổ như vậy?",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2204",
+    "contentIdiom": "Người luôn e dè với thiện ý của người khác thì hết thuốc cứu chữa.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2205",
+    "contentIdiom": "Người không tắm rửa thì càng xức nước hoa càng thấy thối. Danh tiếng và tôn quý đến từ sự chân tài thực học. Có đức tự nhiên thơm.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2206",
+    "contentIdiom": "Người âm thầm quan tâm chúc phúc người khác, đó là một sự bố thí vô hình.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2207",
+    "contentIdiom": "Người che đậy khuyết điểm của mình bằng thủ đoạn tổn thương người khác là kẻ đê tiện.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2208",
+    "contentIdiom": "Những thứ không đạt được, chúng ta sẽ luôn cho rằng nó đẹp đẽ, chính vì bạn hiểu nó quá ít, bạn không có thời gian ở chung với nó. Nhưng rồi một ngày nào đó khi bạn hiểu sâu sắc, bạn sẽ phát hiện nó vốn không đẹp như trong tưởng tượng của bạn.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2209",
+    "contentIdiom": "Người mà trong tâm chứa đầy cách nghĩ và cách nhìn của mình thì sẽ không bao giờ nghe được tiếng lòng người khác.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2210",
+    "contentIdiom": "Người cuồng vọng còn cứu được, người tự ti thì vô phương, chỉ khi nhận thức được mình, hàng phục chính mình, sửa đổi mình, mới có thể thay đổi người khác.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2211",
+    "contentIdiom": "Nếu bạn không muốn rước phiền não vào mình, thì người khác cũng không cách nào gây phiền não cho bạn. Vì chính tâm bạn không buông xuống nổi.\r\n",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2212",
+    "contentIdiom": "Sống một ngày vô ích, không làm được chuyện gì, thì chẳng khác gì kẻ phạm tội ăn trộm.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2213",
+    "contentIdiom": "Sở dĩ người ta đau khổ chính vì mãi đeo đuổi những thứ sai lầm.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2214",
+    "contentIdiom": "Sự chấp trước của ngày hôm nay sẽ là niềm hối hận cho ngày mai.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2215",
+    "contentIdiom": "Sống một ngày là có diễm phúc của một ngày, nên phải trân quý. Khi tôi khóc, tôi không có dép để mang thì tôi lại phát hiện có người không có chân.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2216",
+    "contentIdiom": "Thế giới vốn không thuộc về bạn, vì thế bạn không cần vứt bỏ, cái cần vứt bỏ chính là những tánh cố chấp. Vạn vật đều cung ứng cho ta, nhưng không thuộc về ta.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2217",
+    "contentIdiom": "Tâm là tên lừa đảo lớn nhất, người khác có thể dối bạn nhất thời, nhưng nó lại gạt bạn suốt đời.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2218",
+    "contentIdiom": "Thành thật đối diện với mâu thuẫn và khuyết điểm trong tâm mình, đừng lừa dối chính mình.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2219",
+    "contentIdiom": "Từ bi là vũ khí tốt nhất của chính bạn.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2220",
+    "contentIdiom": "Thời gian sẽ trôi qua, để thời gian xóa sạch phiền não của bạn đi.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2221",
+    "contentIdiom": "Tình chấp là nguyên nhân của khổ não, buông tình chấp bạn mới được tự tại.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2222",
+    "contentIdiom": "Tốn thêm một chút tâm lực để chú ý người khác chi bằng bớt một chút tâm lực phản tỉnh chính mình, bạn hiểu chứ?",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2223",
+    "contentIdiom": "Đừng cưới một người mà bạn có thể chung sống. Hãy cưới một người mà bạn không thể sống nổi khi thiếu người ấy.",
+    "authorIdiom": "James C. Dobson"
+  },
+  {
+    "idIdiom": "2225",
+    "contentIdiom": "Hôn nhân có thể là cái hồ sóng gió, nhưng cảnh độc thân luôn luôn là cái máng bùn lầy.",
+    "authorIdiom": "Thomas Love Peacock"
+  },
+  {
+    "idIdiom": "2226",
+    "contentIdiom": "Hôn nhân có nhiều đau khổ nhưng cảnh độc thân chẳng có gì vui.",
+    "authorIdiom": "Samuel Johnson"
+  },
+  {
+    "idIdiom": "2227",
+    "contentIdiom": "Người đang yêu không cần phải hoàn hảo, chỉ cần có tình cảm của một con người là được rồi.",
+    "authorIdiom": "Leo Buscaglia"
+  },
+  {
+    "idIdiom": "2228",
+    "contentIdiom": "Cái lợi của người độc thân là khi đứng trước một người đàn bà tuyệt đẹp, người ấy không phải buồn phiền vì đã có một người đàn bà xấu ở nhà.",
+    "authorIdiom": "Paul Léautaud"
+  },
+  {
+    "idIdiom": "2229",
+    "contentIdiom": "Chết cho người mình yêu còn dễ hơn chung sống với người yêu mình.",
+    "authorIdiom": "Nam tước George Gordon Noel Byron"
+  },
+  {
+    "idIdiom": "2230",
+    "contentIdiom": "Hãy chọn vợ ngay giữa vụ gặt chứ không phải giữa đám khiêu vũ.",
+    "authorIdiom": "Tục ngữ Serbia"
+  },
+  {
+    "idIdiom": "2231",
+    "contentIdiom": "Người ta thường nói mối tình đầu là mối tình đẹp nhất nhưng chính mối tình cuối cùng mới thực sự là mối tình bất diệt.",
+    "authorIdiom": "Jean-Paul Sartre"
+  },
+  {
+    "idIdiom": "2232",
+    "contentIdiom": "Hôn nhân là phép lạ đã biến nụ hôn của thú vui thành bổn phận và cuộc sống xa hoa trở thành thanh bạch.",
+    "authorIdiom": "Helen Rowland"
+  },
+  {
+    "idIdiom": "2233",
+    "contentIdiom": "Ái tình là niềm vui của một ngày, hôn nhân là hạnh phúc của cuộc đời.",
+    "authorIdiom": "Scribe Etidelavine"
+  },
+  {
+    "idIdiom": "2234",
+    "contentIdiom": "Hôn nhân là một tai vạ, nhưng là một tai vạ cần thiết.",
+    "authorIdiom": "Menander I Soter"
+  },
+  {
+    "idIdiom": "2235",
+    "contentIdiom": "Chiến tranh có những vị ngọt của nó, hôn nhân có những lo âu của nó.",
+    "authorIdiom": "La Fontaine"
+  },
+  {
+    "idIdiom": "2236",
+    "contentIdiom": "Hôn nhân không tình yêu là ngày thiếu rạng đông.",
+    "authorIdiom": "Alphonse Karr"
+  },
+  {
+    "idIdiom": "2237",
+    "contentIdiom": "Hôn nhân giống với đời sống ở chỗ: đó là bãi chiến trường chứ không phải là thảm hoa hồng.",
+    "authorIdiom": "Robert Louis Stevenson"
+  },
+  {
+    "idIdiom": "2238",
+    "contentIdiom": "Những ngày chuẩn bị đám cưới giống như lời giới thiệu hùng hồn cho một cuốn tiểu thuyết tẻ nhạt.",
+    "authorIdiom": "Wilson Mizner"
+  },
+  {
+    "idIdiom": "2239",
+    "contentIdiom": "Phụ nữ khóc trước ngày cưới, còn đàn ông khóc sau ngày cưới.",
+    "authorIdiom": "Ngạn ngữ Ba Lan"
+  },
+  {
+    "idIdiom": "2241",
+    "contentIdiom": "Họ nằm trong mơ với những ngày chưa cưới, nhưng khi cưới rồi thì họ tỉnh giấc.",
+    "authorIdiom": "Alexandre Pope"
+  },
+  {
+    "idIdiom": "2242",
+    "contentIdiom": "Người đàn bà thường hay hướng gia đình vào tương lai. Người đàn ông thường hay hướng gia đình vào quá khứ.",
+    "authorIdiom": "Macxen Prao"
+  },
+  {
+    "idIdiom": "2244",
+    "contentIdiom": "Không yêu vợ là nuôi trong nhà một con sư tử cái và ấp một tổ chim đau buồn.",
+    "authorIdiom": "Jeremy Taylor"
+  },
+  {
+    "idIdiom": "2245",
+    "contentIdiom": "Trong trời đất, khí âm khí dương có hòa thì mưa gió mới thuận được. Trong gia đình, vợ chồng có hòa thuận thì gia đạo mới thành được.",
+    "authorIdiom": "Hồ Long Vũ"
+  },
+  {
+    "idIdiom": "2246",
+    "contentIdiom": "Ở đời nếu không phải sợ ai thời là nhất. Nếu còn phải có sợ thì sợ vợ là hơn.",
+    "authorIdiom": "Tản Đà"
+  },
+  {
+    "idIdiom": "2247",
+    "contentIdiom": "Chân đong đưa vành nôi, tay cầm kim chỉ, người phụ nữ làm cho cảnh nhà trở nên tươi đẹp.",
+    "authorIdiom": "Ngạn ngữ Tây Ban Nha"
+  },
+  {
+    "idIdiom": "2248",
+    "contentIdiom": "Bí quyết để có hạnh phúc trong hôn nhân là: vợ chồng quyến rũ lẫn nhau suốt đời.",
+    "authorIdiom": "Honoré De Balzac"
+  },
+  {
+    "idIdiom": "2249",
+    "contentIdiom": "Quả là nguy hiểm khi người vợ nhận xét rằng chồng mình là lố bịch và nêu sự phát giác ấy cùng với một người khác.",
+    "authorIdiom": "Alphonse Karr"
+  },
+  {
+    "idIdiom": "2250",
+    "contentIdiom": "Người ta không bao giờ chiếm hữu được một người đàn bà nếu không có sự chung đụng xác thịt.",
+    "authorIdiom": "Saint Augustine"
+  },
+  {
+    "idIdiom": "2251",
+    "contentIdiom": "Anh em cãi nhau cả ngày không mất, vợ chồng cãi nhau một lúc thành người dưng.",
+    "authorIdiom": "Tục ngữ Thái"
+  },
+  {
+    "idIdiom": "2252",
+    "contentIdiom": "Không có tình yêu nào chân thật mà thiếu tình cảm và tâm hồn. Không có tình yêu nào đầy đủ nếu không có xác thịt chen vào.",
+    "authorIdiom": "Pierre Dufoyer"
+  },
+  {
+    "idIdiom": "2253",
+    "contentIdiom": "Trầm sâu vào khoái lạc, người ta sẽ mang về nhiều đá cuội hơn là ngọc trai.",
+    "authorIdiom": "Honoré De Balzac"
+  },
+  {
+    "idIdiom": "2254",
+    "contentIdiom": "Ngôi nhà không phải là mái ấm trừ khi nó chứa thức ăn và lửa cho tâm hồn cũng như cơ thể.",
+    "authorIdiom": "Benjamin Franklin"
+  },
+  {
+    "idIdiom": "2255",
+    "contentIdiom": "Có người nói rằng hôn nhân cản trở sự lãng mạn. Không nghi ngờ gì. Mỗi khi bạn có một cuộc lãng mạn, thế nào vợ bạn cũng sẽ can thiệp.",
+    "authorIdiom": "Groucho Marx"
+  },
+  {
+    "idIdiom": "2256",
+    "contentIdiom": "Nơi nào có hôn nhân mà không có tình yêu, ở đó xuất hiện tình yêu mà không có hôn nhân.",
+    "authorIdiom": "Benjamin Franklin"
+  },
+  {
+    "idIdiom": "2257",
+    "contentIdiom": "Không người đàn ông nào nên lấy vợ cho tới khi đã học giải phẫu và mổ xẻ ít nhất là một người phụ nữ.",
+    "authorIdiom": "Honoré De Balzac"
+  },
+  {
+    "idIdiom": "2258",
+    "contentIdiom": "Hãy để người vợ khiến chồng mình vui vẻ trở về nhà, và hãy để người chồng khiến nàng nuối tiếc khi mình rời nhà.",
+    "authorIdiom": "Martin Luther"
+  },
+  {
+    "idIdiom": "2259",
+    "contentIdiom": "Tại sao đàn bà đẹp luôn kết hôn với đàn ông không ra gì? Bởi vì người đàn ông thông minh không bao giờ cưới đàn bà đẹp.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2260",
+    "contentIdiom": "Tình yêu là bình minh của đám cưới và đám cưới là hoàng hôn của tình yêu.",
+    "authorIdiom": "Ngạn ngữ Pháp"
+  },
+  {
+    "idIdiom": "2262",
+    "contentIdiom": "Xiềng xích của hôn nhân nặng đến nỗi phải cần hai người, đôi khi ba người hay còn hơn nữa để mang vác nó.",
+    "authorIdiom": "Alexandre Dumas, fils"
+  },
+  {
+    "idIdiom": "2263",
+    "contentIdiom": "Hôn nhân giống như hội kín, ai chưa vào thì không thể nói gì, ai đã vào thì buộc phải im lặng.",
+    "authorIdiom": "George Bernard Shaw"
+  },
+  {
+    "idIdiom": "2264",
+    "contentIdiom": "Hôn nhân giống như một cái lồng, người ta thấy những con chim bên ngoài khắc khoải muốn vào và những con chim bên trong khắc khoải muốn ra.",
+    "authorIdiom": "Michel de Montaigne"
+  },
+  {
+    "idIdiom": "2266",
+    "contentIdiom": "Kết hôn lần đầu là nghĩa vụ, lần thứ hai là dại dột, lần thứ ba là điên rồ.",
+    "authorIdiom": "Ngạn ngữ Hà Lan"
+  },
+  {
+    "idIdiom": "2267",
+    "contentIdiom": "Vợ là người tình của thanh niên, bạn của trung niên và khán hộ của lão niên.",
+    "authorIdiom": "Francis Bacon"
+  },
+  {
+    "idIdiom": "2268",
+    "contentIdiom": "Khi một người đàn ông nói: \"Tôi tin chắc ở vợ tôi\", có nghĩa là người ấy tin chắc ở vợ. Khi một người đàn bà nói: \"Tôi tin chắc ở chồng tôi\" thì có nghĩa là người ấy tin chắc ở mình.",
+    "authorIdiom": "Francis de Croisset"
+  },
+  {
+    "idIdiom": "2269",
+    "contentIdiom": "Phải có hai người mới làm nên một cuộc hôn nhân bền vững, nhưng chỉ một người cũng đủ phá đổ.",
+    "authorIdiom": "Herbert Samuel"
+  },
+  {
+    "idIdiom": "2270",
+    "contentIdiom": "Đàn ông cũng như đàn bà đều biết từ khi sinh ra rằng trong tội lỗi có khoái lạc.",
+    "authorIdiom": "Charles Baudelaire"
+  },
+  {
+    "idIdiom": "2271",
+    "contentIdiom": "Những tâm hồn mạnh mẽ tránh khoái lạc như những nhà hàng hải tránh đá ngầm.",
+    "authorIdiom": "Napoléon Bonaparte"
+  },
+  {
+    "idIdiom": "2272",
+    "contentIdiom": "Không ai có thể hiểu những đau khổ của tôi, hay nỗi kinh hoàng dâng lên trong lồng ngực, nếu người đó không hiểu trái tim của một người mẹ.",
+    "authorIdiom": "Marie Antoinette"
+  },
+  {
+    "idIdiom": "2273",
+    "contentIdiom": "Hãy chọn vợ bằng tai hơn là bằng mắt.",
+    "authorIdiom": "Thomas Fuller"
+  },
+  {
+    "idIdiom": "2274",
+    "contentIdiom": "Một người chồng tốt không bao giờ đi ngủ trước vào buổi đêm và dậy sau vào buổi sáng.",
+    "authorIdiom": "Honoré De Balzac"
+  },
+  {
+    "idIdiom": "2275",
+    "contentIdiom": "Muốn lấy vợ đẹp, thông minh và lại giàu có nữa thì anh buộc phải lấy vợ đến ba lần.",
+    "authorIdiom": "Ngạn ngữ Ba Lan"
+  },
+  {
+    "idIdiom": "2276",
+    "contentIdiom": "Một cuộc hôn nhân tốt là vì một tương lai tốt đẹp và hơn thế nữa: vì một hiện tại tốt lành.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2277",
+    "contentIdiom": "Sau ngày hôn lễ, người đàn ông cảm thấy mình già đi thêm bảy tuổi.",
+    "authorIdiom": "Francis Bacon"
+  },
+  {
+    "idIdiom": "2278",
+    "contentIdiom": "Đàn ông không có vợ, không đấu tranh. Đàn bà không có chồng, không đau khổ.",
+    "authorIdiom": "Marcus Tullius Cicero"
+  },
+  {
+    "idIdiom": "2279",
+    "contentIdiom": "Một người phụ nữ hạnh phúc với chồng mình có lợi cho con cái hơn là trăm cuốn sách dạy chăm sóc trẻ em.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2280",
+    "contentIdiom": "Một cuộc hôn nhân tốt là giữa bà vợ mù và ông chồng điếc.",
+    "authorIdiom": "Honoré De Balzac"
+  },
+  {
+    "idIdiom": "2281",
+    "contentIdiom": "Hôn nhân là thứ thuốc duy nhất để chữa bệnh do tình yêu gây ra.",
+    "authorIdiom": "Tục ngữ Anh"
+  },
+  {
+    "idIdiom": "2282",
+    "contentIdiom": "Vợ mang chồng trên gương mặt của nàng, chồng phản chiếu vợ trên y phục của mình.",
+    "authorIdiom": "Ngạn ngữ Brazil"
+  },
+  {
+    "idIdiom": "2284",
+    "contentIdiom": "Khi người đàn ông cưới được một cô vợ giàu, không phải anh ta được cưới vợ mà rước về cho mình một kẻ áp chế.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2285",
+    "contentIdiom": "Mặc dù đàn bà là tiên nữ, nhưng hôn nhân là yêu quái.",
+    "authorIdiom": "George Gordon Noel Byron"
+  },
+  {
+    "idIdiom": "2286",
+    "contentIdiom": "Trái tim của người mẹ là vực sâu muôn trượng mà ở dưới đáy, bạn sẽ luôn tìm thấy sự tha thứ.",
+    "authorIdiom": "Honoré De Balzac"
+  },
+  {
+    "idIdiom": "2287",
+    "contentIdiom": "Cuộc sống vợ chồng luôn phải chiến đấu với một con quỷ ghê gớm: đó là thói quen.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2288",
+    "contentIdiom": "Không có những cuộc hôn nhân xấu, chỉ có những cặp vợ chồng xấu.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2289",
+    "contentIdiom": "Có ba người bạn trung thành: một người vợ tấm cám, một con chó nuôi từ bé và một số tiền dự trữ.",
+    "authorIdiom": "Benjamin Franklin"
+  },
+  {
+    "idIdiom": "2290",
+    "contentIdiom": "Tình yêu chúng ta có trong tuổi trẻ chỉ là hời hợt so với tình yêu mà một người đàn ông già nua dành cho người vợ già của mình.",
+    "authorIdiom": "Will Durant"
+  },
+  {
+    "idIdiom": "2291",
+    "contentIdiom": "Nếu như tình yêu là ánh sáng thì hôn nhân là hóa đơn thu tiền điện.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2292",
+    "contentIdiom": "Chẳng có gì làm người đàn ông tự hào hơn sự hạnh phúc của vợ anh ta, anh ta luôn kiêu hãnh cho rằng chính mình tạo ra điều đó.",
+    "authorIdiom": "Samuel Johnson"
+  },
+  {
+    "idIdiom": "2293",
+    "contentIdiom": "Nếu bạn sống một mình mà thấy buồn chán thì hãy cưới vợ để thấy ngay cả khi có \"hai mình\" rồi mà vẫn buồn chán!",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2296",
+    "contentIdiom": "Hạnh phúc trong hôn nhân hoàn toàn là vấn đề may rủi.",
+    "authorIdiom": "Jane Austen"
+  },
+  {
+    "idIdiom": "2298",
+    "contentIdiom": "Không người đàn ông nào biết hạnh phúc thực sự là gì cho tới khi anh ta lập gia đình. Vào lúc đó, dĩ nhiên, đã quá muộn.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2299",
+    "contentIdiom": "Đằng sau mỗi người đàn ông thành công là một người phụ nữ, đằng sau nàng là vợ của anh ta.",
+    "authorIdiom": "Groucho Marx"
+  },
+  {
+    "idIdiom": "2301",
+    "contentIdiom": "Khi một người đàn ông trộm mất vợ của anh, không có sự trả thù nào thâm độc hơn là cứ để hắn giữ lấy nàng.",
+    "authorIdiom": "Sacha Guitry"
+  },
+  {
+    "idIdiom": "2302",
+    "contentIdiom": "Nếu anh muốn có người vợ tốt, hãy lấy người đã từng là người con tốt.",
+    "authorIdiom": "Thomas Fuller"
+  },
+  {
+    "idIdiom": "2303",
+    "contentIdiom": "Trực giác là thứ cho người vợ biết người chồng đã làm sai ngay từ trước khi anh ta nghĩ tới việc đó.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2304",
+    "contentIdiom": "Hãy mở thật to mắt trước khi cưới, sau đó hãy nhắm hờ.",
+    "authorIdiom": "Benjamin Franklin"
+  },
+  {
+    "idIdiom": "2305",
+    "contentIdiom": "Hôn nhân là cuộc chiến tranh duy nhất mà bạn ngủ với kẻ thù.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2306",
+    "contentIdiom": "Các cô gái chẳng muốn gì hơn là có chồng, và rồi khi có chồng, họ muốn mọi thứ.",
+    "authorIdiom": "William Shakespeare"
+  },
+  {
+    "idIdiom": "2307",
+    "contentIdiom": "Người ta cưới nhau bởi không thể chống lại thế lực tự nhiên, dù nhiều người biết rõ có lẽ mình đang mua một tháng sung sướng bằng một đời khổ sở.",
+    "authorIdiom": "Thomas Hardy"
+  },
+  {
+    "idIdiom": "2308",
+    "contentIdiom": "Hôn nhân luôn phải đấu tranh với con quái vật nuốt lấy mọi thứ: sự hiểu rõ lẫn nhau.",
+    "authorIdiom": "Honoré de Balzac"
+  },
+  {
+    "idIdiom": "2309",
+    "contentIdiom": "Hôn nhân là đại dương sâu thẳm mà chưa ai phát minh ra la bàn.",
+    "authorIdiom": "Heinrich Heine"
+  },
+  {
+    "idIdiom": "2311",
+    "contentIdiom": "Muốn có một bữa ăn ngon và một người vợ hiền thì bạn phải biết chờ đợi.",
+    "authorIdiom": "Ngạn ngữ Đan Mạch"
+  },
+  {
+    "idIdiom": "2312",
+    "contentIdiom": "Tôi thấu hiểu một điều, hôn nhân không tình yêu là hôn nhân không đạo đức.",
+    "authorIdiom": "Lưu Hiểu Khánh"
+  },
+  {
+    "idIdiom": "2313",
+    "contentIdiom": "Âm nhạc chơi ở các đám cưới luôn khiến tôi nhớ tới âm nhạc chơi cho người lính trước khi bước vào trận đánh.",
+    "authorIdiom": "Heinrich Heine"
+  },
+  {
+    "idIdiom": "2314",
+    "contentIdiom": "Đừng bao giờ lấy vợ cho tới khi anh có ngôi nhà (và ngọn lửa) để ném nàng vào.",
+    "authorIdiom": "Benjamin Franklin"
+  },
+  {
+    "idIdiom": "2315",
+    "contentIdiom": "Có thể có cuộc hôn nhân tốt, nhưng không có cuộc hôn nhân dễ chịu.",
+    "authorIdiom": "Rainer Maria Rilke"
+  },
+  {
+    "idIdiom": "2316",
+    "contentIdiom": "Đàn ông là Tháng Tư khi họ tán tỉnh, là Tháng Mười Hai khi họ kết hôn. Phụ nữ là Tháng Năm khi họ còn là con gái, nhưng bầu trời thay đổi khi họ là vợ.",
+    "authorIdiom": "William Shakespeare"
+  },
+  {
+    "idIdiom": "2317",
+    "contentIdiom": "Đây là ý nghĩa thực sự của hôn nhân: giúp lẫn nhau vươn tới địa vị đầy đủ của con người, những cá nhân có trách nhiệm và tự chủ không chạy trốn khỏi đời.",
+    "authorIdiom": "Paul Tournier"
+  },
+  {
+    "idIdiom": "2318",
+    "contentIdiom": "Đàn ông luôn luôn không thể hiểu nổi tại sao phụ nữ lại có thể từ chối lời cầu hôn.",
+    "authorIdiom": "Jane Austen"
+  },
+  {
+    "idIdiom": "2320",
+    "contentIdiom": "Không có mối quan hệ, sự đồng cảm hay đồng hành nào đáng yêu, thân thiện và quyến rũ hơn một cuộc hôn nhân tốt đẹp.",
+    "authorIdiom": "Martin Luther"
+  },
+  {
+    "idIdiom": "2321",
+    "contentIdiom": "Hôn nhân, nếu chịu thừa nhận sự thực, là tai họa, nhưng là tai họa cần thiết.",
+    "authorIdiom": "Menander I Soter"
+  },
+  {
+    "idIdiom": "2322",
+    "contentIdiom": "Hãy can đảm lên và yên ổn gia đình. Người đàn ông càng chủ động tìm được người vợ cho mình và chung thủy với nàng, anh ta càng thành công và hạnh phúc. Chung thủy ở bên cạnh một người phụ nữ sẽ khiến bạn đi trên con đường hạnh phúc nhất mà bạn có thể đi.",
+    "authorIdiom": "Tony Gaskins"
+  },
+  {
+    "idIdiom": "2323",
+    "contentIdiom": "Tình yêu là lý tưởng, hôn nhân là thực tế; sự nhầm lẫn giữa thực tế và lý tưởng chẳng bao giờ không dẫn đến hậu quả tai hại.",
+    "authorIdiom": "Johann Wolfgang von Goethe"
+  },
+  {
+    "idIdiom": "2325",
+    "contentIdiom": "Hôn nhân chứa đựng nhiều hơn là chỉ bốn chân trên một cái giường.",
+    "authorIdiom": "Rainer Maria Rilke"
+  },
+  {
+    "idIdiom": "2326",
+    "contentIdiom": "Người phụ nữ kết hôn với người đàn ông kỳ vọng anh ta sẽ thay đổi, nhưng anh ta không thay đổi. Người đàn ông kết hôn với người phụ nữ kỳ vọng nàng sẽ không thay đổi, và nàng thay đổi.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2327",
+    "contentIdiom": "Tình yêu và hôn nhân không giống nhau. Sự khác biệt lớn nhất là ở chỗ: tình yêu phóng đại ưu điểm, còn hôn nhân phóng đại nhược điểm.",
+    "authorIdiom": "Diệp Tuyên"
+  },
+  {
+    "idIdiom": "2328",
+    "contentIdiom": "Hôn nhân là sự liên minh của người đàn ông không thể ngủ khi đóng cửa sổ, và người đàn bà không thể ngủ mà mở cửa sổ.",
+    "authorIdiom": "George Bernard Shaw"
+  },
+  {
+    "idIdiom": "2329",
+    "contentIdiom": "Hôn nhân giống như cho tay vào cái túi đầy rắn và hy vọng mò ra được một con lươn.",
+    "authorIdiom": "Leonardo da Vinci"
+  },
+  {
+    "idIdiom": "2330",
+    "contentIdiom": "Nếu bạn kết hôn, người ta nghĩ bạn xong đời, và nếu bạn không có phụ nữ, người ta nghĩ bạn không trọn vẹn.",
+    "authorIdiom": "Charles Bukowski"
+  },
+  {
+    "idIdiom": "2331",
+    "contentIdiom": "Nhiều cặp vợ chồng sau khi cưới thường có ba giai đoạn: \r\n1/ Anh nói em nghe. \r\n2/ Em nói anh nghe. \r\n3/ Hai ta cùng nói, cả làng đều nghe.",
+    "authorIdiom": "Blaise Pascal"
+  },
+  {
+    "idIdiom": "2332",
+    "contentIdiom": "Phụ nữ nghĩ về tương lai cho tới khi lấy chồng, trong khi đàn ông chẳng lo lắng về tương lai cho tới khi lấy vợ.",
+    "authorIdiom": "Charles Michael Schwab"
+  },
+  {
+    "idIdiom": "2333",
+    "contentIdiom": "Khi tìm bạn trăm năm, người đàn ông có 3 cái khó tìm\r\n_ Một là người đẹp\r\n_ Hai là người đoan trang\r\n_ Ba là người chung tình",
+    "authorIdiom": "Honore De Balzac"
+  },
+  {
+    "idIdiom": "2334",
+    "contentIdiom": "Cái khổ của người vợ là có một người chồng làm biếng. Cái khổ của người chồng là có vợ đua đòi.",
+    "authorIdiom": "George Brassen"
+  },
+  {
+    "idIdiom": "2335",
+    "contentIdiom": "Khi còn là người yêu, đa số đàn ông thích người con gái khêu gợi và dễ dãi. Vì có khêu gợi thì người đàn ông mới thích nhìn, và có dễ dãi thì người đàn ông mới dễ chinh phục. Nhưng khi lấy vợ, người đàn ông thích người con gái đoan trang và đứng đắn. Vì đoan trang thì người đàn ông mới kính trọng và đứng đắn thì mới không lo sự dòm ngó của kẻ khác.",
+    "authorIdiom": "André Marie Chénier"
+  },
+  {
+    "idIdiom": "2337",
+    "contentIdiom": "Yêu kẻ không yêu mình tức là yêu mưa rơi ngoài rừng.",
+    "authorIdiom": "Danh ngôn Nigeria"
+  },
+  {
+    "idIdiom": "2338",
+    "contentIdiom": "Tình yêu là khói sinh ra bởi hơi thở của nghẹn ngào.",
+    "authorIdiom": "William Shakespeare"
+  },
+  {
+    "idIdiom": "2339",
+    "contentIdiom": "Danh tiếng là đóa hoa quỳ có vòng vương miện vàng rực nhưng không có mùi hương. Tình yêu là đóa hoa hồng, từng cánh mỏng đều tỏa hương thơm ngát.",
+    "authorIdiom": "O. Wendell Holmes"
+  },
+  {
+    "idIdiom": "2340",
+    "contentIdiom": "Ái tình cũng như những bệnh dịch, càng sợ hãi chúng, người ta càng dễ rơi vào nguy hiểm.",
+    "authorIdiom": "Sébastien Chamfort"
+  },
+  {
+    "idIdiom": "2341",
+    "contentIdiom": "Ái tình không nhìn bằng mắt mà nhìn bằng chính tâm hồn. Vì vậy, nhân loại khắc họa Thần Tình ái có hai cánh nhưng con mắt mù lòa.",
+    "authorIdiom": "William Shakespeare"
+  },
+  {
+    "idIdiom": "2343",
+    "contentIdiom": "Tình yêu cũng giống như các trái núi nhọn hoắt, vừa leo tới nơi đã phải xuống liền, vì ở trên đỉnh núi không có chỗ nghỉ ngơi.",
+    "authorIdiom": "Duc de Lévis"
+  },
+  {
+    "idIdiom": "2344",
+    "contentIdiom": "Bốn cái tuổi của ái tình là: nó sinh ra trong tay của sự khinh miệt, lớn lên dưới sự bảo hộ của thị dục, tỉ tê với ân ái và chết vì đầu độc của ghen tuông.",
+    "authorIdiom": "P. Calderon De Labarca"
+  },
+  {
+    "idIdiom": "2345",
+    "contentIdiom": "Ái tình là một bãi chiến trường bất tuyệt. Vì thế người đời thường chia nó thành nhiều danh từ: Ái tình chiến thắng; Ái tình chiến bại; Ái tình vô địch.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2346",
+    "contentIdiom": "Tình yêu là niềm say mê làm cho người khác được hạnh phúc.",
+    "authorIdiom": "Friedrich Schiller"
+  },
+  {
+    "idIdiom": "2347",
+    "contentIdiom": "Tình yêu là ngôi sao mà người đàn ông vừa đi vừa ngước mắt nhìn theo, nhiều khi là lỗ cống mà anh ta mải mê mà tụt chân xuống.",
+    "authorIdiom": "Lope De Vega"
+  },
+  {
+    "idIdiom": "2349",
+    "contentIdiom": "Ái tình là một liều thuốc đắng, song không mấy ai có đủ can đảm chối từ.",
+    "authorIdiom": "Montesquieu"
+  },
+  {
+    "idIdiom": "2350",
+    "contentIdiom": "Tình yêu giống như chiến tranh, xảy ra thì dễ nhưng dừng lại thì khó.",
+    "authorIdiom": "Henry Louis Mencken"
+  },
+  {
+    "idIdiom": "2351",
+    "contentIdiom": "Ái tình đối với người đàn ông là một đoạn tình sử nhất thời. Ái tình đối với người đàn bà là một thiên tình sử suốt đời.",
+    "authorIdiom": "Madame de Staël"
+  },
+  {
+    "idIdiom": "2352",
+    "contentIdiom": "Yêu là khám phá ra chính mình trong người khác, và qua đó là niềm vui được nhận ra con người thực của mình.",
+    "authorIdiom": "Alexander Smith"
+  },
+  {
+    "idIdiom": "2353",
+    "contentIdiom": "Muốn biết thế nào là tình yêu thì phải biết sống cho kẻ khác. Sống cho kẻ khác tức là yêu.",
+    "authorIdiom": "William Godwin"
+  },
+  {
+    "idIdiom": "2354",
+    "contentIdiom": "Tình yêu không phải ở đôi má hồng của người thiếu nữ mà ở trong mắt của kẻ si tình.",
+    "authorIdiom": "Immanuel Kant"
+  },
+  {
+    "idIdiom": "2356",
+    "contentIdiom": "Tình yêu chỉ là một hạt sương. Đứng xa người ta ngỡ đó là hạt kim cương, nhưng đến gần nó là giọt lệ.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2357",
+    "contentIdiom": "Tình yêu là một vị thần trẻ con. Hễ khi đã yêu thì dù là bậc thánh cũng biến thành một đứa trẻ con không hơn không kém.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2358",
+    "contentIdiom": "Một người đang yêu có hai trạng thái: hoặc là không nghi ngờ gì hết, hoặc là nghi ngờ tất cả.",
+    "authorIdiom": "Honoré De Balzac"
+  },
+  {
+    "idIdiom": "2359",
+    "contentIdiom": "Triệu trứng mãnh liệt nhất của tình yêu là sự âu yếm đôi khi làm ta bực mình không chịu nổi.",
+    "authorIdiom": "Victor Hugo"
+  },
+  {
+    "idIdiom": "2360",
+    "contentIdiom": "Che giấu lòng căm thù thì dễ, che giấu tình yêu khó hơn. Nhưng khó nhất vẫn là che giấu sự thờ ơ.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2362",
+    "contentIdiom": "Ngay cả những lúc môi khép kín thì tình yêu vẫn có thể lên tiếng được.",
+    "authorIdiom": "Danh ngôn Đức"
+  },
+  {
+    "idIdiom": "2363",
+    "contentIdiom": "Ngôn ngữ của tình yêu nằm trong đôi mắt.",
+    "authorIdiom": "Phineas Fletcher"
+  },
+  {
+    "idIdiom": "2365",
+    "contentIdiom": "Chiếm đàn bà cũng như chiếm pháo đài, phải bằng những ngõ ngách bí mật.",
+    "authorIdiom": "Ngạn ngữ Ba Tư"
+  },
+  {
+    "idIdiom": "2366",
+    "contentIdiom": "Muốn yêu một người phụ nữ, ta phải yêu nàng như là nàng phải chết ngày mai.",
+    "authorIdiom": "Tục ngữ Ả rập"
+  },
+  {
+    "idIdiom": "2367",
+    "contentIdiom": "Khi một phụ nữ đang nói với bạn, hãy lắng nghe nàng bằng cách nhìn vào đôi mắt nàng.",
+    "authorIdiom": "Victor Hugo"
+  },
+  {
+    "idIdiom": "2369",
+    "contentIdiom": "Người phụ nữ chỉ tin lời tỏ tình khi nó được nói lên nhỏ nhẹ và giản dị.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2370",
+    "contentIdiom": "Vẻ bề ngoài của một người sẽ không bao giờ làm cho bạn yêu thích họ thật sự được.",
+    "authorIdiom": "Drew Barrymore"
+  },
+  {
+    "idIdiom": "2371",
+    "contentIdiom": "Đừng che giấu tình yêu và sự dịu dàng của mình cho đến khi bạn lìa đời. Hãy làm cuộc đời bạn tràn đầy sự ngọt ngào. Hãy nói những lời thân thương khi bạn còn nghe được và tim bạn còn rung động.",
+    "authorIdiom": "Henry Ward Beecher"
+  },
+  {
+    "idIdiom": "2372",
+    "contentIdiom": "Có những điều người ta chỉ có thể nói được khi hôn nhau, bởi vì những gì sâu kín và thuần khiết nhất không thể thoát ra khỏi tâm hồn, nếu không có một cái hôn kêu gọi chúng.",
+    "authorIdiom": "Maurice Maeterlinck"
+  },
+  {
+    "idIdiom": "2373",
+    "contentIdiom": "Linh hồn gặp linh hồn trên đôi môi người yêu.",
+    "authorIdiom": "Percy Bysshe Shelley"
+  },
+  {
+    "idIdiom": "2374",
+    "contentIdiom": "Cái hôn chậm chạp nhất đôi khi cũng là quá vội vàng.",
+    "authorIdiom": "Troy H. Middleton"
+  },
+  {
+    "idIdiom": "2375",
+    "contentIdiom": "Những cái hôn trộm bao giờ cũng ngọt ngào nhất.",
+    "authorIdiom": "James Henry Leigh Hunt"
+  },
+  {
+    "idIdiom": "2376",
+    "contentIdiom": "Tình yêu giống như một dây leo: sẽ khô héo và chết đi nếu nó không có cái gì để quấn quýt.",
+    "authorIdiom": "Ngạn ngữ Ấn Độ"
+  },
+  {
+    "idIdiom": "2377",
+    "contentIdiom": "Tình yêu chỉ sống được trong đau khổ hoặc chỉ sống được trong hạnh phúc sẽ chết non.",
+    "authorIdiom": "Émile de Girardin"
+  },
+  {
+    "idIdiom": "2378",
+    "contentIdiom": "Mặt trăng và ái tình nếu không lớn thêm thì lại khuyết đi.",
+    "authorIdiom": "Ngạn ngữ Bồ Đào Nha"
+  },
+  {
+    "idIdiom": "2379",
+    "contentIdiom": "Sự giận dỗi trong tình yêu cũng giống như muối, không nên cho quá nhiều.",
+    "authorIdiom": "Ngạn ngữ Pháp"
+  },
+  {
+    "idIdiom": "2380",
+    "contentIdiom": "Sự bẽn lẽn giúp cho ái tình sức tưởng tượng, chính nó cho ái tình sinh khí.",
+    "authorIdiom": "Marie-Henri Beyle"
+  },
+  {
+    "idIdiom": "2381",
+    "contentIdiom": "Không gì khiến tình yêu mãnh liệt hơn những trở ngại không thể khắc phục được.",
+    "authorIdiom": "Lope De Vega"
+  },
+  {
+    "idIdiom": "2382",
+    "contentIdiom": "Bình đẳng là cơ sở vững chắc của tình yêu.",
+    "authorIdiom": "Gotthold Ephraim Lessing"
+  },
+  {
+    "idIdiom": "2383",
+    "contentIdiom": "Ái tình lớn lên trong sự ràng buộc và bừng nở trong sự tự do.",
+    "authorIdiom": "Gérard Bauer"
+  },
+  {
+    "idIdiom": "2384",
+    "contentIdiom": "Không yêu ai tức là không sống, yêu yếu ớt không phải là sống mà là đau khổ.",
+    "authorIdiom": "François Fénelon"
+  },
+  {
+    "idIdiom": "2385",
+    "contentIdiom": "Yêu ít thôi, nhưng hãy yêu mãi mãi.",
+    "authorIdiom": "Tục ngữ Anh"
+  },
+  {
+    "idIdiom": "2386",
+    "contentIdiom": "Muốn có hạnh phúc với người đàn ông thì phải hiểu họ rất nhiều và yêu họ in ít cũng được. Muốn có hạnh phúc với người đàn bà thì phải yêu họ thật nhiều và… đừng tìm hiểu họ.",
+    "authorIdiom": "Victor Hugo"
+  },
+  {
+    "idIdiom": "2387",
+    "contentIdiom": "Ai vội vã trong tình yêu thì cũng vội vã trong hận thù.",
+    "authorIdiom": "Ngạn ngữ Do Thái"
+  },
+  {
+    "idIdiom": "2388",
+    "contentIdiom": "Ai khổ vì yêu hãy yêu hơn nữa. Chết vì yêu là sống trong tình yêu.",
+    "authorIdiom": "Victor Hugo"
+  },
+  {
+    "idIdiom": "2389",
+    "contentIdiom": "Khi hai người yêu nhau, họ không nhìn nhau mà họ cùng nhìn về một hướng.",
+    "authorIdiom": "Antoine de Saint-Exupéry"
+  },
+  {
+    "idIdiom": "2390",
+    "contentIdiom": "Tình yêu không mất đi khi được ban tặng cho người khác. Bạn có thể trao trọn vẹn tình yêu của mình cho hàng trăm người mà vẫn giữ được nguyên khối tình ấy.",
+    "authorIdiom": "Leo Buscaglia"
+  },
+  {
+    "idIdiom": "2391",
+    "contentIdiom": "Không có gì thật cao quý và đáng kính trọng bằng lòng chung thủy.",
+    "authorIdiom": "Marcus Tullius Cicero"
+  },
+  {
+    "idIdiom": "2392",
+    "contentIdiom": "Người ta có thể ăn nửa bữa, ngủ nửa giấc nhưng không thể yêu bằng nửa con tim và đi nửa đường chân lí.",
+    "authorIdiom": "Johann Wolfgang von Goethe"
+  },
+  {
+    "idIdiom": "2393",
+    "contentIdiom": "Tình yêu chân chính như là một bóng ma. Nghe nói thì nhiều nhưng ít người nào gặp được.",
+    "authorIdiom": "François de La Rochefoucauld"
+  },
+  {
+    "idIdiom": "2394",
+    "contentIdiom": "Chẳng có tình yêu nào chân thật bằng tình tuyệt vọng âm thầm.",
+    "authorIdiom": "O. Wendell Holmes"
+  },
+  {
+    "idIdiom": "2395",
+    "contentIdiom": "Chỉ có tình bạn cao cả mới nảy sinh tình yêu chân chính.",
+    "authorIdiom": "Maxime Gorki"
+  },
+  {
+    "idIdiom": "2397",
+    "contentIdiom": "Con đường của tình yêu chân thật chẳng bao giờ bằng phẳng cả.",
+    "authorIdiom": "William Shakespeare"
+  },
+  {
+    "idIdiom": "2398",
+    "contentIdiom": "Không thể nói mình yêu một cách đích thực nếu không yêu đến cả những khuyết điểm của người mình yêu.",
+    "authorIdiom": "Calderon de La Barca"
+  },
+  {
+    "idIdiom": "2400",
+    "contentIdiom": "Nếu đời là cành hoa thì tình yêu chính là mật ngọt.",
+    "authorIdiom": "Victor Hugo"
+  },
+  {
+    "idIdiom": "2401",
+    "contentIdiom": "Người ta có thể sống không cần tình yêu; nhưng không một ai có thể sống mà thiếu hy vọng là sẽ yêu hoặc sẽ được yêu.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2402",
+    "contentIdiom": "Trên thế gian này chẳng có vị thần nào đẹp hơn thần mặt trời, chẳng có ngọn lửa nào kỳ diệu hơn ngọn lửa tình yêu.",
+    "authorIdiom": "Maxime Gorki"
+  },
+  {
+    "idIdiom": "2403",
+    "contentIdiom": "Cuộc sống thiếu tình yêu không phải là sống mà chỉ là sự tồn tại. Không thể sống thiếu tình yêu vì con người sinh ra có một tâm hồn để mà yêu.",
+    "authorIdiom": "Maxime Gorki"
+  },
+  {
+    "idIdiom": "2404",
+    "contentIdiom": "Thật sung sướng khi được yêu, nhưng yêu còn sung sướng hơn.",
+    "authorIdiom": "Ngạn ngữ Tây Ban Nha"
+  },
+  {
+    "idIdiom": "2405",
+    "contentIdiom": "Chỉ một va chạm nhẹ của tình yêu khiến con người ra liền trở thành thi sĩ.",
+    "authorIdiom": "Platon"
+  },
+  {
+    "idIdiom": "2406",
+    "contentIdiom": "Tình yêu nâng cao con người thoát khỏi sự tầm thường.",
+    "authorIdiom": "Blaise Pascal"
+  },
+  {
+    "idIdiom": "2407",
+    "contentIdiom": "Ái tình biến hai trái tim thành một, tạo nên cùng một ý nguyện.",
+    "authorIdiom": "Herbert Spencer"
+  },
+  {
+    "idIdiom": "2408",
+    "contentIdiom": "Em, chỉ mình em mới tạo cho anh cảm giác đang sống. Những người đàn ông khác bảo đã gặp được thiên thần nhưng anh đã thấy em và thế là đủ.",
+    "authorIdiom": "George Augustus Moore"
+  },
+  {
+    "idIdiom": "2409",
+    "contentIdiom": "Kẻ cắp không ăn trộm được tình yêu nhưng thường thì tình yêu biến người ta thành kẻ trộm.",
+    "authorIdiom": "Danh ngôn Thụy Điển"
+  },
+  {
+    "idIdiom": "2411",
+    "contentIdiom": "Cất một ngôi nhà người thợ tính toán từng li từng tí để khỏi nhầm, nhưng khi yêu nhau nhiều, tính vẫn nhầm lẫn.",
+    "authorIdiom": "Blaise Pascal"
+  },
+  {
+    "idIdiom": "2412",
+    "contentIdiom": "Nước mắt có thể cạn nhưng trái tim thì không bao giờ.",
+    "authorIdiom": "Marguerite de Valois"
+  },
+  {
+    "idIdiom": "2414",
+    "contentIdiom": "Hạnh phúc của tình yêu là ở trong hành động. Tình yêu được thử thách bằng tinh thần sẵn sàng hành động vì người mình yêu.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2415",
+    "contentIdiom": "Hạnh phúc là cái gì thật mơ hồ khiến ta buộc phải mơ ước.",
+    "authorIdiom": "Paul-Henry de Belvèze"
+  },
+  {
+    "idIdiom": "2416",
+    "contentIdiom": "Một nửa và đó là nửa đẹp nhất của đời người vẫn còn khép kín với những ai chưa từng yêu say đắm.",
+    "authorIdiom": "Stendhal"
+  },
+  {
+    "idIdiom": "2417",
+    "contentIdiom": "Chính tình yêu làm trái đất quay vòng. Không có tình yêu, con người sẽ đến ngày tận thế.",
+    "authorIdiom": "After Gilbert"
+  },
+  {
+    "idIdiom": "2418",
+    "contentIdiom": "Tình yêu biến những điều vô nghĩa của cuộc đời thành những gì có ý nghĩa, làm cho cuộc đời của người bất hạnh trở thành hạnh phúc.",
+    "authorIdiom": "Lev Nikolayevich Tolstoy"
+  },
+  {
+    "idIdiom": "2420",
+    "contentIdiom": "Hạnh phúc là một thứ nước hoa mà hễ ta đổ cho người khác thì thế nào ta cũng có được vài giọt cho chính mình.",
+    "authorIdiom": "Ralph Waldo Emerson"
+  },
+  {
+    "idIdiom": "2421",
+    "contentIdiom": "Hạnh phúc lớn nhất ở đời là có thể tin chắc rằng ta được yêu thương - yêu vì chính bản thân ta, hay đúng hơn, yêu bất kể bản thân ta.",
+    "authorIdiom": "Victor Hugo"
+  },
+  {
+    "idIdiom": "2422",
+    "contentIdiom": "Chỉ có hai điều giúp đem lại hạnh phúc, đó là: ghen và yêu.",
+    "authorIdiom": "Charles Nodier"
+  },
+  {
+    "idIdiom": "2423",
+    "contentIdiom": "Người ta muốn đi vì cần tiêu khiển và muốn về vì cần hạnh phúc.",
+    "authorIdiom": "Victor Hugo"
+  },
+  {
+    "idIdiom": "2426",
+    "contentIdiom": "Thà rằng yêu em mà đau khổ còn hơn cả một đời ta không biết em.",
+    "authorIdiom": "Guilleragues"
+  },
+  {
+    "idIdiom": "2427",
+    "contentIdiom": "Vì tình yêu là một đóa hồng mà người làm vườn phải làm tôi tớ cho hàng ngàn chiếc gai nhọn.",
+    "authorIdiom": "Ngạn ngữ Thổ Nhĩ Kỳ"
+  },
+  {
+    "idIdiom": "2428",
+    "contentIdiom": "Vết thương nào sâu hơn một tình yêu giả dối?",
+    "authorIdiom": "Sophocles"
+  },
+  {
+    "idIdiom": "2429",
+    "contentIdiom": "Nếu tình yêu không phát sinh từ hai phía, tức là tình yêu của bạn không nảy sinh từ tình yêu đáp lại. Nếu bạn yêu mà không làm bản thân mình trở thành người được yêu thì tình yêu của bạn là bất lực, là nỗi bất hạnh.",
+    "authorIdiom": "Karl Marx"
+  },
+  {
+    "idIdiom": "2430",
+    "contentIdiom": "Nếu bạn không may mắn được đáp lại trong tình yêu thì hãy cố mà che giấu nỗi đau đó, nếu không muốn tự hạ thấp mình.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2431",
+    "contentIdiom": "Đôi khi tình bạn kết thúc ở tình yêu, nhưng hiếm khi tình yêu kết thúc bằng tình bạn.",
+    "authorIdiom": "Charles Caleb Colton"
+  },
+  {
+    "idIdiom": "2432",
+    "contentIdiom": "Có một thứ hoa hồng không gai, đó là tình bằng hữu. Có một thứ hoa hồng có gai nhiều nhất đó là hoa ái tình.",
+    "authorIdiom": "Mademoisell De Scudery"
+  },
+  {
+    "idIdiom": "2433",
+    "contentIdiom": "Chung thủy là một trong những phẩm chất quý giá nhất của người phụ nữ.",
+    "authorIdiom": "Maxime Gorki"
+  },
+  {
+    "idIdiom": "2435",
+    "contentIdiom": "Một túp lều tranh hai quả tim vàng, bánh mì vụn và nước lã. Xin ái tình đừng chấp lời tôi nói, yêu như thế chỉ là củi tàn, tro bụi.",
+    "authorIdiom": "John Keats"
+  },
+  {
+    "idIdiom": "2436",
+    "contentIdiom": "Trong cảnh nghèo, rượu tình trở nên lạt lẽo.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2437",
+    "contentIdiom": "Từng giây phút trong tình yêu đều có ý nghĩa của nó. Hạnh phúc cũng như nỗi đau đều trở thành những bài học cho trái tim.",
+    "authorIdiom": "Kimberly Kirberger"
+  },
+  {
+    "idIdiom": "2438",
+    "contentIdiom": "Không có tình yêu vĩnh cửu, chỉ có những phút giây vĩnh cửu của tình yêu.",
+    "authorIdiom": "Albert Camus"
+  },
+  {
+    "idIdiom": "2439",
+    "contentIdiom": "Hai kẻ yêu nhau, lúc xa nhau còn nói đến những kỷ niệm của nhau tức là họ còn nhớ tới nhau.",
+    "authorIdiom": "Léon Tolson"
+  },
+  {
+    "idIdiom": "2440",
+    "contentIdiom": "Tình yêu trong xa cách ví như ngọn lửa trong gió. Gió thổi tắt ngọn lửa nhỏ và thổi bùng ngọn lửa lớn.",
+    "authorIdiom": "Bussy Rebutin"
+  },
+  {
+    "idIdiom": "2441",
+    "contentIdiom": "Xa nhau lâu ngày quá, cũng như gần gũi sỗ sàng với nhau quá, cả hai trường hợp đều là nấm mồ chôn cất tình yêu. Những cái cực đoan lại gặp nhau.",
+    "authorIdiom": "Roger de Rabutin"
+  },
+  {
+    "idIdiom": "2442",
+    "contentIdiom": "Khi yêu, người ta thấy sự xa cách và thời gian chẳng là gì cả.",
+    "authorIdiom": "Alfred De Musset"
+  },
+  {
+    "idIdiom": "2443",
+    "contentIdiom": "Cuộc chia ly nào cũng cho nếm trước vị chết chóc. Cuộc sum hợp nào cũng cho nếm trước vị hồi sinh.",
+    "authorIdiom": "Arthur Schopenhauer"
+  },
+  {
+    "idIdiom": "2444",
+    "contentIdiom": "Thời gian chờ đợi là thời gian khốn khổ nhất.",
+    "authorIdiom": "Sarah Doudney"
+  },
+  {
+    "idIdiom": "2445",
+    "contentIdiom": "Thiếu em, anh thấy vắng cả chính mình.",
+    "authorIdiom": "Victor Hugo"
+  },
+  {
+    "idIdiom": "2446",
+    "contentIdiom": "Chia ly là chết đi một ít.",
+    "authorIdiom": "Edmond Haraucourt"
+  },
+  {
+    "idIdiom": "2447",
+    "contentIdiom": "Sự thèm khát có thể sống sót sau niềm kiêu hãnh cũng như ghen tuông vẫn tồn tại sau khi tình yêu chết.",
+    "authorIdiom": "Jean Rostand"
+  },
+  {
+    "idIdiom": "2448",
+    "contentIdiom": "Ghen tuông ẩn nấp ở đáy tim loài người giống như con rắn lục ở trong hang của nó.",
+    "authorIdiom": "Honoré De Balzac"
+  },
+  {
+    "idIdiom": "2450",
+    "contentIdiom": "Bạn muốn vợ bạn ngoan ngoãn không? Đừng khi nào có những ngờ vực ghen tuông.",
+    "authorIdiom": "Charles Le Brun"
+  },
+  {
+    "idIdiom": "2451",
+    "contentIdiom": "Kẻ tầm thường ghen vì sợ kẻ mạnh cướp mất người yêu của mình. Người cao thượng ghen vì sợ vật báu của mình bị xúc phạm.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2452",
+    "contentIdiom": "Không gì diễn tả được nỗi đau do cái ghen đem đến cho con tim chưa nói được lời tỏ tình.",
+    "authorIdiom": "Madame de La Fayette"
+  },
+  {
+    "idIdiom": "2453",
+    "contentIdiom": "Tình yêu sợ sự nghi ngờ. Tuy vậy, tình yêu lớn lên trong sự nghi ngờ và đôi khi chết trước sự thật được biết rõ chắc chắn.",
+    "authorIdiom": "Gustave Le Bon"
+  },
+  {
+    "idIdiom": "2454",
+    "contentIdiom": "Ghen tuông làm ta nhỏ nhoi trong trái tim bạn bè, mềm yếu trước con mắt tình địch và vô phương chống đỡ trong tay kẻ thù.",
+    "authorIdiom": "Ngạn ngữ Tây Ban Nha"
+  },
+  {
+    "idIdiom": "2455",
+    "contentIdiom": "Tình yêu của những người ghen chẳng khác gì sự thù hằn.",
+    "authorIdiom": "François - Marie Arouet"
+  },
+  {
+    "idIdiom": "2456",
+    "contentIdiom": "Tình bạn, cũng như tình yêu, bị phá hủy bởi sự xa cách kéo dài, dù nó có thể trở nên mạnh mẽ hơn nhờ những xa cách ngắn.",
+    "authorIdiom": "Samuel Johnson"
+  },
+  {
+    "idIdiom": "2457",
+    "contentIdiom": "Ai quên hạnh phúc của mình để đi tìm hạnh phúc cho người khác, sẽ gặp hạnh phúc của mình tràn đầy.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2458",
+    "contentIdiom": "Nụ hôn đầu hoàn toàn không thể bảo đảm cho tình yêu vĩnh cửu, nhưng nó lại là một dấu ấn mãi không phai trong lịch sử cuộc đời.",
+    "authorIdiom": "Byron"
+  },
+  {
+    "idIdiom": "2459",
+    "contentIdiom": "Vì sao chúng ta lại nhắm mắt khi ngủ, khi khóc, khi tưởng tượng, khi hôn nhau, khi cầu nguyện? Bởi vì những gì đẹp nhất trên thế gian này chẳng thể nào nhìn thấy bằng mắt mà phải được cảm nhận bằng con tim.",
+    "authorIdiom": "Denzel Washington"
+  },
+  {
+    "idIdiom": "2460",
+    "contentIdiom": "Chúng ta bảo tình yêu là sự sống; nhưng tình yêu không có hy vọng và niềm tin là cái chết đau đớn.",
+    "authorIdiom": "Elbert Hubbard"
+  },
+  {
+    "idIdiom": "2461",
+    "contentIdiom": "Sự thật là chúng ta trốn vì muốn được tìm thấy; chúng ta bỏ đi vì muốn biết ai sẽ theo mình; chúng ta khóc để xem ai sẽ lau đi giọt lệ. Và chúng ta để trái tim tan vỡ, muốn thấy ai sẽ đến và chữa lành trái tim ta.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2462",
+    "contentIdiom": "Chỉ mất 3 giây để nói lời yêu, nhưng phải mất cả cuộc đời để chứng minh điều đó.",
+    "authorIdiom": "Joseph Ward Simmons"
+  },
+  {
+    "idIdiom": "2463",
+    "contentIdiom": "Khoái cảm nhục dục sẽ trôi qua và biến mất, nhưng tình bạn giữa chúng ta, sự tin tưởng lẫn nhau, niềm vui sướng của con tim, sự say mê của tâm hồn, những điều này không tan đi và không thể bị phá hủy.",
+    "authorIdiom": "François - Marie Arouet"
+  },
+  {
+    "idIdiom": "2464",
+    "contentIdiom": "Nếu bạn yêu ai đó, hãy để họ ra đi. Nếu họ trở lại, họ sẽ luôn thuộc về bạn. Nếu họ không trở lại, họ chưa từng thuộc về bạn.",
+    "authorIdiom": "Khalil Gibran"
+  },
+  {
+    "idIdiom": "2465",
+    "contentIdiom": "Khi anh đi câu tình yêu, hãy lấy trái tim làm mồi chứ đừng lấy bộ não.",
+    "authorIdiom": "Mark Twain"
+  },
+  {
+    "idIdiom": "2466",
+    "contentIdiom": "Một nụ hôn phá tan khoảng cách giữa tình bạn và tình yêu.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2467",
+    "contentIdiom": "Với thế giới, bạn có thể chỉ là một người, nhưng với một người, bạn có thể là cả thế giới.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2468",
+    "contentIdiom": "Tình yêu lớn lên nhờ cho đi. Sự yêu thương mà chúng ta cho đi là sự yêu thương duy nhất mà chúng ta giữ được.",
+    "authorIdiom": "Elbert Hubbard"
+  },
+  {
+    "idIdiom": "2469",
+    "contentIdiom": "Ái tình chỉ là một trường học đào tạo ra một thằng điên.",
+    "authorIdiom": "Sir Henry Wotton"
+  },
+  {
+    "idIdiom": "2471",
+    "contentIdiom": "Về tâm hồn, tình yêu là một khát vọng ngự trị; về trí não, tình yêu là một sự thông cảm; về thể xác, tình yêu là một sự thèm khát âm ỉ làm sao chiếm cho được kẻ mình yêu.",
+    "authorIdiom": "La Rochefoucauld"
+  },
+  {
+    "idIdiom": "2473",
+    "contentIdiom": "Yêu nghĩa là hô hấp thiêng liêng cái không khí thiên đường.",
+    "authorIdiom": "Victor Hugo"
+  },
+  {
+    "idIdiom": "2474",
+    "contentIdiom": "Định nghĩa tiếng yêu rất là giản dị. Nó là sự hòa hợp giữa hai tâm hồn trai và gái.",
+    "authorIdiom": "Jean Jacques Rousseau"
+  },
+  {
+    "idIdiom": "2475",
+    "contentIdiom": "Yêu nghĩa là không bao giờ nói lời hối tiếc.",
+    "authorIdiom": "Erich Segal"
+  },
+  {
+    "idIdiom": "2476",
+    "contentIdiom": "Nếu tình yêu của chúng ta chỉ là ý chí muốn sở hữu, thì đó không phải là tình yêu.",
+    "authorIdiom": "Thích Nhất Hạnh"
+  },
+  {
+    "idIdiom": "2478",
+    "contentIdiom": "Chẳng bao giờ xảy ra chuyện ta yêu mà người con gái không hề hay biết - ta tin rằng mình đã tỏ tình một cách rõ ràng bằng một giọng nói, một ánh mắt, một cái chạm tay nhẹ nhàng.",
+    "authorIdiom": "Graham Greene"
+  },
+  {
+    "idIdiom": "2479",
+    "contentIdiom": "Lời nói đàn bà làm đàn ông xiêu lòng. Lời nói đàn ông làm vợ đau khổ.",
+    "authorIdiom": "Beaudelaire"
+  },
+  {
+    "idIdiom": "2481",
+    "contentIdiom": "Lòng thương là con đường ngắn nhất trong mọi con đường dẫn đến trái tim của người phụ nữ.",
+    "authorIdiom": "George Gordon Byron"
+  },
+  {
+    "idIdiom": "2483",
+    "contentIdiom": "Tình yêu là một đóa hoa tuyệt vời, nhưng phải có lòng can đảm thì mới có thể đưa ta đến vực thẳm để hái đóa hoa ấy.",
+    "authorIdiom": "George Sand"
+  },
+  {
+    "idIdiom": "2484",
+    "contentIdiom": "Ngôn ngữ đích thực duy nhất ở đời là nụ hôn.",
+    "authorIdiom": "Alfred De Musset"
+  },
+  {
+    "idIdiom": "2485",
+    "contentIdiom": "Một vài người đàn bà đỏ mặt lên khi bị hôn, có kẻ nguyền rủa, có kẻ cắn cấu, nhưng tồi tệ nhất là những kẻ cười.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2486",
+    "contentIdiom": "Tình yêu cũng như thanh danh, đã một lần mất đi là không bao giờ trở lại.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2487",
+    "contentIdiom": "Sự dối trá sẽ giết chết tình yêu, song chính sự thẳng thắn sẽ giết chết nó trước.",
+    "authorIdiom": "Ernest Miller Hemingway"
+  },
+  {
+    "idIdiom": "2488",
+    "contentIdiom": "Sự gây gổ giữa những kẻ yêu nhau là sự tái tạo tình yêu.",
+    "authorIdiom": "Terence"
+  },
+  {
+    "idIdiom": "2489",
+    "contentIdiom": "Muốn cho hôn nhân là nơi trú ẩn của lứa đôi, ái tình phải đổi dần ra tình bằng hữu.",
+    "authorIdiom": "Émile Chartier"
+  },
+  {
+    "idIdiom": "2490",
+    "contentIdiom": "Tôi sớm nhận ra ái tình cũng giống như cơn khát: một giọt nước càng làm khát thêm.",
+    "authorIdiom": "Restif De La Bretonne"
+  },
+  {
+    "idIdiom": "2491",
+    "contentIdiom": "Yêu mà không kính trọng không thể tồn tại lâu được.",
+    "authorIdiom": "Alexandre Dumas"
+  },
+  {
+    "idIdiom": "2492",
+    "contentIdiom": "Thật đau khổ cho kẻ nào vào lúc bắt đầu yêu đã không tin rằng tình yêu đó sẽ là vĩnh cửu.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2493",
+    "contentIdiom": "Tình yêu đòi hỏi sự chung thủy và chung thủy làm cho tình yêu vững bền.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2494",
+    "contentIdiom": "Tình yêu thầm lặng là tình yêu thiêng liêng. Trong bóng mờ trái tim ẩn kín một tình yêu sáng rực như trân châu. Trong ánh sáng ban ngày kỳ lạ, tình yêu lu mờ một cách đau thương.",
+    "authorIdiom": "Rabindranath Tagore"
+  },
+  {
+    "idIdiom": "2495",
+    "contentIdiom": "Tình yêu duy nhất xứng đáng với tên gọi của nó là tình yêu vô điều kiện.",
+    "authorIdiom": "John Powell"
+  },
+  {
+    "idIdiom": "2496",
+    "contentIdiom": "Không có gì cao thượng hơn tình yêu nằm trong những trái tim trong sáng.",
+    "authorIdiom": "Ngạn ngữ Pháp"
+  },
+  {
+    "idIdiom": "2497",
+    "contentIdiom": "Con người có thể chịu đựng thiếu thốn tiền bạc, nhưng không thể chịu được thiếu thốn tình cảm. Con người có thể tìm lại được phần vật chất đã đánh mất, nhưng tình cảm đã mất thì rất khó mong tìm lại.",
+    "authorIdiom": "Rabindranath Tagore"
+  },
+  {
+    "idIdiom": "2498",
+    "contentIdiom": "Khi bắt đầu yêu tức là bắt đầu bước vào cuộc sống.",
+    "authorIdiom": "Tục ngữ Pháp"
+  },
+  {
+    "idIdiom": "2501",
+    "contentIdiom": "Đã bắt đầu yêu là bắt đầu trở nên mỏng giòn và rất dễ bị tổn thương.",
+    "authorIdiom": "C. S. Lewis"
+  },
+  {
+    "idIdiom": "2502",
+    "contentIdiom": "Sự thật lạ kì của tình yêu: hai trái tim giá lạnh lại sưởi ấm được nhau.",
+    "authorIdiom": "Honoré De Balzac"
+  },
+  {
+    "idIdiom": "2503",
+    "contentIdiom": "Sa mạc là thiên đường nếu có em ở đó.",
+    "authorIdiom": "Robert Burns"
+  },
+  {
+    "idIdiom": "2504",
+    "contentIdiom": "Tình yêu thường làm cho con người mù quáng. Khi hai kẻ yêu nhau bao giờ cũng cho người mình yêu và những chuyện của mình hoàn toàn hợp lý. Chỉ có những người ngoài mới nhận được đâu là phải đâu là sai.",
+    "authorIdiom": "Albert Camus"
+  },
+  {
+    "idIdiom": "2505",
+    "contentIdiom": "Người phụ nữ mà ta yêu luôn luôn có lý.",
+    "authorIdiom": "Alfred De Musset"
+  },
+  {
+    "idIdiom": "2506",
+    "contentIdiom": "Người ta nếm được hạnh phúc của ái tình trong những sự đau khổ của chính nó gây nên hơn là những sung sướng do chính nó mang đến.",
+    "authorIdiom": "Dulos"
+  },
+  {
+    "idIdiom": "2507",
+    "contentIdiom": "Có lẽ yêu một ai đó là điểm khởi hành duy nhất cho cuộc hành trình biến cuộc đời bạn thành của chính bạn.",
+    "authorIdiom": "Alice Kollier"
+  },
+  {
+    "idIdiom": "2508",
+    "contentIdiom": "Hãy để cho người chết đi tìm sự bất tử trong danh vọng và những người sống đi tìm sự bất tử trong tình yêu.",
+    "authorIdiom": "Rabindranath Tagore"
+  },
+  {
+    "idIdiom": "2509",
+    "contentIdiom": "Tất cả hạnh phúc của mình có đều do hạnh phúc của mình cho.",
+    "authorIdiom": "Sully Prudhomme"
+  },
+  {
+    "idIdiom": "2510",
+    "contentIdiom": "Hạnh phúc, sự trưởng thành, và sự tự do của một người được khẳng định qua khả năng yêu của người đó.",
+    "authorIdiom": "Erich Fromm"
+  },
+  {
+    "idIdiom": "2511",
+    "contentIdiom": "Nếu sợ mất lòng nhau thì đừng bao giờ yêu nhau.",
+    "authorIdiom": "Gustave Flaubert"
+  },
+  {
+    "idIdiom": "2514",
+    "contentIdiom": "Vẫn thường có tình bạn lớn lên thành tình yêu, nhưng không bao giờ có tình yêu giảm xuống thành tình bạn.",
+    "authorIdiom": "Byron"
+  },
+  {
+    "idIdiom": "2515",
+    "contentIdiom": "Người tình rất dễ kiếm và người bạn rất dễ giữ. Cái khó là kiếm được người bạn và giữ được người tình.",
+    "authorIdiom": "Duc Le Lévis"
+  },
+  {
+    "idIdiom": "2517",
+    "contentIdiom": "Xa cách ngắn ngủi khích động say mê nhưng xa cách lâu dài giết chết say mê.",
+    "authorIdiom": "Charles De Saint Évremont"
+  },
+  {
+    "idIdiom": "2518",
+    "contentIdiom": "Sự xa cách là phương thuốc chữa lành lòng thù hận, cũng như nó là bộ máy chống lại tình yêu.",
+    "authorIdiom": "La Fontaine"
+  },
+  {
+    "idIdiom": "2519",
+    "contentIdiom": "Xa cách người mình yêu là điều đau khổ hơn cả sự chết.",
+    "authorIdiom": "William Cowper"
+  },
+  {
+    "idIdiom": "2520",
+    "contentIdiom": "Chỉ thiếu mặt người mình yêu, mình thấy cả vũ trụ như vắng người.",
+    "authorIdiom": "Lamartine"
+  },
+  {
+    "idIdiom": "2521",
+    "contentIdiom": "Ghen tuông bao giờ cũng phát sinh cùng với tình yêu, nhưng nó không bao giờ chết cùng lúc với tình yêu.",
+    "authorIdiom": "La Rochefoucauld"
+  },
+  {
+    "idIdiom": "2522",
+    "contentIdiom": "Kẻ nào không ghen là không yêu.",
+    "authorIdiom": "St. Augustin"
+  },
+  {
+    "idIdiom": "2523",
+    "contentIdiom": "Trong ghen tuông có nhiều tự ái hơn là ái tình.",
+    "authorIdiom": "La Rochefoucauld"
+  },
+  {
+    "idIdiom": "2525",
+    "contentIdiom": "Đừng bao giờ chờ đợi một người thật hoàn hảo, vì rằng không có ai hoàn hảo cả, và cũng vì rằng chỉ khi bạn yêu họ, họ mới trở nên hoàn hảo mà thôi!",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2526",
+    "contentIdiom": "Tình yêu và hạnh phúc như hình với bóng. Nếu biết bảo vệ tình yêu thì hạnh phúc sẽ thành sự thật, ngược lại nếu không biết bảo vệ tình yêu thì hạnh phúc sẽ là một ảo tưởng.",
+    "authorIdiom": "Blaise Pascal"
+  },
+  {
+    "idIdiom": "2527",
+    "contentIdiom": "Tình yêu thật sự đã hiếm, tình bạn thật sự còn hiếm hơn.",
+    "authorIdiom": "La Fontaine"
+  },
+  {
+    "idIdiom": "2528",
+    "contentIdiom": "Tôi sẽ không hy sinh tình yêu, tình yêu thật sự, cho bất cứ con điếm hay bạn hữu nào, hay công việc nào, bởi cuối cùng thì bạn ở một mình trong đêm.",
+    "authorIdiom": "John Lennon"
+  },
+  {
+    "idIdiom": "2529",
+    "contentIdiom": "Tình yêu là khi bạn rơi lệ và vẫn muốn anh, là khi anh lờ bạn đi và bạn vẫn yêu anh, là khi anh yêu người con gái khác nhưng bạn vẫn cười và bảo em mừng cho anh, khi mà tất cả những gì bạn thực sự muốn làm là khóc.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2530",
+    "contentIdiom": "Tình yêu đến với những ai vẫn hy vọng dù đã từng thất vọng, vẫn tin tưởng dù từng bị phản bội, vẫn yêu thương dù từng bị tổn thương.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2531",
+    "contentIdiom": "Ái tình là một thứ rượu, làm cho người ta hăng hái thì ít, mà khiến người ta say sưa thì nhiều.",
+    "authorIdiom": "Montesquieu"
+  },
+  {
+    "idIdiom": "2532",
+    "contentIdiom": "Đối với người yếu đuối, tình yêu là một trò chơi buồn bã. Đối với người mạnh mẽ, nó là một thứ rượu mạnh.",
+    "authorIdiom": "Paul Geraldy"
+  },
+  {
+    "idIdiom": "2533",
+    "contentIdiom": "Tình yêu là một trò chơi mà cả hai đều có thể cùng chơi và cùng thắng.",
+    "authorIdiom": "Eva Gabor"
+  },
+  {
+    "idIdiom": "2534",
+    "contentIdiom": "Tình yêu là sự thông cảm. Tìm hiểu lâu dài. Chớ không phải chỉ một giây một phút bồng bột nhất thời.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2535",
+    "contentIdiom": "Triệu chứng đầu tiên của tình yêu chân thật ở con trai là sự rụt rè, còn ở người con gái là sự mạnh bạo. Hai phái có khuynh hướng tìm đến với nhau và bên này bù đắp cho tính cách của bên kia.",
+    "authorIdiom": "William Cowper"
+  },
+  {
+    "idIdiom": "2536",
+    "contentIdiom": "Tình yêu vẫn là điều bí ẩn dẫu được nói đến nhiều vì chỉ người nào đang yêu mới thật sự biết mình được yêu.",
+    "authorIdiom": "Rabindranath Tagore"
+  },
+  {
+    "idIdiom": "2537",
+    "contentIdiom": "Muốn chinh phục người con gái ấy, bạn hãy làm cho nàng hiểu rằng nàng chẳng phải viên sỏi duy nhất trên bờ biển.",
+    "authorIdiom": "Harry Brousteau"
+  },
+  {
+    "idIdiom": "2539",
+    "contentIdiom": "Khi ta trao cho ai một cái hôn, nghĩa là ta muốn được ôm ấp người ấy trong vòng tay.",
+    "authorIdiom": "Sacha Guitry"
+  },
+  {
+    "idIdiom": "2540",
+    "contentIdiom": "Tình yêu chết đi bởi sự nhàm chán và bị chôn vùi bởi sự lãng quên.",
+    "authorIdiom": "Jean De La Bruyère"
+  },
+  {
+    "idIdiom": "2541",
+    "contentIdiom": "Giọt nước mắt đầu tiên của tình yêu giống như hạt kim cương; giọt nước mắt thứ nhì giống như hạt ngọc; giọt nước mắt thứ ba giống như những giọt nước mắt khác, không hơn không kém.",
+    "authorIdiom": "Achille Poincelot"
+  },
+  {
+    "idIdiom": "2543",
+    "contentIdiom": "Không được điều mình yêu thì hãy yêu điều mình có.",
+    "authorIdiom": "B.Ratxputin"
+  },
+  {
+    "idIdiom": "2546",
+    "contentIdiom": "Tình yêu là cuộc sống. Nếu bạn thiếu tình yêu, bạn thiếu sự sống.",
+    "authorIdiom": "Leo Buscaglia"
+  },
+  {
+    "idIdiom": "2547",
+    "contentIdiom": "Đời không gì đẹp bằng đang lúc còn yêu nhau dang dở.",
+    "authorIdiom": "Thomas Moore"
+  },
+  {
+    "idIdiom": "2548",
+    "contentIdiom": "Ái tình có sức mạnh hơn Thượng đế là làm hòa hợp hai tâm hồn thành một.",
+    "authorIdiom": "La Biouse"
+  },
+  {
+    "idIdiom": "2549",
+    "contentIdiom": "Trái tim có lý lẽ riêng của nó mà lý trí không thể nào hiểu được.",
+    "authorIdiom": "Charles Perkhurst"
+  },
+  {
+    "idIdiom": "2551",
+    "contentIdiom": "Đối với những người đang yêu say đắm, cả thế giới đều như đang mỉm cười.",
+    "authorIdiom": "David Myers"
+  },
+  {
+    "idIdiom": "2552",
+    "contentIdiom": "Hạnh phúc không thể đến từ hư không. Hạnh phúc chỉ có thể đến từ phía bên trong chúng ta.",
+    "authorIdiom": "Helen Keller"
+  },
+  {
+    "idIdiom": "2553",
+    "contentIdiom": "Chết vì thiếu tình yêu thì ghê sợ quá. Đó là sự chết ngạt của tâm hồn.",
+    "authorIdiom": "Victor Hugo"
+  },
+  {
+    "idIdiom": "2554",
+    "contentIdiom": "Cái buồn nhất trong tình yêu là không những nó không thể kéo dài mãi, mà những thất vọng nó tạo ra cũng chóng quên.",
+    "authorIdiom": "William Faulknr"
+  },
+  {
+    "idIdiom": "2555",
+    "contentIdiom": "Người đàn ông và một người đàn bà thường hay nói chuyện tình bạn trước tình yêu. Tình bạn ấy là một thứ tình giả tạo để che giấu một mối tình bên trong mà cả hai không ai dám nói ra.",
+    "authorIdiom": "Marcel Proust"
+  },
+  {
+    "idIdiom": "2556",
+    "contentIdiom": "Trôi quá chậm đối với ai đang chờ đợi \r\nTrôi nhanh đối với ai sợ hãi \r\nQuá dài đối với ai phiền não \r\nQuá ngắn đối với ai hân hoan \r\nNhưng đối với kẻ đang yêu, thời gian là vĩnh cửu.",
+    "authorIdiom": "Henry van Dyke"
+  },
+  {
+    "idIdiom": "2557",
+    "contentIdiom": "Sự xa cách làm phôi pha tình yêu hời hợt và làm thắm đượm thêm tình yêu nồng nàn, như cơn gió thổi tắt ngọn nến nhỏ và làm bùng cháy lên đống lửa lớn.",
+    "authorIdiom": "La Rochefoucauld"
+  },
+  {
+    "idIdiom": "2558",
+    "contentIdiom": "Càng vắng mặt lâu, người ta càng xa dần những người mình yêu và người yêu mình.",
+    "authorIdiom": "Danh ngôn Nhật"
+  },
+  {
+    "idIdiom": "2559",
+    "contentIdiom": "Với kẻ thù và bằng hữu, anh nói rằng em hung dữ để cho không có một người nào yêu em, trừ anh ra.",
+    "authorIdiom": "Ngạn ngữ Tây Ban Nha"
+  },
+  {
+    "idIdiom": "2560",
+    "contentIdiom": "Người ta nói có yêu mới ghen, không yêu thì đâu có ghen làm gì. Nhưng chưa chắc ghen đã là dấu hiệu của tình yêu.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2561",
+    "contentIdiom": "Những con tim đã hàn gắn với nhau thì không xa cách nữa mà chỉ có thể xé nát lẫn nhau mà thôi.",
+    "authorIdiom": "A. Dupuy"
+  },
+  {
+    "idIdiom": "2562",
+    "contentIdiom": "Cố gắng làm ai đó yêu bạn cũng khó như cố lựa chọn người để yêu.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2563",
+    "contentIdiom": "Đừng bao giờ tạm biệt khi bạn vẫn còn muốn thử, đừng bao giờ từ bỏ nếu bạn vẫn cảm thấy mình làm được. Đừng bao giờ nói mình không còn yêu người đó nữa nếu bạn không thể buông tay.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2564",
+    "contentIdiom": "Vết thương của tình yêu chỉ có thể chữa lành bởi người gây ra chúng.",
+    "authorIdiom": "Publilius Syrus"
+  },
+  {
+    "idIdiom": "2565",
+    "contentIdiom": "Tình yêu cũng giống như chiếc răng. Khi mọc, nó làm ta đau. Khi giữ gìn nó, ta phải chịu đau. Khi rụng, nó cũng làm ta đau. Nhưng ở đời không ai không muốn có răng.",
+    "authorIdiom": "Ngạn ngữ Ba Lan"
+  },
+  {
+    "idIdiom": "2566",
+    "contentIdiom": "Tình yêu là sự rung cảm của một tâm hồn khi gặp một tâm hồn đồng điệu, là sự hòa nhịp của hai trái tim, làm người ta nhìn thấy mọi vật tươi đẹp hơn.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2568",
+    "contentIdiom": "Có hai cái hôn mà tôi không sao quên được: cái hôn cuối cùng của mẹ tôi và cái hôn đầu tiên mà tôi trao cho người tình.",
+    "authorIdiom": "Danh ngôn Tây Ban Nha"
+  },
+  {
+    "idIdiom": "2569",
+    "contentIdiom": "Trong tình yêu, hờn dỗi không phải là biểu hiện của tan vỡ mà chỉ làm cho nhụy hoa thêm tươi, bông hoa thêm đẹp.",
+    "authorIdiom": "Tục ngữ Ai Cập"
+  },
+  {
+    "idIdiom": "2570",
+    "contentIdiom": "Không bao giờ người ta yêu như người ta đã được yêu. Bởi thế, muốn đạt được hạnh phúc trong tình yêu, chúng ta phải cho tất cả mà không được đòi hỏi gì.",
+    "authorIdiom": "Paul Bourgier"
+  },
+  {
+    "idIdiom": "2571",
+    "contentIdiom": "Tình yêu say đắm nhất là khi đẫm lệ.",
+    "authorIdiom": "Sir Walter Scott"
+  },
+  {
+    "idIdiom": "2572",
+    "contentIdiom": "Con người không có tình yêu chẳng khác nào trái đất không có mặt trời.",
+    "authorIdiom": "Victor Hugo"
+  },
+  {
+    "idIdiom": "2573",
+    "contentIdiom": "Tình yêu chiến thắng tất cả ngoại trừ con tim của kẻ phản bội.",
+    "authorIdiom": "Ngạn ngữ Pháp"
+  },
+  {
+    "idIdiom": "2574",
+    "contentIdiom": "Trên đời chẳng có gì ngọt ngào bằng giấc mộng yêu đương thời tuổi trẻ.",
+    "authorIdiom": "Thomas Moore"
+  },
+  {
+    "idIdiom": "2575",
+    "contentIdiom": "Tôi có thể hối hận vì đã nói dối, vì đã gây ra sự sụp đổ và đau đớn. Nhưng dẫu đến giờ phút sắp trút hơi thở cuối cùng, tôi cũng không thể hối hận vì đã yêu.",
+    "authorIdiom": "Graham Greene"
+  },
+  {
+    "idIdiom": "2577",
+    "contentIdiom": "Thời gian củng cố tình bạn và làm suy giảm tình yêu.",
+    "authorIdiom": "Jean De La Bruyère"
+  },
+  {
+    "idIdiom": "2578",
+    "contentIdiom": "Người ở lại bao giờ cũng buồn hơn kẻ ra đi.",
+    "authorIdiom": "C. De Marivaux"
+  },
+  {
+    "idIdiom": "2579",
+    "contentIdiom": "Sự ghen tuông bóp chết tình yêu như tro than làm tắt lửa.",
+    "authorIdiom": "Ninon De Lenclos"
+  },
+  {
+    "idIdiom": "2580",
+    "contentIdiom": "Tình yêu đến dù bạn muốn hay không. Đừng cố điều khiển nó!",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2583",
+    "contentIdiom": "Tình yêu nuôi dưỡng bằng quà tặng lúc nào cũng thấy đói.",
+    "authorIdiom": "Ngạn ngữ Anh"
+  },
+  {
+    "idIdiom": "2584",
+    "contentIdiom": "Tình yêu chúng ta cho đi là tình yêu duy nhất chúng ta có được.",
+    "authorIdiom": "Elbert Hubbard"
+  },
+  {
+    "idIdiom": "2585",
+    "contentIdiom": "Yêu thương và được yêu thương là một khúc nhạc thâm trầm, nghe mãi mà không biết chán.",
+    "authorIdiom": "De Stael"
+  },
+  {
+    "idIdiom": "2586",
+    "contentIdiom": "Hoa hạnh phúc mọc ngay bên cạnh chúng ta, chứ đâu phải đi hái vườn người.",
+    "authorIdiom": "Douglas Jerrold"
+  },
+  {
+    "idIdiom": "2587",
+    "contentIdiom": "Khi cái nghèo vào nhà bằng cửa lớn, tình yêu bay qua cửa sổ.",
+    "authorIdiom": "Ngạn ngữ Pháp"
+  },
+  {
+    "idIdiom": "2588",
+    "contentIdiom": "Người ghen luôn tìm thấy nhiều điều hơn ý mình muốn tìm.",
+    "authorIdiom": "Molière"
+  },
+  {
+    "idIdiom": "2589",
+    "contentIdiom": "Không ai xứng đáng với những giọt nước mắt của bạn, nhưng nếu có người xứng đáng, anh ta sẽ không làm bạn khóc.",
+    "authorIdiom": "Gabriel Garcia Marquez"
+  },
+  {
+    "idIdiom": "2590",
+    "contentIdiom": "Nếu bạn muốn trái tim người khác thuộc về mình, bạn phải đem trái tim của mình ra trao đổi.",
+    "authorIdiom": "Alexander Smith"
+  },
+  {
+    "idIdiom": "2591",
+    "contentIdiom": "Mất mát trong tình yêu cũng giống như thua cờ, càng chơi bạn càng học hỏi được nhiều hơn.",
+    "authorIdiom": "Lia Gay"
+  },
+  {
+    "idIdiom": "2592",
+    "contentIdiom": "Tình yêu là một con vật quái dị: để nó đói khát thì nó sống mãi, cho nó no nê thì nó chết mất.",
+    "authorIdiom": "Alfred De Musset"
+  },
+  {
+    "idIdiom": "2593",
+    "contentIdiom": "Khó khăn là một phần của cuộc sống, và nếu bạn không chia sẻ nó, bạn sẽ không mang lại cho người yêu mến bạn cơ may để yêu bạn nhiều hơn.",
+    "authorIdiom": "Dinah Shore"
+  },
+  {
+    "idIdiom": "2594",
+    "contentIdiom": "Sự ly biệt của những kẻ yêu nhau nồng thắm là cái thú đau thương tuyệt vời.",
+    "authorIdiom": "Robert Burns"
+  },
+  {
+    "idIdiom": "2596",
+    "contentIdiom": "Đừng cưới một người mà bạn có thể chung sống. Hãy cưới một người mà bạn không thể sống nổi khi thiếu người ấy.",
+    "authorIdiom": "James C. Dobson"
+  },
+  {
+    "idIdiom": "2597",
+    "contentIdiom": "Đó là tình yêu: Hai con người cô đơn đem lại cho nhau sự an toàn, chạm vào nhau và nói với nhau.",
+    "authorIdiom": "Rainer Maria Rilke"
+  },
+  {
+    "idIdiom": "2598",
+    "contentIdiom": "Con người quyết định nhiều vấn đề vì lòng oán hận, tình yêu, dục vọng, giận dữ, nỗi buồn, niềm vui, hy vọng, sợ hãi, ảo tưởng và những cảm xúc nội tâm khác, hơn là vì hiện thực, chính quyền, các chuẩn mực pháp lý, án lệ, hay chế độ.",
+    "authorIdiom": "Marcus Tullius Cicero"
+  },
+  {
+    "idIdiom": "2599",
+    "contentIdiom": "Tình yêu không thể hiện được ý niệm của âm nhạc, trong khi âm nhạc có thể cho ta ý niệm về tình yêu.",
+    "authorIdiom": "Hecto Berlioz"
+  },
+  {
+    "idIdiom": "2600",
+    "contentIdiom": "Tình yêu cho phép những ca khúc ra đời. Nỗi đau và niềm hân hoan làm thành bào thai sinh nở ra âm nhạc. Âm nhạc như thế là tình yêu, là trong bản thân nó hàm chứa một cõi nhân sinh bề bộn những khổ đau và hoan lạc.",
+    "authorIdiom": "Trịnh Công Sơn"
+  },
+  {
+    "idIdiom": "2601",
+    "contentIdiom": "Cứ thử đi, ngươi không thể hủy diệt di tích vĩnh hằng của trái tim con người, tình yêu.",
+    "authorIdiom": "Victor Hugo"
+  },
+  {
+    "idIdiom": "2602",
+    "contentIdiom": "Nơi nào có tình yêu, nơi đó có sự sống.",
+    "authorIdiom": "Mahatma Gandhi"
+  },
+  {
+    "idIdiom": "2603",
+    "contentIdiom": "Tình yêu có bản năng của riêng mình, tìm đường tới trái tim, cũng như loài côn trùng yếu ớt nhất tìm đường tới đóa hoa, với ý chí không gì có thể làm mất tinh thần hay trệch hướng.",
+    "authorIdiom": "Honoré de Balzac"
+  },
+  {
+    "idIdiom": "2604",
+    "contentIdiom": "Trong nghệ thuật cũng như trong tình yêu, bản năng là đủ.",
+    "authorIdiom": "Anatole France"
+  },
+  {
+    "idIdiom": "2605",
+    "contentIdiom": "Yêu một người là muốn chia sẻ với người đó bí mật che giấu nơi sâu nhất trong nội tâm.",
+    "authorIdiom": "Đinh Mặc"
+  },
+  {
+    "idIdiom": "2606",
+    "contentIdiom": "Tình yêu hoàn hảo không thể tồn tại nếu thiếu sự bình đẳng.",
+    "authorIdiom": "Ngạn ngữ Scotland"
+  },
+  {
+    "idIdiom": "2607",
+    "contentIdiom": "Biết rằng tình yêu đã bắt đầu là cái khó, biết nó bắt đầu từ lúc nào còn khó hơn.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2608",
+    "contentIdiom": "Tình yêu là sự bận rộn của những kẻ nhàn rỗi, nhưng cũng là sự nhàn rỗi của những kẻ bận rộn.",
+    "authorIdiom": "Edward Bulwer Lytton"
+  },
+  {
+    "idIdiom": "2609",
+    "contentIdiom": "Tình yêu có thể làm được nhiều việc, nhưng bổn phận còn làm được nhiều hơn.",
+    "authorIdiom": "Johann Wolfgang von Goethe"
+  },
+  {
+    "idIdiom": "2610",
+    "contentIdiom": "Gửi các quý cô: Nếu người đàn ông thực sự muốn ở bên bạn, bạn sẽ biết điều đó! Nếu bạn phải phân vân nghi ngại, hãy buông tay đi thôi!",
+    "authorIdiom": "Tony Gaskins"
+  },
+  {
+    "idIdiom": "2611",
+    "contentIdiom": "Một ly cà phê ngon là phải vừa ngọt vừa đắng. Một tình yêu lý tưởng là một tình yêu vừa ngọt ngào, vừa đắng cay.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2612",
+    "contentIdiom": "Tình yêu mà tôi muốn không phải là cả đời không cãi nhau, mà là có cãi nhau nhưng rồi vẫn có thể bên nhau cả đời.",
+    "authorIdiom": "Weibo"
+  },
+  {
+    "idIdiom": "2613",
+    "contentIdiom": "Tình yêu là thứ duy nhất chúng ta có thể mang theo mình khi ra đi, và nó khiến kết thúc trở nên dễ dàng.",
+    "authorIdiom": "Louisa May Alcott"
+  },
+  {
+    "idIdiom": "2614",
+    "contentIdiom": "Tình yêu là nỗ lực hình thành tình bạn được cái đẹp truyền cảm hứng.",
+    "authorIdiom": "Marcus Tullius Cicero"
+  },
+  {
+    "idIdiom": "2615",
+    "contentIdiom": "Người nói yêu bạn, chưa chắc có thể đợi được bạn. Nhưng người đợi được bạn, chắc chắn sẽ rất yêu bạn.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2616",
+    "contentIdiom": "Chính ở rìa cánh hoa mà tình yêu chờ đợi.",
+    "authorIdiom": "William Carlos"
+  },
+  {
+    "idIdiom": "2617",
+    "contentIdiom": "Tình yêu thật sự cũng bao gồm cả sự chờ đợi. Đợi người con yêu có thể quay lại nhìn con, đợi người con yêu nhận ra con vẫn luôn ở bên cạnh, đợi người con yêu cuối cùng cũng cần đến sự đồng hành của con, đợi người con yêu yêu con, dù chỉ là một chút.",
+    "authorIdiom": "Mộc Phạn"
+  },
+  {
+    "idIdiom": "2618",
+    "contentIdiom": "Người nói yêu bạn chưa chắc đã đợi được bạn, nhưng người đợi bạn nhất định rất yêu bạn.",
+    "authorIdiom": "Weibo"
+  },
+  {
+    "idIdiom": "2619",
+    "contentIdiom": "Nhiều người đàn ông cảm động khôn xiết trước điều nhỏ nhất giống với sự đau khổ của người phụ nữ; họ coi vẻ đau khổ như là dấu hiệu của sự chung thủy hay là tình yêu.",
+    "authorIdiom": "Honoré de Balzac"
+  },
+  {
+    "idIdiom": "2620",
+    "contentIdiom": "Yêu một người thì không sai. Nhưng dành cả tuổi xuân của mình cho một người dẫu biết sẽ chẳng đi tới đâu thì nhất định sai, sai hoàn toàn.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2621",
+    "contentIdiom": "Sức mạnh của tình yêu thường luôn bị đánh giá sai nếu chúng ta nhìn nhận nó dựa trên căn nguyên trực tiếp chứ không phải những nỗ lực đã bỏ ra trước đó, khoảng không tối tăm và sâu hun hút chứa đầy những thất vọng và cô đơn đến trước tất cả những sự kiện lớn nhất trong lịch sử của con tim.",
+    "authorIdiom": "Stefan Zweig"
+  },
+  {
+    "idIdiom": "2622",
+    "contentIdiom": "Món quà lớn nhất mà bạn có thể trao cho người khác là món quà của tình yêu và sự chấp nhận vô điều kiện.",
+    "authorIdiom": "Brian Tracy"
+  },
+  {
+    "idIdiom": "2623",
+    "contentIdiom": "Một trong những điều khó khăn nhất trong cuộc đời là nhìn người mình yêu yêu người khác.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2624",
+    "contentIdiom": "Yêu không chỉ là một danh từ - nó là một động từ; nó không chỉ là cảm xúc - nó là quan tâm, chia sẻ, giúp đỡ, hy sinh.",
+    "authorIdiom": "William Arthur Ward"
+  },
+  {
+    "idIdiom": "2625",
+    "contentIdiom": "Với phân tích cuối cùng, tình yêu là cuộc sống. Tình yêu không bao giờ thất bại và cuộc sống không bao giờ thất bại chừng nào còn có tình yêu.",
+    "authorIdiom": "Henry Drummond"
+  },
+  {
+    "idIdiom": "2626",
+    "contentIdiom": "Những nụ hồng tình yêu làm đẹp vườn đời.",
+    "authorIdiom": "Lord Byron"
+  },
+  {
+    "idIdiom": "2627",
+    "contentIdiom": "Cầu mong bạn sẽ sống lâu chừng nào bạn muốn và yêu lâu chừng nào bạn sống.",
+    "authorIdiom": "Louisa May Alcott"
+  },
+  {
+    "idIdiom": "2628",
+    "contentIdiom": "Cuộc sống và tình yêu đều vô cùng quý giá khi chúng đang nở rộ.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2629",
+    "contentIdiom": "Cả đời chỉ yêu một lần là tốt nhất. Yêu quá nhiều sẽ trở nên lãnh đạm, chia tay quá nhiều sẽ trở thành thói quen, đổi người yêu quá nhiều sẽ hay so sánh. Đến cuối cùng, bạn sẽ không còn tin vào tình yêu nữa. Thực ra, đối với tình yêu, càng đơn thuần sẽ càng hạnh phúc.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2631",
+    "contentIdiom": "Trong hành trình tìm kiếm tình yêu, hạnh phúc chỉ đến với những ai biết kiên nhẫn, biết lắng nghe, biết nỗ lực và dũng cảm đương đầu với thử thách.",
+    "authorIdiom": "An Dĩ Mạch"
+  },
+  {
+    "idIdiom": "2632",
+    "contentIdiom": "Nếu không thể ở bên nhau thì đừng tạo ra bất cứ tín hiệu nào cho đối phương thêm hy vọng. Đây là điều dịu dàng nhất mà bạn dành cho đối phương.",
+    "authorIdiom": "Weibo"
+  },
+  {
+    "idIdiom": "2633",
+    "contentIdiom": "Nụ hôn là bí mật được nói vào miệng thay vào nói vào tai; chúng là thông điệp của tình yêu và sự dịu dàng.",
+    "authorIdiom": "Ingrid Bergman"
+  },
+  {
+    "idIdiom": "2635",
+    "contentIdiom": "Sự giận dữ của những người yêu nhau làm hồi phục sức mạnh của tình yêu.",
+    "authorIdiom": "Publilius Syrus"
+  },
+  {
+    "idIdiom": "2636",
+    "contentIdiom": "Ghen tuông là căn bệnh, tình yêu là khỏe mạnh. Tâm hồn non nớt thường nhầm lẫn hai trạng thái này, hoặc cho rằng tình yêu càng lớn, ghen tuông càng mạnh - thực ra, chúng gần như không tương thích; cảm xúc này thường không để lại chỗ cho cảm xúc kia.",
+    "authorIdiom": "Robert A Heinlein"
+  },
+  {
+    "idIdiom": "2638",
+    "contentIdiom": "Tình yêu không mù quáng, ghen tuông mới mù quáng.",
+    "authorIdiom": "Lawrence Durrell"
+  },
+  {
+    "idIdiom": "2639",
+    "contentIdiom": "Không có giao tiếp, không có quan hệ. Không có tôn trọng, không có tình yêu. Không có tin tưởng, không có lý do để tiếp tục!",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2640",
+    "contentIdiom": "Đôi khi chúng ta mơ có được ai đó chúng ta thật sự yêu thương, nhưng cuộc đời không như vậy. Chúng ta không có được tất cả những gì mình muốn, nhưng cuối cùng chúng ta lại yêu người còn tốt đẹp hơn cả giấc mơ của chúng ta.",
+    "authorIdiom": "Robert Fulghum"
+  },
+  {
+    "idIdiom": "2641",
+    "contentIdiom": "Rất nhiều khi chúng ta xây dựng dựa trên ham muốn mãnh liệt. Thế nhưng khi ham muốn ấy cạn kiệt, chúng ta nghĩ rằng tình yêu đã cạn kiệt, nhưng thực ra chính ham muốn mới có ngày hết hạn. Chúng ta phải biết tình yêu chân thực là gì, và liệu có phải chúng ta thực sự đang yêu hay không.",
+    "authorIdiom": "Tony Gaskins"
+  },
+  {
+    "idIdiom": "2642",
+    "contentIdiom": "Yêu là hành động.",
+    "authorIdiom": "Victor Hugo"
+  },
+  {
+    "idIdiom": "2643",
+    "contentIdiom": "Tình yêu là trạng thái mà khi đó hạnh phúc của một người khác trở nên cực kỳ quan trọng đối với hạnh phúc của bạn.",
+    "authorIdiom": "Robert A Heinlein"
+  },
+  {
+    "idIdiom": "2644",
+    "contentIdiom": "Chỉ có một thứ hạnh phúc trên đời, yêu và được yêu.",
+    "authorIdiom": "George Sand"
+  },
+  {
+    "idIdiom": "2645",
+    "contentIdiom": "Tình yêu chúng ta có trong tuổi trẻ chỉ là hời hợt so với tình yêu mà một người đàn ông già nua dành cho người vợ già của mình.",
+    "authorIdiom": "Will Durant"
+  },
+  {
+    "idIdiom": "2646",
+    "contentIdiom": "Nếu như tình yêu là ánh sáng thì hôn nhân là hóa đơn thu tiền điện.",
+    "authorIdiom": "Benjamin Franklin"
+  },
+  {
+    "idIdiom": "2649",
+    "contentIdiom": "Nếu có người nghĩ rằng tình yêu và hòa bình là thứ sáo rỗng đáng lẽ ra phải bị bỏ lại vào những năm Sáu mươi, đó là vấn đề của anh ta. Tình yêu và hòa bình là vĩnh cửu.",
+    "authorIdiom": "John Lennon"
+  },
+  {
+    "idIdiom": "2650",
+    "contentIdiom": "Yêu là chịu rủi ro không được đáp lại. Hy vọng là chịu rủi ro sẽ đau khổ. Thử là chịu rủi ro thất bại, nhưng phải chấp nhận rủi ro vì rủi ro lớn nhất trong đời là không dám mạo hiểm.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2651",
+    "contentIdiom": "Có hai nguồn động lực cơ bản: nỗi sợ hãi và tình yêu. Khi chúng ta sợ hãi, chúng ta quay lưng lại với cuộc đời. Khi chúng ta yêu, chúng ta mở lòng đón nhận tất cả những gì đời trao tặng với niềm nhiệt huyết, sự hào hứng và chấp nhận.",
+    "authorIdiom": "John Lennon"
+  },
+  {
+    "idIdiom": "2652",
+    "contentIdiom": "Đừng tin quá nhiều. Đừng yêu quá nhiều. Đừng hy vọng quá nhiều. Bởi vì những cái quá nhiều ấy có thể khiến bạn tổn thương sâu đậm.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2654",
+    "contentIdiom": "Nếu một người chỉ yêu một người khác và thờ ơ với tất cả những người còn lại, tình yêu của anh ta không phải là tình yêu mà là sự gắn bó cộng sinh, hay là sự duy ngã độc tôn được khuếch đại.",
+    "authorIdiom": "Erich Fromm"
+  },
+  {
+    "idIdiom": "2655",
+    "contentIdiom": "Yêu trong im lặng đau đớn tới không thể chịu nổi đối với tâm hồn.",
+    "authorIdiom": "Anna Akhmatova"
+  },
+  {
+    "idIdiom": "2656",
+    "contentIdiom": "Bạn thấy tình yêu là gì? Là sự im lặng trong thoải mái mà không ngượng ngùng.",
+    "authorIdiom": "Weibo"
+  },
+  {
+    "idIdiom": "2657",
+    "contentIdiom": "Khi bạn thích ai đó, bạn thích bất chấp những khuyết điểm của người ấy. Khi bạn yêu ai đó, bạn yêu cả những khuyết điểm của người ấy.",
+    "authorIdiom": "Hermann Hesse"
+  },
+  {
+    "idIdiom": "2658",
+    "contentIdiom": "Tình yêu chỉ đơn giản là cái tên của khát vọng và cuộc theo đuổi sự toàn thiện.",
+    "authorIdiom": "Plato"
+  },
+  {
+    "idIdiom": "2659",
+    "contentIdiom": "Một người tình không biết kín đáo chẳng phải là một người tình.",
+    "authorIdiom": "Thomas Hardy"
+  },
+  {
+    "idIdiom": "2660",
+    "contentIdiom": "Tình yêu giống như một bài thơ chúng ta thích khi còn trẻ. Tuổi tác dần cao, cho dù trong lòng chúng ta vẫn thuộc từng câu từng chữ nhưng lại xấu hổ không dám ngâm nga trước mặt người khác. Tình yêu xuất hiện không phải để có một kết quả mà là để lấp đầy ký ức của con người.",
+    "authorIdiom": "Lâm Địch Nhi"
+  },
+  {
+    "idIdiom": "2662",
+    "contentIdiom": "Nếu bạn yêu hai người cùng một lúc, thì tôi khuyên bạn hãy chọn người thứ hai. Nếu người thứ nhất đủ hoàn hảo thì bạn sẽ không để ý đến người thứ hai đâu. Tin tôi đi!",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2663",
+    "contentIdiom": "Chúng ta đều hơi lập dị và cuộc đời cũng hơi lập dị, và khi chúng ta tìm được người mà sự lập dị tương thích với ta, ta đến với họ và hòa nhập vào sự lập dị chung và gọi đó là tình yêu.",
+    "authorIdiom": "Dr Seuss"
+  },
+  {
+    "idIdiom": "2664",
+    "contentIdiom": "Phải lòng nhau đơn thuần là tháo nút cho trí tưởng tượng thoát ra và đem lẽ thường đóng vào chai.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2665",
+    "contentIdiom": "Khi trái tim chất đầy hạnh phúc, con người ta đưa ra những quyết định lương thiện. Những người chìm đắm trong tình yêu vì thế mà sở hữu một sự đơn thuần và tươi đẹp đến không thể tin được.",
+    "authorIdiom": "Cửu Dạ Hồi"
+  },
+  {
+    "idIdiom": "2666",
+    "contentIdiom": "Những người lịch sự nhất là những người tình tồi tệ nhất.",
+    "authorIdiom": "Denis Diderot"
+  },
+  {
+    "idIdiom": "2667",
+    "contentIdiom": "Tình yêu không có lý tưởng là sự kết hợp tầm thường.",
+    "authorIdiom": "Ngụy Nguy"
+  },
+  {
+    "idIdiom": "2668",
+    "contentIdiom": "Không người nào có thể ra lệnh cho tình yêu.",
+    "authorIdiom": "George Sand"
+  },
+  {
+    "idIdiom": "2669",
+    "contentIdiom": "Sự mất mát khiến chúng ta trống rỗng - nhưng hãy học cách không để sự đau khổ đóng lại trái tim và tâm hồn mình. Hãy để cuộc đời đổ đầy lại bạn. Dưới đáy u sầu, dường như điều đó là không thể - nhưng những niềm vui mới đang chờ đợi để lấp đầy khoảng trống.",
+    "authorIdiom": "Pam Brown"
+  },
+  {
+    "idIdiom": "2670",
+    "contentIdiom": "Bạch đầu giai lão thực ra chẳng liên quan gì đến tình yêu, chỉ đơn giản là nhẫn nại… Thế nhưng, nhẫn nại cũng chính là một loại tình yêu. Vì thế, người thực sự yêu bạn, thực chất chính là người luôn tỏ ra nhẫn nại với bạn.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2671",
+    "contentIdiom": "Khi người ta yêu, sự nghèo khó trở nên mờ nhạt đến đáng ngạc nhiên.",
+    "authorIdiom": "Edward Bulwer Lytton"
+  },
+  {
+    "idIdiom": "2672",
+    "contentIdiom": "Tình yêu thuần khiết và nghi ngờ không thể sống cùng nhau: tại cánh cửa nơi nghi ngờ bước vào, tình yêu rời khỏi.",
+    "authorIdiom": "Alexandre Dumas"
+  },
+  {
+    "idIdiom": "2673",
+    "contentIdiom": "Nghi ngờ sự tồn tại của tình yêu sẽ khiến chúng ta nghi ngờ mọi thứ.",
+    "authorIdiom": "Henri Frederic Amiel"
+  },
+  {
+    "idIdiom": "2674",
+    "contentIdiom": "Tình yêu sợ sự nghi ngờ, tuy vậy tình yêu lớn lên nhờ sự nghi ngờ và thường chết đi vì sự tin tưởng.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2675",
+    "contentIdiom": "Nhớ một người là cách trái tim nhắc nhở rằng bạn yêu người ấy.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2676",
+    "contentIdiom": "Tình yêu và niềm vui là hai anh em song sinh, hoặc bắt nguồn từ nhau.",
+    "authorIdiom": "William Hazlitt"
+  },
+  {
+    "idIdiom": "2677",
+    "contentIdiom": "Tình yêu là sự cả gan khéo léo cần thiết để chia sẻ đời sống nội tâm.",
+    "authorIdiom": "Gertrude Stein"
+  },
+  {
+    "idIdiom": "2678",
+    "contentIdiom": "Chúng ta không bao giờ có thể thực sự yêu ai mà chúng ta chưa từng cùng cười.",
+    "authorIdiom": "Agnes Repplier"
+  },
+  {
+    "idIdiom": "2679",
+    "contentIdiom": "Cảm giác yêu một người đơn thuần như thế, cũng chỉ là một ước muốn xa xỉ làm cho người ở trước mặt mình mãi mãi vui vẻ, luôn nở nụ cười.",
+    "authorIdiom": "Sênh Ly"
+  },
+  {
+    "idIdiom": "2680",
+    "contentIdiom": "Đàn ông mất phương hướng sau bốn ly rượu; đàn bà mất phương hướng sau bốn nụ hôn.",
+    "authorIdiom": "Henry Louis Mencken"
+  },
+  {
+    "idIdiom": "2681",
+    "contentIdiom": "Tình yêu an ủi được tất, kể cả những ưu phiền do nó gây ra.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2682",
+    "contentIdiom": "Anh càng phán xét nhiều thì anh càng yêu ít.",
+    "authorIdiom": "Honoré de Balzac"
+  },
+  {
+    "idIdiom": "2684",
+    "contentIdiom": "Hỡi ôi! Tình yêu của đàn bà ai cũng biết là vừa dễ thương vừa đáng sợ.",
+    "authorIdiom": "Lord Byron"
+  },
+  {
+    "idIdiom": "2685",
+    "contentIdiom": "Phụ nữ muốn được yêu mà không cần phải hỏi tại sao; không phải vì họ xinh đẹp, hay tử tế, hay thuộc về dòng dõi cao quý, hay thông minh, mà bởi họ là chính họ.",
+    "authorIdiom": "Henri Frederic Amiel"
+  },
+  {
+    "idIdiom": "2686",
+    "contentIdiom": "Người phụ nữ biết gương mặt của người đàn ông nàng yêu như thủy thủ hiểu biển khơi rộng lớn.",
+    "authorIdiom": "Honoré de Balzac"
+  },
+  {
+    "idIdiom": "2687",
+    "contentIdiom": "Phụ nữ, có lẽ là luôn như vậy! Vừa chờ mong yêu và được yêu, nhưng cũng sợ bị thương, đồng thời còn e ngại người đàn ông âu yếm mình có toàn tâm toàn ý yêu bản thân mình hay không.",
+    "authorIdiom": "Ân Tầm"
+  },
+  {
+    "idIdiom": "2688",
+    "contentIdiom": "Bạn không yêu người phụ nữ vì nàng đẹp, nhưng nàng đẹp vì bạn yêu nàng.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2689",
+    "contentIdiom": "Nếu kẻ nào đem quà tặng để xây dựng tình yêu thì không thể có tình yêu chân chính, vì đầu óc họ luôn đầy rẫy những ham muốn vật chất. Còn đâu có được quan điểm tình yêu đứng đắn.",
+    "authorIdiom": "Lý Trân"
+  },
+  {
+    "idIdiom": "2690",
+    "contentIdiom": "Con người sinh ra vốn bất toàn và để làm những điều lầm lỗi. Nó đẹp vì bất toàn. Nó đáng yêu vì nó luôn luôn lầm lỗi. Vậy thì cứ yêu mà đừng tuyệt vọng.",
+    "authorIdiom": "Trịnh Công Sơn"
+  },
+  {
+    "idIdiom": "2691",
+    "contentIdiom": "Khi bạn là một người mẹ, bạn không bao giờ thực sự cô độc trong suy nghĩ của mình. Một người mẹ luôn phải nghĩ hai lần, một lần cho bản thân và một lần cho con cái.",
+    "authorIdiom": "Sophia Loren"
+  },
+  {
+    "idIdiom": "2692",
+    "contentIdiom": "Khôn ngoan đá đáp người ngoài, \r\nGà cùng một mẹ chớ hoài đá nhau.",
+    "authorIdiom": "Ca dao Việt Nam"
+  },
+  {
+    "idIdiom": "2693",
+    "contentIdiom": "Tôi có nơi ẩn náu tuyệt vời, đó là gia đình. Tôi có mối quan hệ tuyệt vời với anh chị em của tôi; điều này khiến tôi cảm thấy mình luôn biết mình thuộc về nơi đâu.",
+    "authorIdiom": "Jose Carreras"
+  },
+  {
+    "idIdiom": "2695",
+    "contentIdiom": "Có tình anh em giữa những người từng bú chung bầu sữa, thứ tình thân mà ngay cả thời gian cũng không thể bẻ gẫy.",
+    "authorIdiom": "Khaled Hosseini"
+  },
+  {
+    "idIdiom": "2696",
+    "contentIdiom": "Đường không qua lại cỏ gianh mọc \r\nAnh em không đi về thành người dưng.",
+    "authorIdiom": "Tục ngữ Tày - Nùng"
+  },
+  {
+    "idIdiom": "2697",
+    "contentIdiom": "Lòng bàn tay là da \r\nMu bàn tay là thịt, \r\nCấu chỗ nào cũng đau.",
+    "authorIdiom": "Tục ngữ Thái"
+  },
+  {
+    "idIdiom": "2698",
+    "contentIdiom": "Anh em hiền thậm là hiền, \r\nBởi một đồng tiền nên mất lòng nhau",
+    "authorIdiom": "Ca dao Việt Nam"
+  },
+  {
+    "idIdiom": "2699",
+    "contentIdiom": "Đường không qua lại cỏ gianh mọc \r\n Anh em không đi về thành người dưng",
+    "authorIdiom": "Tục ngữ Tày - Nùng"
+  },
+  {
+    "idIdiom": "2700",
+    "contentIdiom": "Anh em như chân tay, vợ chồng như áo quần. \r\nÁo quần rách lại may mới được, chân tay đứt khôn bề nối lại được.",
+    "authorIdiom": "Trang Tử"
+  },
+  {
+    "idIdiom": "2702",
+    "contentIdiom": "Tôi không thể nghĩ ra được nhu cầu nào mãnh liệt trong thời thơ ấu như mong muốn có sự bảo vệ của người cha.",
+    "authorIdiom": "Sigmund Freud"
+  },
+  {
+    "idIdiom": "2703",
+    "contentIdiom": "Trẻ con là những kẻ bắt chước bẩm sinh hành động giống như cha mẹ mình bất chấp mọi nỗ lực để dạy chúng cách xử thế.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2705",
+    "contentIdiom": "Khi cha cho con, cả hai đều cười; khi con biếu cha, cả hai cùng khóc.",
+    "authorIdiom": "William Shakespeare"
+  },
+  {
+    "idIdiom": "2708",
+    "contentIdiom": "Bậc làm cha mẹ ai cũng sẽ nghĩ con mình là tốt đẹp, luôn ôm ấp trong tay sợ buông ra sẽ khiến nó vấp ngã, lòng cứ mãi lo sợ rằng không thể cho nó nhiều cái tốt đẹp hơn.",
+    "authorIdiom": "Tiêu Hàn Vũ Ngân"
+  },
+  {
+    "idIdiom": "2709",
+    "contentIdiom": "Cha tôi cho tôi món quà lớn nhất mà bất cứ ai có thể trao cho người khác; ông tin tưởng ở tôi.",
+    "authorIdiom": "Jim Valvano"
+  },
+  {
+    "idIdiom": "2710",
+    "contentIdiom": "Không phải máu thịt mà chính trái tim khiến chúng ta là cha và con.",
+    "authorIdiom": "Fredrich Schiller"
+  },
+  {
+    "idIdiom": "2712",
+    "contentIdiom": "Không chiếc gối nào êm ái bằng bờ vai cứng cáp của người cha.",
+    "authorIdiom": "Richard L Evans"
+  },
+  {
+    "idIdiom": "2713",
+    "contentIdiom": "Đối với con, cha luôn là người tuyệt vời nhất.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2715",
+    "contentIdiom": "Và kể từ hôm đó, tôi đã nhận ra rằng cha vẫn luôn yêu thương tôi, dù cách thể hiện tình yêu của cha có khác.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2716",
+    "contentIdiom": "Với người con, bàn tay cha chứa cả bầu trời yêu thương.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2717",
+    "contentIdiom": "Tình yêu thương của bố truyền cho con một sức mạnh vô biên để con có thể làm những điều con hằng mơ ước.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2718",
+    "contentIdiom": "Vinh dự lớn nhất của tôi là tôi có một người cha như thế.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2719",
+    "contentIdiom": "Không có gì làm cho con vui hơn vinh dự của cha, không có gì làm cha vui hơn thành quả của con.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2720",
+    "contentIdiom": "Biết con không ai bằng cha.",
+    "authorIdiom": "Quản Tử"
+  },
+  {
+    "idIdiom": "2721",
+    "contentIdiom": "Di sản tốt nhất mà cha mẹ có thể dành cho con cái là chút ít thời gian mỗi ngày.",
+    "authorIdiom": "Orlando Aloysius Battista"
+  },
+  {
+    "idIdiom": "2722",
+    "contentIdiom": "Chỉ những lúc bị đau người ta mới phát hiện gia đình mình là nơi an toàn nhất, vững chắc nhất, và bố mẹ, mới là những người vĩnh viễn sẽ không tổn thương, phản bội họ.",
+    "authorIdiom": "Tát Không Không"
+  },
+  {
+    "idIdiom": "2723",
+    "contentIdiom": "Bố mẹ hầu như đều như vậy, luôn cảm thấy con mình khó nuôi, còn con người khác sao mà lớn nhanh thế.",
+    "authorIdiom": "Mộc Phù Sinh"
+  },
+  {
+    "idIdiom": "2725",
+    "contentIdiom": "Gia đình là gì? Đó là tình mến sợ cha, tình yêu mến mẹ, kính trọng thán phục nhân đức của cả cha lẫn mẹ, bỏ qua lỗi lầm, ghi nhớ công ơn, thông cảm nỗi đau khổ, cảm kích sự hy sinh của cha mẹ.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2726",
+    "contentIdiom": "Cho dù là bao tuổi thì chỉ cần con gái chưa lập gia đình, ý muốn bảo vệ cho con của cha mẹ vẫn rất mãnh liệt, ngỡ rằng không có mình thì con gái sẽ sa ngã, sẽ mù quáng.",
+    "authorIdiom": "Hoàng Mặc Kỳ"
+  },
+  {
+    "idIdiom": "2727",
+    "contentIdiom": "Các bậc phụ huynh đôi khi chỉ đơn giản là không có đủ tay và thời gian và sự chú ý để làm tất cả những gì khẩn cấp. Nhưng trong tất cả mọi chuyện, luôn có sự ưu tiên về độ quan trọng… và một trong những cơ hội gấp gáp của chúng ta là đáp lại con trẻ khi trẻ thực sự đặt câu hỏi, hãy nhớ rằng trẻ không luôn luôn hỏi, rằng trẻ không phải lúc nào cũng có thể dạy dỗ, rằng trẻ sẽ không luôn luôn lắng nghe.",
+    "authorIdiom": "Richard L Evans"
+  },
+  {
+    "idIdiom": "2728",
+    "contentIdiom": "Thờ cha mẹ, nên nhỏ nhẹ khuyên can, nếu thấy cha mẹ không theo ý mình thì vẫn cung kính mà không xúc phạm cha mẹ; tuy khó nhọc, lo buồn, nhưng không được\r\n oán hận.",
+    "authorIdiom": "Khổng Tử"
+  },
+  {
+    "idIdiom": "2729",
+    "contentIdiom": "Phải chờ tới khi các con có con mới có thể hiểu được, con cái gặp một chút chuyện không hay thôi thì còn khó chịu, khổ sở hơn cả việc lấy dao đâm vào tim ba mẹ, chỉ hận không thể gánh thay hết cho các con.",
+    "authorIdiom": "Phúc Bảo"
+  },
+  {
+    "idIdiom": "2730",
+    "contentIdiom": "Chúng ta không hiểu được tình yêu thương của cha mẹ cho tới khi chính chúng ta trở thành cha mẹ.",
+    "authorIdiom": "Henry Ward Beecher"
+  },
+  {
+    "idIdiom": "2731",
+    "contentIdiom": "Cuộc đời lắm nỗi đắng cay \r\nNuôi con đâu kể tháng ngày gian nan.",
+    "authorIdiom": "Ca dao Việt Nam"
+  },
+  {
+    "idIdiom": "2732",
+    "contentIdiom": "Cha mẹ không chỉ là người sinh thành ra bạn. Họ là người mà bạn muốn trở thành khi bạn lớn lên.",
+    "authorIdiom": "Jodie Picoult"
+  },
+  {
+    "idIdiom": "2733",
+    "contentIdiom": "Làm cha mẹ là dẫn đường cho thế hệ sau và mở lòng bao dung cho thế hệ trước.",
+    "authorIdiom": "Peter Krause"
+  },
+  {
+    "idIdiom": "2734",
+    "contentIdiom": "Cha mẹ không phải là người tạo ra trẻ nhỏ, mà là người bảo hộ chúng.",
+    "authorIdiom": "Maria Montessori"
+  },
+  {
+    "idIdiom": "2735",
+    "contentIdiom": "Điều quan trọng nhất mà một người cha có thể làm cho con cái mình là yêu thương mẹ của chúng.",
+    "authorIdiom": "Theodore Hesburgh"
+  },
+  {
+    "idIdiom": "2736",
+    "contentIdiom": "Tình yêu và đau khổ và tình mẹ, Danh vọng và niềm vui và sự khinh miệt - tất cả những điều này sẽ đến, với bất kỳ người phụ nữ nào",
+    "authorIdiom": "Margaret Widdemer"
+  },
+  {
+    "idIdiom": "2737",
+    "contentIdiom": "Người phụ nữ cống hiến cho cuộc sống của nhân loại bằng cách thực hiện trách nhiệm của người mẹ cũng quan trọng trong sự phân công lao động của nhân loại như bất cứ ai khác. Nếu người mẹ quan tâm tới cuộc đời của con cái mình, và trải đường cho chúng trở thành người tốt, nếu người mẹ mở rộng những mối quan tâm của con cái và rèn luyện cho chúng biết hợp tác, công việc của người mẹ đáng giá tới mức không sự tưởng thưởng nào là đủ.",
+    "authorIdiom": "Alfred Adler"
+  },
+  {
+    "idIdiom": "2739",
+    "contentIdiom": "Mẹ yêu con bên lòng canh cánh\r\nCon yêu mẹ khuất núi là thôi.",
+    "authorIdiom": "Tục ngữ Tày - Nùng"
+  },
+  {
+    "idIdiom": "2744",
+    "contentIdiom": "Tình yêu của người mẹ là yên bình. Nó không cần bạn phải đạt được, nó không cần bạn phải xứng đáng.",
+    "authorIdiom": "Erich Fromm"
+  },
+  {
+    "idIdiom": "2746",
+    "contentIdiom": "Không ai có thể hiểu những đau khổ của tôi, hay nỗi kinh hoàng dâng lên trong lồng ngực, nếu người đó không hiểu trái tim của một người mẹ.",
+    "authorIdiom": "Marie Antoinette"
+  },
+  {
+    "idIdiom": "2747",
+    "contentIdiom": "Các cô gái phải làm sao khi không có người mẹ giúp đỡ họ vượt qua những rắc rối?",
+    "authorIdiom": "Louisa May Alcott"
+  },
+  {
+    "idIdiom": "2748",
+    "contentIdiom": "Không có bài hát nào nói đủ về MẸ. Mất MẸ là mất đi một tài sản lớn nhất trong toàn bộ sự giàu có của một đời người.",
+    "authorIdiom": "Trịnh Công Sơn"
+  },
+  {
+    "idIdiom": "2749",
+    "contentIdiom": "Mối quan hệ giữa mẹ và con đầy nghịch lý, và theo một cách hiểu nào đó, rất bi thảm. Nó đòi hỏi tình yêu vô cùng lớn lao của người mẹ, nhưng cũng chính tình yêu này phải giúp đứa con trưởng thành rời xa người mẹ và trở nên độc lập hoàn toàn.",
+    "authorIdiom": "Erich Fromm"
+  },
+  {
+    "idIdiom": "2750",
+    "contentIdiom": "Tình yêu của mẹ dành cho con không giống bất kỳ điều gì khác trên thế giới. Nó không biết đến luật lệ hay sự thương hại. Nó thách thức tất cả và không khoan nhượng tiêu diệt tất cả những gì cản đường nó.",
+    "authorIdiom": "Agatha Christie"
+  },
+  {
+    "idIdiom": "2751",
+    "contentIdiom": "Người mẹ hiểu được lời đứa trẻ không nói.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2752",
+    "contentIdiom": "Mỗi người mẹ, đối với con mình mà nói, từ tận đáy lòng là người thân thiết nhất. Lúc còn ấu thơ, người mẹ giống như một thân cây, che chở cho con chậm rãi trưởng thành. Có lẽ trong quá trình trưởng thành, con trẻ từng có lúc ngây thơ, có lúc chống đối, có lúc lầm lỗi. Có lẽ trong quá trình làm bạn bên cạnh con lớn lên, mẹ từng tức giận, từng khó khăn, từng thất vọng. Nhưng trên thế giới này, không một ai có thể cắt đứt tình cảm giữa người mẹ và đứa con, đó là một loại tình yêu nồng đậm hơn máu, thâm sâu hơn tình.",
+    "authorIdiom": "Tâm Nhụy"
+  },
+  {
+    "idIdiom": "2754",
+    "contentIdiom": "Làm mẹ là một thái độ sống, không chỉ là mối liên hệ về sinh học.",
+    "authorIdiom": "Robert A Heinlein"
+  },
+  {
+    "idIdiom": "2755",
+    "contentIdiom": "Người mẹ nắm lấy tay con mình chỉ trong một lúc, nhưng trái tim của con vĩnh viễn.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2756",
+    "contentIdiom": "Vòng tay mẹ chính là chiếc nôi tuyệt vời nhất vỗ về tâm hồn con.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2757",
+    "contentIdiom": "Người mẹ luôn là nơi che chở khi giông tố cuộc đời ập đến với đứa con mình.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2758",
+    "contentIdiom": "Có một tình yêu thương cao cả và vĩ đại nhất trên đời - không phai nhạt theo tháng năm - đó là tình yêu của người mẹ dành cho con.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2759",
+    "contentIdiom": "Trong tất cả các quyền của phụ nữ, quyền vĩ đại nhất là quyền được làm mẹ.",
+    "authorIdiom": "Lâm Ngữ Đường"
+  },
+  {
+    "idIdiom": "2760",
+    "contentIdiom": "Con là món quà kỳ diệu nhất mà cuộc sống đã trao tặng cho mẹ.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2761",
+    "contentIdiom": "Tình thương yêu của người mẹ là nguồn năng lượng cho phép một người bình thường có thể làm những chuyện phi thường.",
+    "authorIdiom": "Marion C. Garretty"
+  },
+  {
+    "idIdiom": "2762",
+    "contentIdiom": "Tình yêu thương của người mẹ dành cho con luôn âm thầm, lặng lẽ như mạch nước ngầm trong lành đi theo suốt cuộc đời con.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2763",
+    "contentIdiom": "Mẹ là trường học vĩ đại nhất của con người.",
+    "authorIdiom": "Tục ngữ Tây Ban Nha"
+  },
+  {
+    "idIdiom": "2764",
+    "contentIdiom": "Thượng đế không có mặt ở khắp nơi, vì thế Người đã sinh ra các bà mẹ.",
+    "authorIdiom": "Ngạn ngữ Do Thái"
+  },
+  {
+    "idIdiom": "2765",
+    "contentIdiom": "Con dù lớn vẫn là con của mẹ \r\n Đi hết đời lòng mẹ vẫn theo con.",
+    "authorIdiom": "Chế Lan Viên"
+  },
+  {
+    "idIdiom": "2766",
+    "contentIdiom": "Tôi chỉ muốn con trai mình trở thành người tốt, sao nó không bao giờ quên mẹ của mình và ngôi nhà mà ở đó nó đã lớn lên.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2767",
+    "contentIdiom": "Con suốt đời là dòng sông nhỏ bé\r\n Còn mẹ hiền là biển cả mênh mông\r\n Biển đón chờ dòng chảy của ngàn sông \r\n Dòng sông nào không xuôi về biển mẹ",
+    "authorIdiom": "Thu Hà"
+  },
+  {
+    "idIdiom": "2768",
+    "contentIdiom": "Hơn bất cứ trong mối quan hệ nào khác của con người, tình mẹ nghĩa là luôn luôn có thể bị yêu cầu, luôn luôn sẵn sàng đáp lại, và luôn luôn trách nhiệm.",
+    "authorIdiom": "Tillie Olsen"
+  },
+  {
+    "idIdiom": "2769",
+    "contentIdiom": "Ôm con mẹ đếm sao trời \r\n Đếm hoài không hết một đời long đong.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2770",
+    "contentIdiom": "Có một điều đáng lưu tâm là phần lớn các thiên tài đều có những người mẹ tuyệt vời và những gì mà họ tiếp thu được từ người mẹ thì nhiều hơn rất nhiều là từ người cha.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2771",
+    "contentIdiom": "Ở đời có hình ảnh nào đáng cảm, đáng kính như hình ảnh của một bà mẹ sống giữa đàn con, lo sắp đặt công việc của kẻ ăn người làm, mưu toan cho chồng được sung sướng một đời và cai quản việc nhà một cách khôn khéo.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2772",
+    "contentIdiom": "Tình yêu của người mẹ là sự bình yên. Không cần phải đạt được nó, không cần phải xứng đáng.",
+    "authorIdiom": "Erich Fromm"
+  },
+  {
+    "idIdiom": "2773",
+    "contentIdiom": "Chúa trời không thể ở mọi nơi cùng một lúc, vì vậy người đã tạo ra những bà mẹ.",
+    "authorIdiom": "Rudyard Kipling"
+  },
+  {
+    "idIdiom": "2775",
+    "contentIdiom": "Trong nền văn hóa của chúng ta, công việc của người mẹ bị đánh giá thấp và thường được coi là một nghề nghiệp không hấp dẫn lắm, hoặc không quá đáng kính trọng. Nó chỉ được trả công gián tiếp, và người phụ nữ lấy nó làm công việc chính thường được coi là phụ thuộc về kinh tế. Tuy nhiên thành công của một gia đình nằm ở cả công việc của người mẹ và công việc của người cha nhiều như nhau. Dù người mẹ ở nhà hay làm việc độc lập, việc nàng làm như một người mẹ có vai trò không thấp hơn công việc của chồng mình.",
+    "authorIdiom": "Alfred Adler"
+  },
+  {
+    "idIdiom": "2776",
+    "contentIdiom": "Khả năng tìm được cái đẹp trong những điều nhỏ bé nhất khiến gia đình trở nên hạnh phúc và cuộc đời trở nên đáng yêu.",
+    "authorIdiom": "Louisa May Alcott"
+  },
+  {
+    "idIdiom": "2777",
+    "contentIdiom": "Với tôi, chủ nhật nghĩa là ở nhà với gia đình và không có kế hoạch gì hết.",
+    "authorIdiom": "John Lasseter"
+  },
+  {
+    "idIdiom": "2778",
+    "contentIdiom": "Hãy can đảm lên và yên ổn gia đình. Người đàn ông càng chủ động, tìm được người vợ cho mình và chung thủy với nàng, anh ta càng thành công và hạnh phúc. Chung thủy ở bên cạnh một người phụ nữ sẽ khiến bạn đi trên con đường hạnh phúc nhất mà bạn có thể đi.",
+    "authorIdiom": "Tony Gaskins"
+  },
+  {
+    "idIdiom": "2779",
+    "contentIdiom": "Không có gia đình, người đàn ông trở nên cô độc với toàn thế giới, run rẩy trong giá lạnh.",
+    "authorIdiom": "Andre Maurois"
+  },
+  {
+    "idIdiom": "2780",
+    "contentIdiom": "Cách trị nhà cốt ở hoà thuận, cách mưu sinh cốt ở siêng năng.",
+    "authorIdiom": "Chu Hy"
+  },
+  {
+    "idIdiom": "2781",
+    "contentIdiom": "Đừng gây bất lợi cho con cái bạn bằng việc cho chúng cuộc sống dễ dàng.",
+    "authorIdiom": "Robert A Heinlein"
+  },
+  {
+    "idIdiom": "2782",
+    "contentIdiom": "Trong gia đình mà người trung chẳng dạy dỗ kẻ bất trung, người tài chẳng trông nom kẻ bất tài, thì kẻ hay, người dở cũng chả khác nhau mấy.",
+    "authorIdiom": "Mạnh Tử"
+  },
+  {
+    "idIdiom": "2783",
+    "contentIdiom": "Khi ta trồng cây, mà cây không lớn tốt, ta không đổ lỗi cho cái cây, mà đi xem xét các lí do vì sao lại như vậy: thiếu nước, thiếu phân bón, hay thiếu ánh nắng mặt trời. Vậy nhưng khi ta có vấn đề với bạn bè hay gia đình ta, ta lại đổ lỗi cho họ. Nếu ta biết cách quan tâm họ, họ cũng sẽ \"lớn tốt\", như cây cối vậy. Đổ lỗi cho ai đó hoàn toàn là vô nghĩa, tranh cãi cũng vậy. Đó là kinh nghiệm của tôi. Không đổ lỗi cho ai, không tranh cãi, chỉ đơn giản là hiểu. Nếu ta hiểu vấn đề, và thể hiện ra điều đó, ta sẽ luôn có thể yêu thương, và vấn đề đó sẽ được giải quyết.",
+    "authorIdiom": "Thiền sư Thích Nhất Hạnh"
+  },
+  {
+    "idIdiom": "2784",
+    "contentIdiom": "Khi bạn đang uống coca giải khát, hãy nghĩ xem bố mẹ thường uống gì. Khi bạn mặc những bộ quần áo đắt tiền hàng hiệu, xin hãy nghĩ xem bố mẹ bạn thường mặc ra sao. Khi bạn thoải mái tiêu pha, hãy nghĩ đến những thứ đồ bố mẹ bạn hay dùng như thế nào. Bố mẹ đã vì chúng ta mà bỏ bao công sức? Rơi bao hạt mồ hôi, đều chỉ vì mong chúng ta có một cuộc sống tốt đẹp hơn. Những thứ chúng ta đang dùng đều là do hai bàn tay cha mẹ đem về cho. Xin hãy yêu quý bố mẹ của riêng mình, làm một người con hiếu thuận.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2786",
+    "contentIdiom": "Lòng nhân đức bắt đầu từ gia đình, nhưng không nên kết thúc luôn ở đó.",
+    "authorIdiom": "Thomas Fuller"
+  },
+  {
+    "idIdiom": "2787",
+    "contentIdiom": "Có những người cha không yêu con; nhưng chẳng có người ông nào không yêu cháu.",
+    "authorIdiom": "Victor Hugo"
+  },
+  {
+    "idIdiom": "2788",
+    "contentIdiom": "Có lẽ đó không phải là những vì sao, mà là những cửa sổ nơi tình yêu từ những người thân thương đã mất tràn qua và chiếu sáng chúng ta, cho chúng ta biết rằng họ vẫn hạnh phúc.",
+    "authorIdiom": "Ngạn ngữ Eskimo"
+  },
+  {
+    "idIdiom": "2789",
+    "contentIdiom": "Luôn luôn có lúc con người mệt mỏi bởi công việc, sự cống hiến cho bổn phận, và tất cả những gì anh ta muốn là gương mặt mình yêu, sự ấm áp và điều kỳ diệu của một trái tim yêu thương.",
+    "authorIdiom": "Albert Camus"
+  },
+  {
+    "idIdiom": "2790",
+    "contentIdiom": "Bạn có thể làm gì để xây dựng hòa bình thế giới? Hãy về nhà và yêu thương gia đình của mình.",
+    "authorIdiom": "Mẹ Teresa"
+  },
+  {
+    "idIdiom": "2791",
+    "contentIdiom": "Gia đình là một cái tên, một ngôn từ mạnh mẽ; mạnh hơn lời của những pháp sư hay tiếng đáp của các linh hồn; đó là lời nguyện cầu hùng mạnh nhất.",
+    "authorIdiom": "Charles Dickens"
+  },
+  {
+    "idIdiom": "2792",
+    "contentIdiom": "Khi chị em ta vai kề vai, ai có thể chống lại chúng ta?",
+    "authorIdiom": "Pam Brown"
+  },
+  {
+    "idIdiom": "2793",
+    "contentIdiom": "Cho dù tôi trao đổi nhiều với những nhà thông thái và các anh hùng, tôi không dành cho họ nhiều sự yêu thương hay thán phục. Tôi khao khát cảnh nông thôn và gia đình, với tiếng chim líu lo và những tiếng bi bô của con cái tôi.",
+    "authorIdiom": "John Adams"
+  },
+  {
+    "idIdiom": "2794",
+    "contentIdiom": "Người ta càng làm nhiều, thấy nhiều và cảm nhận nhiều, người ta càng có thể làm được nhiều, và càng biết đánh giá chân thực về những điều cơ bản như gia đình, tình yêu và thấu hiểu sự đồng hành.",
+    "authorIdiom": "Amelia Earhart"
+  },
+  {
+    "idIdiom": "2795",
+    "contentIdiom": "Tình yêu bắt đầu ở nhà; tình yêu sống trong nhà, và đó là vì sao thế giới hôm nay lại nhiều khổ đau và bất hạnh đến như thế... Con người ngày nay dường như ai cũng quá vội vã, lo lắng muốn đạt được những bước tiến xa hơn và của cải nhiều hơn, và đại loại như thế, đến nỗi con cái có quá ít thời gian với cha mẹ mình. Cha mẹ chúng có quá ít thời gian dành cho nhau, và hòa bình thế giới bị chia cắt bắt đầu từ mái ấm.",
+    "authorIdiom": "Mẹ Teresa"
+  },
+  {
+    "idIdiom": "2796",
+    "contentIdiom": "Hãy cùng gia đình vui tươi trong miền đất cuộc sống đẹp đẽ này!",
+    "authorIdiom": "Albert Einstein"
+  },
+  {
+    "idIdiom": "2797",
+    "contentIdiom": "Con người là vậy, nhất là thời trẻ tuổi. Họ thích rời xa bến quê, đến một miền đất lạ, nơi xa xôi để tìm cái mới, cái đẹp, thậm chí cả những phù phiếm ở đời. Đến khi kiệt quệ, họ quay lưng lại, tìm đến những bóng hình người thương đã từng gần gũi mình.",
+    "authorIdiom": "Phạm Anh Tuấn"
+  },
+  {
+    "idIdiom": "2798",
+    "contentIdiom": "Ở điểm cuối của cuộc đời, bạn sẽ không bao giờ nuối tiếc chuyện không vượt qua thêm một bài thi, chiến thắng thêm một tranh chấp, hay hoàn thành thêm một việc kinh doanh. Bạn sẽ nuối tiếc đã không sử dụng thời gian để ở bên cạnh vợ chồng, bạn bè, con cái, hay cha mẹ mình.",
+    "authorIdiom": "Barbara Bush"
+  },
+  {
+    "idIdiom": "2799",
+    "contentIdiom": "Với chúng ta, gia đình nghĩa là vòng tay ôm lấy nhau và luôn ở bên nhau.",
+    "authorIdiom": "Barbara Bush"
+  },
+  {
+    "idIdiom": "2800",
+    "contentIdiom": "Gia đình hạnh phúc là thiên đường tới sớm với ta.",
+    "authorIdiom": "George Bernard Shaw"
+  },
+  {
+    "idIdiom": "2801",
+    "contentIdiom": "Hạnh phúc sinh trưởng bên lò sưởi của chúng ta, chứ không phải hái được trong vườn nhà người khác.",
+    "authorIdiom": "Douglas Jerrold"
+  },
+  {
+    "idIdiom": "2802",
+    "contentIdiom": "Chỉ khi chúng tôi bắt đầu học cách sống vì người thân, trong mắt cha mẹ, chúng tôi mới được coi là trưởng thành.",
+    "authorIdiom": "Diệp Khuynh Thành"
+  },
+  {
+    "idIdiom": "2803",
+    "contentIdiom": "Khi bạn nhìn lại cuộc đời mình, những niềm hạnh phúc nhất chính là những niềm hạnh phúc gia đình.",
+    "authorIdiom": "Joyce Brothers"
+  },
+  {
+    "idIdiom": "2804",
+    "contentIdiom": "Gia đình là nơi bạn hành động ngu xuẩn nhất nhưng lại được yêu thương nhiều nhất.",
+    "authorIdiom": "Andre Maurois"
+  },
+  {
+    "idIdiom": "2805",
+    "contentIdiom": "Xã hội tốt thì gia đình càng tốt, gia đình tốt thì xã hội mới tốt.",
+    "authorIdiom": "Chủ tịch Hồ Chí Minh"
+  },
+  {
+    "idIdiom": "2806",
+    "contentIdiom": "Đắng cay cũng thể ruột rà \r\nNgọt ngào cho lắm cũng là người dưng.",
+    "authorIdiom": "Ca dao Việt Nam"
+  },
+  {
+    "idIdiom": "2808",
+    "contentIdiom": "Người đàn ông không nên coi nhẹ gia đình hơn sự nghiệp của anh ta.",
+    "authorIdiom": "Walt Disney"
+  },
+  {
+    "idIdiom": "2809",
+    "contentIdiom": "Bài học số một mà tôi được cha dạy là phải có trách nhiệm với bản thân và gia đình. Trách nhiệm của bạn là làm việc, trả hóa đơn, và về nhà MỖI đêm, đấy là cơ bản đầu tiên.",
+    "authorIdiom": "Tony Gaskins"
+  },
+  {
+    "idIdiom": "2810",
+    "contentIdiom": "Rất nhiều thanh niên trong xã hội này luôn cảm thấy thứ khó chấp nhận nhất, thứ đau khổ nhất trên đời này chính là đánh mất tình yêu, để rồi xem thường mạng sống của mình. Thật ra, đại đa phần vì họ chưa trải qua nỗi đau mất đi người thân.",
+    "authorIdiom": "Mộc Phù Sinh"
+  },
+  {
+    "idIdiom": "2811",
+    "contentIdiom": "Gia đình là một kiệt tác của tạo hóa.",
+    "authorIdiom": "George Santayana"
+  },
+  {
+    "idIdiom": "2812",
+    "contentIdiom": "Bạn được sinh ra trong một gia đình, và gia đình sẽ được sinh ra từ bạn. Không thể quay lại. Không thể tráo đổi.",
+    "authorIdiom": "Elizabeth Berg"
+  },
+  {
+    "idIdiom": "2813",
+    "contentIdiom": "Nước lấy nhà làm gốc.",
+    "authorIdiom": "Mạnh Tử"
+  },
+  {
+    "idIdiom": "2814",
+    "contentIdiom": "Con trai, anh trai, người cha, người tình, người bạn. Có chỗ trong trái tim cho tất cả những yêu thương, cũng như có chỗ tại thiên đường cho tất cả những vì sao.",
+    "authorIdiom": "Victor Hugo"
+  },
+  {
+    "idIdiom": "2815",
+    "contentIdiom": "Mọi tình cảm trên thế gian này rất dễ dàng phai nhạt, duy chỉ có tình thân vĩnh viễn không bao giờ thay đổi. Bất kể trải qua những chuyện gì, cũng không quản khoảng cách xa xôi, tình cảm máu mủ vĩnh viễn là tình cảm nồng hậu nhất.",
+    "authorIdiom": "Orange Quất Tử"
+  },
+  {
+    "idIdiom": "2816",
+    "contentIdiom": "Cha con cùng lòng thì đất cũng hóa ra vàng, anh em cùng sức thì đá cũng thành ra ngọc.",
+    "authorIdiom": "Cổ Ngạn"
+  },
+  {
+    "idIdiom": "2817",
+    "contentIdiom": "Bạn bè là người mà ta có thể nói chuyện mà không cần dùng đến lời nói.",
+    "authorIdiom": "Elvis Presley"
+  },
+  {
+    "idIdiom": "2818",
+    "contentIdiom": "Hãy nói về bạn anh cho tôi nghe, tôi sẽ nói anh là người như thế nào.",
+    "authorIdiom": "Ngạn ngữ Anh"
+  },
+  {
+    "idIdiom": "2820",
+    "contentIdiom": "Có tình bạn là có được chiếc chìa khóa mở vào tâm hồn người khác.",
+    "authorIdiom": "Edgar Goodspeed"
+  },
+  {
+    "idIdiom": "2821",
+    "contentIdiom": "Có nghìn người bạn là ít, có một kẻ thù là nhiều.",
+    "authorIdiom": "Ngạn ngữ Thổ Nhĩ Kỳ"
+  },
+  {
+    "idIdiom": "2822",
+    "contentIdiom": "Không bao giờ hạnh phúc có thể đưa con người tới đỉnh cao đến nỗi người ta không còn cần đến bạn bè nữa.",
+    "authorIdiom": "Lucius Annaeus Seneca"
+  },
+  {
+    "idIdiom": "2823",
+    "contentIdiom": "Phước thay người nào có tài kết bạn, vì đó là một trong những quà tặng quý nhất của Thượng đế. Món quà này bao gồm nhiều điều hay, nhưng trên hết là khả năng vượt khỏi chính mình.",
+    "authorIdiom": "Thomas Hughs"
+  },
+  {
+    "idIdiom": "2824",
+    "contentIdiom": "Không có người bạn tốt thì chúng ta không biết được lỗi lầm của mình.",
+    "authorIdiom": "Ngạn ngữ Nga"
+  },
+  {
+    "idIdiom": "2825",
+    "contentIdiom": "Những gì bạn đã giúp ta không bằng niềm tin bạn sẽ giúp ta.",
+    "authorIdiom": "Epicurus"
+  },
+  {
+    "idIdiom": "2826",
+    "contentIdiom": "Người bạn chân thực luôn luôn là: Khi bạn lầm lỗi, người đó không nghĩ là bạn thường xuyên làm như vậy.",
+    "authorIdiom": "Laurence Peter"
+  },
+  {
+    "idIdiom": "2827",
+    "contentIdiom": "Giàu sang tạo nên bạn bè và hoạn nạn thử thách họ.",
+    "authorIdiom": "Tục ngữ Anh"
+  },
+  {
+    "idIdiom": "2828",
+    "contentIdiom": "Muốn có một người bạn hoàn toàn sẽ chẳng có ai là bạn cả.",
+    "authorIdiom": "Ngạn ngữ Thổ Nhĩ Kỳ"
+  },
+  {
+    "idIdiom": "2829",
+    "contentIdiom": "Cách duy nhất để có bạn là chính bản thân mình phải là một người bạn.",
+    "authorIdiom": "Ralph Waldo Emerson"
+  },
+  {
+    "idIdiom": "2830",
+    "contentIdiom": "Bạn bè xấu cũng nguy hiểm như kẻ thù vậy.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2831",
+    "contentIdiom": "Một ngày cho công việc cực nhọc, một giờ cho thể thao, cả cuộc đời cho bạn bè vẫn còn quá ngắn ngủi.",
+    "authorIdiom": "Ralph Waldo Emerson"
+  },
+  {
+    "idIdiom": "2832",
+    "contentIdiom": "Nỗ lực lớn nhất của tình bạn không phải là chỉ thẳng cho bạn thấy khuyết điểm mà là làm cách nào cho bạn thấy được nó.",
+    "authorIdiom": "La Rochefoucauld"
+  },
+  {
+    "idIdiom": "2833",
+    "contentIdiom": "Bạn hãy tin cậy mọi người, họ sẽ trung thành với bạn. Bạn cao thượng với họ, họ sẽ biểu lộ sự cao thượng với bạn.",
+    "authorIdiom": "Ralph Waldo Emerson"
+  },
+  {
+    "idIdiom": "2834",
+    "contentIdiom": "Tôi không thể sống nếu tôi thiếu tình thương của các bạn tôi.",
+    "authorIdiom": "John Keats"
+  },
+  {
+    "idIdiom": "2835",
+    "contentIdiom": "Tình bạn bền vững cho đến trọn đời ta, nếu ta không gọi đến nó mỗi khi ta túng tiền.",
+    "authorIdiom": "Mark Twain"
+  },
+  {
+    "idIdiom": "2836",
+    "contentIdiom": "Trong mọi kẻ thù, không ai nguy hiểm bằng kẻ trước đây đã là bạn của ta.",
+    "authorIdiom": "Anatole France"
+  },
+  {
+    "idIdiom": "2837",
+    "contentIdiom": "Đừng bao giờ giải thích; bạn bè thật sự không cần nó, và kẻ thù đằng nào cũng chẳng tin bạn đâu.",
+    "authorIdiom": "Elbert Hubbard"
+  },
+  {
+    "idIdiom": "2838",
+    "contentIdiom": "Một người bạn trung thành là tuyến phòng thủ mạnh mẽ; và người tìm thấy anh ta đã tìm thấy một báu vật.",
+    "authorIdiom": "Louisa May Alcott"
+  },
+  {
+    "idIdiom": "2839",
+    "contentIdiom": "Không gì nguy hiểm hơn bạn bè ngu dốt; tôi thà có kẻ thù khôn.",
+    "authorIdiom": "La Fontaine"
+  },
+  {
+    "idIdiom": "2841",
+    "contentIdiom": "Ai không có một người bạn chân chính thì người đó không xứng đáng được sống.",
+    "authorIdiom": "Democritus"
+  },
+  {
+    "idIdiom": "2842",
+    "contentIdiom": "Nếu ta hiểu biết kẻ khác như chính ta, những hành động đáng trách nhất của họ cũng đáng được tha thứ.",
+    "authorIdiom": "André Maurois"
+  },
+  {
+    "idIdiom": "2843",
+    "contentIdiom": "Phải biết mở cửa lòng mình trước mới hy vọng mở được lòng người khác.",
+    "authorIdiom": "Pasquier Quesnel"
+  },
+  {
+    "idIdiom": "2844",
+    "contentIdiom": "Tôi không làm bạn với hai người: người không bao giờ nói cho tôi biết về anh ta và người không bao giờ nói về tôi.",
+    "authorIdiom": "Nicolas Chamfort"
+  },
+  {
+    "idIdiom": "2845",
+    "contentIdiom": "Trách bạn ở chỗ vắng, khen bạn ở đám đông.",
+    "authorIdiom": "Publilius Syrus"
+  },
+  {
+    "idIdiom": "2846",
+    "contentIdiom": "Tình bạn là một tinh thần trong hai con người.",
+    "authorIdiom": "Mạnh Tử"
+  },
+  {
+    "idIdiom": "2847",
+    "contentIdiom": "Cách hay nhất để giữ bạn bè là không bao giờ mắc nợ họ một tí gì và cũng chẳng bao giờ để họ mắc nợ mình.",
+    "authorIdiom": "Paul de Kock"
+  },
+  {
+    "idIdiom": "2848",
+    "contentIdiom": "Sống với một người bạn thân phải phòng lúc họ hết thân và biến thành kẻ thù của mình.",
+    "authorIdiom": "Cardinal Richelieu"
+  },
+  {
+    "idIdiom": "2849",
+    "contentIdiom": "Một trong những điều sung sướng của bạn cũ là bạn có thể ngu ngốc khi ở bên họ.",
+    "authorIdiom": "Ralph Waldo Emerson"
+  },
+  {
+    "idIdiom": "2850",
+    "contentIdiom": "Tình bạn thì hiếm, nhưng bạn bè thì không hiếm.",
+    "authorIdiom": "Thomas Fuller"
+  },
+  {
+    "idIdiom": "2851",
+    "contentIdiom": "Không người nào có thể tự nhiên trưởng thành trên đời này và có một cuộc sống hoàn hảo mà không có ít nhất một người hiểu mình.",
+    "authorIdiom": "Paul Tournier"
+  },
+  {
+    "idIdiom": "2852",
+    "contentIdiom": "Tình bạn là tình yêu không có cánh!",
+    "authorIdiom": "Byron"
+  },
+  {
+    "idIdiom": "2853",
+    "contentIdiom": "Bản thân là bạn tốt sẽ có được bè bạn tốt.",
+    "authorIdiom": "N. Masi Avenli"
+  },
+  {
+    "idIdiom": "2854",
+    "contentIdiom": "Bạn bè là những người biết rõ về bạn mà vẫn yêu bạn.",
+    "authorIdiom": "Elbert Hubbard"
+  },
+  {
+    "idIdiom": "2855",
+    "contentIdiom": "Khi nghĩ về những người bạn đồng hành đã rời ta, chúng ta cảm thấy cô đơn gấp đôi.",
+    "authorIdiom": "Sir Walter Scott"
+  },
+  {
+    "idIdiom": "2856",
+    "contentIdiom": "Đẩy tình bạn ra khỏi cuộc sống của mình chẳng khác chi đẩy mặt trời ra khỏi thế gian này.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2857",
+    "contentIdiom": "Muốn làm người tốt phải tìm bạn tốt.",
+    "authorIdiom": "Cổ ngữ"
+  },
+  {
+    "idIdiom": "2858",
+    "contentIdiom": "Sách hay, cũng như bạn tốt, ít và được chọn lựa; chọn lựa càng nhiều, thưởng thức càng nhiều.",
+    "authorIdiom": "Louisa May Alcott"
+  },
+  {
+    "idIdiom": "2859",
+    "contentIdiom": "Đừng bỏ cuộc! Hãy kết giao với những người giàu nghị lực và có kỷ luật. Hãy giao du với những người có cao vọng và luôn sống tích cực.",
+    "authorIdiom": "Earvin Johnson"
+  },
+  {
+    "idIdiom": "2860",
+    "contentIdiom": "Người ta thường cô đơn bởi vì người ta thường chỉ lo xây tường chứ không lo xây dựng những nhịp cầu.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2862",
+    "contentIdiom": "Chúng ta đều đi những con đường khác nhau trong đời, nhưng dù chúng ta đi tới đâu, chúng ta cũng mang theo mình một phần của nhau.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2863",
+    "contentIdiom": "Bạn tốt khó tìm, khó bỏ lại, và không thể lãng quên.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2864",
+    "contentIdiom": "Người bạn thực sự biết điểm yếu của bạn nhưng chỉ cho bạn thấy điểm mạnh; cảm nhận được nỗi sợ của bạn nhưng củng cố niềm tin; thấy được những lo lắng của bạn nhưng giúp bạn giải phóng tinh thần; nhận ra những điều bạn bất lực nhưng nhấn mạnh những điều bạn có thể làm.",
+    "authorIdiom": "William Arthur Ward"
+  },
+  {
+    "idIdiom": "2865",
+    "contentIdiom": "Bạn là người ta cảm thấy thoải mái khi ở cùng, ta sẵn lòng trung thành, đem lại cho ta lời chúc phúc và ta cảm thấy biết ơn vì có họ trong đời.",
+    "authorIdiom": "William Arthur Ward"
+  },
+  {
+    "idIdiom": "2866",
+    "contentIdiom": "Ai cũng lắng nghe điều bạn phải nói. Bạn bè lắng nghe điều bạn nói. Bạn thân lắng nghe điều bạn không nói.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2867",
+    "contentIdiom": "Bạn bè là những người hiếm hoi hỏi han bạn và rồi chờ để nghe câu trả lời.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2868",
+    "contentIdiom": "Không có thứ gì gọi là \"người lạ\", chỉ có bạn bè mà ta chưa gặp mà thôi.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2869",
+    "contentIdiom": "Nghịch cảnh thử thách sự chân tình của bè bạn.",
+    "authorIdiom": "Aesop"
+  },
+  {
+    "idIdiom": "2870",
+    "contentIdiom": "Chúng ta là mặt trời và mặt trăng, bạn thân thiết của tôi; chúng ta là biển cả và đất liền. Mục đích của chúng ta không phải là trở thành nhau; mà là nhận thức nhau, học cách nhìn và tôn trọng đối phương vì con người thật của đối phương: ta đối lập nhau và hoàn thiện lẫn nhau.",
+    "authorIdiom": "Hermann Hesse"
+  },
+  {
+    "idIdiom": "2871",
+    "contentIdiom": "Không ai có thể hạnh phúc mà không có bạn bè, hay chắc chắn về bạn bè mình cho tới khi gặp bất hạnh.",
+    "authorIdiom": "Thomas Fuller"
+  },
+  {
+    "idIdiom": "2872",
+    "contentIdiom": "Tình bạn làm tăng hạnh phúc và làm dịu bất hạnh, bằng cách nhân đôi niềm vui và chia đôi nỗi buồn.",
+    "authorIdiom": "Marcus Tullius Cicero"
+  },
+  {
+    "idIdiom": "2873",
+    "contentIdiom": "Có ba người bạn trung thành: một người vợ tấm cám, một con chó nuôi từ bé và một số tiền dự trữ.",
+    "authorIdiom": "Benjamin Franklin"
+  },
+  {
+    "idIdiom": "2874",
+    "contentIdiom": "Một trong những bằng chứng rõ nét nhất cho tình bạn mà một người có thể dành cho người khác là nhẹ nhàng nói với bạn mình khuyết điểm của anh ta. Nếu có thứ gì hơn thế thì đấy chính là lắng nghe với sự biết ơn và sửa chữa sai lầm đó.",
+    "authorIdiom": "Edward Bulwer Lytton"
+  },
+  {
+    "idIdiom": "2875",
+    "contentIdiom": "Một người bạn là người mà ta có thể trút ra tất cả trái tim mình, trái tim đầy tro trấu, biết rằng những bàn tay dịu dàng nhất sẽ cầm lấy nó và sàng lọc, giữ lại những gì đáng giữ, và với hơi thở của lòng tốt, thổi đi tất cả những phần thừa.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2876",
+    "contentIdiom": "Luật của tình bạn nói rằng nên có sự cảm thông giữa hai bên, mỗi người bù vào điều đối phương thiếu, cố gắng làm đối phương có lợi, và luôn luôn sử dụng những ngôn từ thân thiện và chân tình.",
+    "authorIdiom": "Marcus Tullius Cicero"
+  },
+  {
+    "idIdiom": "2877",
+    "contentIdiom": "Chúng ta học được trong tình bạn rằng hãy nhìn bằng mắt của người khác, nghe bằng tai của người khác, và cảm nhận bằng trái tim của người khác.",
+    "authorIdiom": "Alfred Adler"
+  },
+  {
+    "idIdiom": "2878",
+    "contentIdiom": "Tôi có ba chiếc ghế trong nhà mình; cái thứ nhất cho sự cô độc, cái thứ hai cho tình bạn, cái thứ ba cho xã hội.",
+    "authorIdiom": "Henry David Thoreau"
+  },
+  {
+    "idIdiom": "2879",
+    "contentIdiom": "Ở đâu đó có người đang mơ về nụ cười của bạn, ở đâu đó có người cảm thấy sự có mặt của bạn là đáng giá, vì vậy khi bạn đang cô đơn, buồn rầu và ủ rũ, hãy nhớ rằng có ai đó, ở đâu đó đang nghĩ về bạn.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2880",
+    "contentIdiom": "Đôi khi bạn dựng lên những bức tường không phải để ngăn người khác ở bên ngoài, mà để xem ai đủ quan tâm phá vỡ chúng.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2881",
+    "contentIdiom": "Nước không có hương vị kích thích, nhưng là người, vĩnh viễn sẽ không ghét nước. Cũng như vậy, tình bạn chân thành vĩnh viễn không cần biểu lộ đặc biệt.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2882",
+    "contentIdiom": "Bạn là người hiểu được quá khứ của ta, tin vào tương lai ta và chấp nhận ta như chính bản thân ta.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2883",
+    "contentIdiom": "Đừng âu sầu khi nói lời tạm biệt, lời tạm biệt là cần thiết trước khi ta có thể gặp lại nhau, và gặp lại nhau, cho dù sau khoảng thời gian ngắn ngủi hay sau cả một đời, là điều chắc chắn sẽ xảy ra với những người bạn hữu.",
+    "authorIdiom": "Richard Bach"
+  },
+  {
+    "idIdiom": "2884",
+    "contentIdiom": "Không sự cách biệt về không gian hay thời gian nào có thể làm yếu đi tình bạn của những người thực tâm bị thuyết phục bởi giá trị của nhau.",
+    "authorIdiom": "Robert Southey"
+  },
+  {
+    "idIdiom": "2885",
+    "contentIdiom": "Hãy đếm tuổi của bạn bằng số bạn bè chứ không phải số năm. Hãy đếm cuộc đời bạn bằng nụ cười chứ không phải bằng nước mắt.",
+    "authorIdiom": "John Lennon"
+  },
+  {
+    "idIdiom": "2886",
+    "contentIdiom": "Thật tuyệt diệu khi hai người lạ trở thành bạn tốt của nhau, nhưng thật buồn khi hai người bạn tốt trở thành hai người lạ.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2887",
+    "contentIdiom": "Mất đi một người bạn cũng như mất đi một cánh tay. Thời gian có thể chữa lành nỗi đau, nhưng sự thiếu hụt không bao giờ được lấp đầy.",
+    "authorIdiom": "Robert Southey"
+  },
+  {
+    "idIdiom": "2888",
+    "contentIdiom": "Ai nói tốt về tôi sau lưng tôi chính là bạn của tôi.",
+    "authorIdiom": "Thomas Fuller"
+  },
+  {
+    "idIdiom": "2889",
+    "contentIdiom": "Bạn bè không phải là người đến trước hay là người quen biết đã lâu, mà là người đã tới rồi thì sẽ không bao giờ bỏ đi nữa.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2890",
+    "contentIdiom": "Câu hỏi không phải là liệu bạn có sẵn sàng chết vì bạn mình không, mà là bạn có người bạn nào đáng để mình chết không?",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2891",
+    "contentIdiom": "Chừng nào mà kỷ niệm về những người bạn thân thương vẫn sống trong tim tôi, tôi sẽ nói rằng đời tốt đẹp.",
+    "authorIdiom": "Helen Keller"
+  },
+  {
+    "idIdiom": "2892",
+    "contentIdiom": "Dù chúng ta đang ở đâu, chính bạn hữu đã tạo nên thế giới.",
+    "authorIdiom": "Henry Drummond"
+  },
+  {
+    "idIdiom": "2893",
+    "contentIdiom": "Đôi khi cảm giác bị bạn bè phản bội còn đáng sợ hơn rất nhiều khi người yêu phản bội.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2894",
+    "contentIdiom": "Đừng đi trước tôi; tôi có thể sẽ không theo. Đừng đi sau tôi; tôi có thể sẽ không dẫn lối. Hãy đi bên cạnh và trở thành bạn của tôi.",
+    "authorIdiom": "Albert Camus"
+  },
+  {
+    "idIdiom": "2895",
+    "contentIdiom": "Điều nhiều nhất tôi có thể làm được cho bạn mình là đơn thuần làm một người bạn.",
+    "authorIdiom": "Henry David Thoreau"
+  },
+  {
+    "idIdiom": "2896",
+    "contentIdiom": "Hãy chậm rãi khi chọn bạn và càng chậm hơn khi thay bạn.",
+    "authorIdiom": "Benjamin Franklin"
+  },
+  {
+    "idIdiom": "2897",
+    "contentIdiom": "Khoái cảm nhục dục sẽ trôi qua và biến mất, nhưng tình bạn giữa chúng ta, sự tin tưởng lẫn nhau, niềm vui sướng của con tim, sự say mê của tâm hồn, những điều này không tan đi và không thể bị phá hủy.",
+    "authorIdiom": "Voltaire"
+  },
+  {
+    "idIdiom": "2898",
+    "contentIdiom": "Mỗi người bạn đặt niềm tin vào đều coi như được bạn đưa tận tay một con dao. Với con dao, họ có thể bảo vệ bạn hoặc tiêu diệt bạn.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2899",
+    "contentIdiom": "Một số người chỉ gặp bạn khi có thời gian rảnh, một số người tạo thời gian rảnh chỉ để gặp bạn.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2900",
+    "contentIdiom": "Một người bạn có thể nói với ta những lời mà chính ta cũng không dám nói với bản thân mình.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2901",
+    "contentIdiom": "Một người bạn cũng giống như ngôi sao bắc đẩu, bạn trông vào họ khi bạn lạc đường.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2902",
+    "contentIdiom": "Một ngày cho công việc cực nhọc, một giờ cho thể thao, cả cuộc đời cho bạn bè vẫn còn quá ngắn ngủi.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2903",
+    "contentIdiom": "Người bạn thật sự không phải là người đến với bạn đầu tiên hay người bạn biết lâu nhất. Đó là người đến bên bạn và không bao giờ bỏ rơi bạn.",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2904",
+    "contentIdiom": "Nếu quy luật đầu tiên của tình bạn là phải vun đắp nó thì quy luật thứ hai là phải độ lượng khi quy luật thứ nhất bị sao nhãng.",
+    "authorIdiom": "Vontaire"
+  },
+  {
+    "idIdiom": "2905",
+    "contentIdiom": "Ở ngôi đền Tình bạn, đừng bao giờ nói từ chết; hãy để ly rượu tình bạn không bao giờ cạn.",
+    "authorIdiom": "Victor Hugo"
+  },
+  {
+    "idIdiom": "2906",
+    "contentIdiom": "Nhiều người sẽ bước qua cuộc đời bạn, nhưng chỉ vài người để lại dấu chân trong tim bạn.",
+    "authorIdiom": "Eleanor Roosevelt"
+  },
+  {
+    "idIdiom": "2907",
+    "contentIdiom": "Rất dễ dàng để nói “Tớ đang bận” khi ai đó đang cần bạn. Nhưng chỉ khi chính bạn phải nghe ba từ đó, lúc bạn đang cần một người để sẻ chia, bạn sẽ hiểu được sự đau đớn đến thế nào?",
+    "authorIdiom": "Khuyết Danh"
+  },
+  {
+    "idIdiom": "2908",
+    "contentIdiom": "Tình bạn luôn luôn là dầu xoa dịu tốt nhất cho nỗi đau vì thất vọng trong tình yêu.",
+    "authorIdiom": "Zig Ziglar"
+  },
+  {
+    "idIdiom": "2909",
+    "contentIdiom": "Tình bạn là Tình yêu không có cánh!",
+    "authorIdiom": "Lord Byron"
+  },
+  {
+    "idIdiom": "2911",
+    "contentIdiom": "Tình bạn thực sự có thể mang lại tri thức thực sự. Nó không phụ thuộc vào bóng tối hay sự ngu dốt.",
+    "authorIdiom": "Henry David Thoreau"
+  },
+  {
+    "idIdiom": "2912",
+    "contentIdiom": "Trách bạn kín đáo nhưng khen bạn công khai.",
+    "authorIdiom": "Publilius Syrus"
+  },
+  {
+    "idIdiom": "2913",
+    "contentIdiom": "Tình bạn là món quà trân bảo, và mỗi khi tôi nói chuyện với bạn, tôi cảm thấy mình đã trở nên giàu có hơn.",
+    "authorIdiom": "Albert Camus"
+  },
+  {
+    "idIdiom": "2914",
+    "contentIdiom": "Tình bạn làm tăng hạnh phúc và làm dịu bất hạnh, bằng cách nhân đôi niềm vui và chia đôi đau buồn.",
+    "authorIdiom": "Marcus Tullius Cicero"
+  },
+  {
+    "idIdiom": "2915",
+    "contentIdiom": "Tình bạn của một người là thước đo tốt nhất giá trị của anh ta.",
+    "authorIdiom": "Charles Darwin"
+  },
+  {
+    "idIdiom": "2916",
+    "contentIdiom": "Thử thách của tình bạn là sự trợ giúp lẫn nhau trong nghịch cảnh, và hơn thế, trợ giúp vô điều kiện.",
+    "authorIdiom": "Mahatma Gandhi"
+  },
+  {
+    "idIdiom": "2917",
+    "contentIdiom": "Giúp bạn bè khi họ cần thật dễ dàng, nhưng dành cho họ thời gian không phải lúc nào cũng thuận lợi.",
+    "authorIdiom": "Charlie Chaplin"
+  },
+  {
+    "idIdiom": "2918",
+    "contentIdiom": "Một trong những hạnh phúc lớn lao nhất trên đời là tình bạn; và một trong những hạnh phúc của tình bạn là có người để thổ lộ tâm sự riêng tư.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2919",
+    "contentIdiom": "Sự giàu sang tạo nên bạn bè và sự hoạn nạn thử thách họ.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2920",
+    "contentIdiom": "Tình vợ chồng làm nên nhân loại, tình bằng hữu hoàn thiện nhân loại, nhưng tình phóng đãng làm băng hoại và hạ thấp nhân loại.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2921",
+    "contentIdiom": "Đau đớn biết bao khi một người bạn ra đi - và chỉ để lại sau lưng sự im lặng.",
+    "authorIdiom": "Pam Brown"
+  },
+  {
+    "idIdiom": "2922",
+    "contentIdiom": "Phần lớn sức sống của tình bạn nằm trong việc tôn trọng sự khác biệt, không chỉ đơn giản là thưởng thức sự tương đồng.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2923",
+    "contentIdiom": "Hoàn toàn có thể xảy ra chuyện hai người khác biệt cực lớn về sở thích, quan điểm, thói quen, sự giáo dục và rèn luyện, bối cảnh và niềm tin vẫn có thể vui vẻ ở bên nhau theo nhiều cách. Đúng thế, sự đa dạng về tình bạn thực sự làm cuộc đời trở nên phong phú. Tìm hiểu về những điểm tốt của người không giống mình - giá trị của họ, sự chân thành của họ, trái tim và trí tuệ tốt lành của họ, điều hay khi ở cùng họ - rất thú vị và bổ ích. Thật tuyệt vời khi quen biết rộng rãi những người bạn có thể trông cậy, những người bạn có thể yêu thương, tin tưởng và vui vẻ khi ở bên. Đó chính là ý nghĩa của tình bạn.",
+    "authorIdiom": "Richard L Evans"
+  },
+  {
+    "idIdiom": "2925",
+    "contentIdiom": "Hãy nâng niu thời gian bạn có và những kỷ niệm chung... Làm bạn ai đó không phải là cơ hội mà là trách nhiệm ngọt ngào.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2926",
+    "contentIdiom": "Chừng nào mà kỷ niệm về những người bạn thân thương vẫn sống trong tim tôi, tôi sẽ nói rằng đời tốt đẹp.",
+    "authorIdiom": "Helen Keller"
+  },
+  {
+    "idIdiom": "2927",
+    "contentIdiom": "Hãy nhớ tới tôi và cười, bởi thà quên tôi đi còn hơn nhớ tới tôi và khóc.",
+    "authorIdiom": "Dr Seuss"
+  },
+  {
+    "idIdiom": "2928",
+    "contentIdiom": "Nghịch cảnh không chỉ kéo con người lại gần nhau mà còn làm nảy sinh thứ tình bạn nội tâm đẹp đẽ.",
+    "authorIdiom": "Soren Kierkegaard"
+  },
+  {
+    "idIdiom": "2929",
+    "contentIdiom": "Một nụ hôn phá tan khoảng cách giữa tình bạn và tình yêu.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2931",
+    "contentIdiom": "Tôi mừng vì chúng ta có thời gian ở bên nhau chỉ để cười và hát một bài hát, dường như chúng ta vừa mới bắt đầu, và trước khi bạn nhận ra, thời gian ta ở bên nhau đã trôi qua.",
+    "authorIdiom": "Dr Seuss"
+  },
+  {
+    "idIdiom": "2932",
+    "contentIdiom": "Tình yêu thật sự đã hiếm, tình bạn thật sự còn hiếm hơn.",
+    "authorIdiom": "La Fontaine"
+  },
+  {
+    "idIdiom": "2933",
+    "contentIdiom": "Tình bạn có thể và thường phát triển thành tình yêu, nhưng tình yêu thì không bao giờ dịu đi thành tình bạn.",
+    "authorIdiom": "Lord Byron"
+  },
+  {
+    "idIdiom": "2934",
+    "contentIdiom": "Tôi thấy tình bạn quí hơn tình yêu vì tình bạn có khả năng làm hồi sinh một cơn hôn mê và làm phục sinh một cuộc đời tưởng rằng không còn tái tạo được nữa.",
+    "authorIdiom": "Trịnh Công Sơn"
+  },
+  {
+    "idIdiom": "2935",
+    "contentIdiom": "Tình bạn luôn luôn là dầu xoa dịu tốt nhất cho nỗi đau vì thất vọng trong tình yêu.",
+    "authorIdiom": "Jane Austen"
+  },
+  {
+    "idIdiom": "2936",
+    "contentIdiom": "Kinh doanh, bạn biết đấy, có thể mang cho bạn tiền bạc, nhưng tình bạn thì hiếm khi nào.",
+    "authorIdiom": "Jane Austen"
+  },
+  {
+    "idIdiom": "2937",
+    "contentIdiom": "Khen ngợi tôi, và tôi có thể sẽ không tin bạn. \r\nChỉ trích tôi, và tôi có thể sẽ không thích bạn. \r\nTảng lờ tôi, và tôi có thể sẽ không tha thứ cho bạn. \r\nKhuyến khích tôi, và tôi có thể sẽ không quên bạn. \r\nYêu mến tôi, và tôi có thể sẽ bị buộc phải yêu mến bạn.",
+    "authorIdiom": "William Arthur Ward"
+  },
+  {
+    "idIdiom": "2938",
+    "contentIdiom": "Trong sự cô đơn, trong đau ốm, trong bối rối - nhận thức về tình bạn khiến ta có thể bước tiếp, thậm chí ngay cả khi bạn ta bất lực không thể giúp ta. Họ ở đó là đủ rồi. Tình bạn không phai nhạt bởi không gian hay thời gian, bởi sự giam cầm của chiến tranh, bởi khổ đau hay sự im lặng. Chính trong những thứ đó mà nó bắt rễ sâu nhất. Chính từ những thứ đó mà nó nở hoa.",
+    "authorIdiom": "Pam Brown"
+  },
+  {
+    "idIdiom": "2939",
+    "contentIdiom": "Cùng bước với một người bạn trong bóng tối tốt hơn là bước một mình trong ánh sáng.",
+    "authorIdiom": "Helen Keller"
+  },
+  {
+    "idIdiom": "2940",
+    "contentIdiom": "Tình bạn tươi tốt bên suối nguồn tha thứ.",
+    "authorIdiom": "William Arthur Ward"
+  },
+  {
+    "idIdiom": "2941",
+    "contentIdiom": "Cách duy nhất để có một người bạn là hãy làm một người bạn.",
+    "authorIdiom": "Ralph Waldo Emerson"
+  },
+  {
+    "idIdiom": "2942",
+    "contentIdiom": "Nếu tất cả bạn bè tôi nhảy khỏi cây cầu, tôi sẽ không theo đâu, tôi sẽ là người ở bên dưới để đón họ khi họ rơi xuống.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2943",
+    "contentIdiom": "Cho dù chúng ta đã thay đổi và đều tìm được chỗ của mình trên thế giới này, chúng ta đều biết khi lệ rơi và nụ cười lan tỏa trên gương mặt, chúng ta sẽ đến với nhau, vì dù thế giới điên cuồng này có đưa ta đến đâu, không gì sẽ thay đổi tới mức chúng ta không còn là bạn nữa.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2944",
+    "contentIdiom": "Bạn trong cơn hoạn nạn mới là bạn chân tình.",
+    "authorIdiom": "Ngạn ngữ"
+  },
+  {
+    "idIdiom": "2945",
+    "contentIdiom": "Trong bạn, tôi tìm thấy một nửa bản thân tôi.",
+    "authorIdiom": "Isabel Burton"
+  },
+  {
+    "idIdiom": "2946",
+    "contentIdiom": "Bạn bè là người biết lời hát trong trái tim bạn và có thể hát lại nó cho bạn nghe dù bạn đã quên lời.",
+    "authorIdiom": "Khuyết danh"
+  },
+  {
+    "idIdiom": "2947",
+    "contentIdiom": "Tình bạn giống như sức khỏe tốt, giá trị của nó ít được nhận ra cho tới khi nó đã bị đánh mất.",
+    "authorIdiom": "Khuyết danh"
+  }
+]
